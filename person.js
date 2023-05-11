@@ -1,3 +1,14 @@
+[
+  {
+    name: "Николай Лебедев",
+  },
+  {
+    name: "Сергей Кемпо",
+  },
+  {
+    name: "Любовь Аксёнова",
+  },
+];
 const data = [
   {
     avatars:
@@ -7071,14 +7082,39 @@ const data = [
     text: "",
   },
 ];
+// function getNames(data) {
+//   const names = [];
 
-function addDirectorId(films) {
-  films.forEach((film) => {
-    film.director_id = Math.floor(Math.random() * 900) + 1;
+//   data.forEach((movie) => {
+//     const actors = movie.roles.split(", ");
+
+//     names.push({ name: movie.director });
+//     actors.forEach((actor) => {
+//       names.push({ name: actor });
+//     });
+//   });
+
+//   return names;
+// }
+
+function getNames(data) {
+  const namesSet = new Set();
+
+  data.forEach((movie) => {
+    const actors = movie.roles.split(", ");
+    actors.forEach((actor) => {
+      namesSet.add(actor);
+    });
+
+    namesSet.add(movie.director);
   });
 
-  return films;
+  const names = Array.from(namesSet, (name) => ({ name }));
+
+  return names;
 }
-const data2 = addDirectorId(data);
-const json = JSON.stringify(data2);
-console.log(json);
+
+const person = getNames(data);
+
+const jsonPerson = JSON.stringify(person);
+console.log(jsonPerson);
