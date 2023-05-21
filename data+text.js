@@ -7074,11 +7074,18 @@ const data = [
 
 function addDirectorId(films) {
   films.forEach((film) => {
+    delete film.genre;
+    delete film.country;
+    delete film.roles;
+    delete film.director;
     film.director_id = Math.floor(Math.random() * 900) + 1;
+    film.promo = "";
+    film.genre_id = Math.floor(Math.random() * 21) + 1;
+    film.country_id = Math.floor(Math.random() * 22) + 1;
   });
-
   return films;
 }
+
 const data2 = addDirectorId(data);
 const json = JSON.stringify(data2);
 console.log(json);
