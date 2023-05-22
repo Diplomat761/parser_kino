@@ -21,7 +21,9 @@ const parser = async () => {
 
   const bd = [];
   const k = async (page, bd, i) => {
-    await page.goto(`https://www.kinopoisk.ru/film/500${i}`);
+    await page.goto(
+      `https://www.kinopoisk.ru/s/type/people/list/1/order/relevant/m_act[location]/%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/m_act[work]/actor/perpage/200/`
+    );
     const parentElNames = await page.evaluate(() => {
       let columns = [];
 

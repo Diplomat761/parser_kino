@@ -57,7 +57,7 @@ const parser = async () => {
       const avatars = [];
 
       let avatarsArray = Array.from(
-        document.querySelectorAll("img.styles_root__DZigd"),
+        document.querySelectorAll("a.js-serp-metrika>img"),
         (el) => el.getAttribute("src")
       );
 

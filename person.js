@@ -7071,20 +7071,7 @@ const data = [
     text: "",
   },
 ];
-// function getNames(data) {
-//   const names = [];
 
-//   data.forEach((movie) => {
-//     const actors = movie.roles.split(", ");
-
-//     names.push({ name: movie.director });
-//     actors.forEach((actor) => {
-//       names.push({ name: actor });
-//     });
-//   });
-
-//   return names;
-// }
 
 function getNames(data) {
   const namesSet = new Set();
