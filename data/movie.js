@@ -9,11 +9,14 @@ const data = [
     durations: "124 мин",
     description:
       "История начинается 30 апреля 1945 года. Главным героем фильма является капитан Игорь Волгин. Он принимает участие в штурме Берлина и во время передышки вспоминает своего брата Николая, исчезнувшего еще в 1942 году. Несмотря на это, он дает клятву любой ценой его найти.",
-    director_id: 497,
+    director_id: 175,
     promo:
       "thumbs.dfs.ivi.ru/storage5/contents/f/6/e9a5c19056bd6b9826c35733be0a5a.jpg/1216x524/?q=85",
     genre_id: 7,
     country_id: 1,
+    count_rating: 608,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -25,11 +28,14 @@ const data = [
     durations: "91 мин",
     description:
       "Ночь. Возле офиса микрокредитной организации останавливается фургон. Рядом припаркован патрульный автомобиль, в котором сидит офицер полиции (инспектор Ян Цвик). Он разговаривает с водителем фургона (Миллер Грэм). Коп интересуется: кто это с тобой? Это свой человек, Кевин Рейес. Ладно. Там внутри ремонт идет, так что за сигнализацию можешь не беспокоиться. А если придет вызов из участка – я все улажу.",
-    director_id: 512,
+    director_id: 18,
     promo:
       "thumbs.dfs.ivi.ru/storage8/contents/e/b/d3bee58e314d16cb641300c41f2cd6.jpg/1216x524/?q=85",
     genre_id: 3,
     country_id: 16,
+    count_rating: 685,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -41,11 +47,14 @@ const data = [
     durations: "77 мин",
     description:
       "История начинается на необитаемом острове, куда приплывает кот Винсент. Ранее он был домашним животным капитана небольшого судна, но его смыло волной.",
-    director_id: 543,
+    director_id: 46,
     promo:
       "thumbs.dfs.ivi.ru/storage15/contents/9/e/1d55ae079d13e80bd240ae65f93559.jpg/1216x524/?q=85",
     genre_id: 14,
     country_id: 18,
+    count_rating: 307,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -57,15 +66,18 @@ const data = [
     durations: "102 мин",
     description:
       "Действие фильма разворачивается в Италии. В будущем рост преступности заставил правительство усовершенствовать пенитенциарную систему, ведь переполненные тюрьмы больше не способны сдерживать осужденных. Теперь заключенных погружают в состояние гиперсна. Это позволяет сделать их более безобидными.",
-    director_id: 134,
+    director_id: 31,
     promo:
       "thumbs.dfs.ivi.ru/storage15/contents/a/a/1993c4846c11f73f5590b85fb6e1ac.jpg/1216x524/?q=85",
     genre_id: 6,
     country_id: 1,
+    count_rating: 211,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
-      "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/55c1b347-ab1d-431b-bb42-323ce0ab3af7/600x900",
+      "avatars.mds.yandex.net/get-kinopoisk-image/6201401/55c1b347-ab1d-431b-bb42-323ce0ab3af7/600x900",
     name: "На солнце, вдоль рядов кукурузы",
     original_name: "На солнце, вдоль рядов кукурузы",
     rating: "8.4",
@@ -73,11 +85,14 @@ const data = [
     durations: "89 мин",
     description:
       "Аэродром. В ангар, где стоят вертолеты, заходит летчик (Касим Юсупов) и его маленький сын Дамир. Отец говорит, что на время полета он оставит паренька на попечение механиков. В ангар входит командир экипажа. Почему ты его оставить хочешь? Он уже совсем большой, полетит с нами. Дамир сидит в кабине винтокрылой машины рядом с отцом, смотрит вниз: вертолет поднимается в небо.",
-    director_id: 234,
+    director_id: 194,
     promo:
       "thumbs.dfs.ivi.ru/storage5/contents/f/d/c97206e2f92e9b928906338d62f2bf.jpg/1216x524/?q=85",
     genre_id: 15,
     country_id: 19,
+    count_rating: 945,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -89,10 +104,13 @@ const data = [
     durations: "112 мин",
     description:
       " Пострадав в результате несчастного случая, богатый аристократ Филипп нанимает в помощники человека, который менее всего подходит для этой работы, – молодого жителя предместья Дрисса, только что освободившегося из тюрьмы. Несмотря на то, что Филипп прикован к инвалидному креслу, Дриссу удается привнести в размеренную жизнь аристократа дух приключений.",
-    director_id: 116,
+    director_id: 114,
     promo: "",
     genre_id: 1,
     country_id: 1,
+    count_rating: 358,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -104,10 +122,13 @@ const data = [
     durations: "113 мин",
     description:
       "Один ушлый американец ещё со студенческих лет приторговывал наркотиками, а теперь придумал схему нелегального обогащения с использованием поместий обедневшей английской аристократии и очень неплохо на этом разбогател. Другой пронырливый журналист приходит к Рэю, правой руке американца, и предлагает тому купить киносценарий, в котором подробно описаны преступления его босса при участии других представителей лондонского криминального мира — партнёра-еврея, китайской диаспоры, чернокожих спортсменов и даже русского олигарха.",
-    director_id: 228,
+    director_id: 78,
     promo: "",
     genre_id: 1,
     country_id: 6,
+    count_rating: 442,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -118,11 +139,14 @@ const data = [
     years: "2013",
     durations: "180 мин",
     description:
-      "1987 год. Джордан Белфорт становится брокером в успешном инвестиционном банке. Вскоре банк закрывается после внезапного обвала индекса Доу-Джонса. По совету жены Терезы Джордан устраивается в небольшое заведение, занимающееся мелкими акциями. Его настойчивый стиль общения с клиентами и врождённая харизма быстро даёт свои плоды. Он знакомится с соседом по дому Донни, торговцем, который сразу находит общий язык с Джорданом и решает открыть с ним собственную фирму. В качестве сотрудников они нанимают нескольких друзей Белфорта, его отца Макса и называют компанию «Стрэттон Оукмонт». В свободное от работы время Джордан прожигает жизнь: лавирует от одной вечеринки к другой, вступает в сексуальные отношения с проститутками, употребляет множество наркотических препаратов, в том числе кокаин и кваалюд. Однажды наступает момент, когда быстрым обогащением Белфорта начинает интересоваться агент ФБР...",
-    director_id: 139,
+      "1987 год. Джордан Белфорт становится брокером в успешном инвестиционном банке. Вскоре банк закрывается после внезапного обвала индекса Доу-Джонса. По совету жены Терезы Джордан устраивается в небольшое заведение, занимающееся мелкими акциям��. Его настойчивый стиль общения с клиентами и врождённая харизма быстро да��т свои плоды. Он знакомится с соседом по дому Донни, торговцем, который сразу находит общий язык с Джорданом и решает открыть с ним собственную фирму. В качестве сотрудников они нанимают нескольких друзей Белфорта, его отца Макса и называют компанию «Стрэттон Оукмонт». В свободное от работы время Джордан прожигает жизнь: лавирует от одной вечеринки к другой, вступает в сексуальные отношения с проститутками, употребляет множество наркотических препаратов, в том числе кокаин и кваалюд. Однажды наступает момент, когда быстрым обогащением Белфорта начинает интересоваться агент ФБР...",
+    director_id: 29,
     promo: "",
     genre_id: 18,
     country_id: 19,
+    count_rating: 627,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -134,10 +158,13 @@ const data = [
     durations: "119 мин",
     description:
       "Грузовики лос-анджелесской инкассаторской компании Fortico Security часто подвергаются нападениям, и во время очередного ограбления погибают оба охранника. Через некоторое время в компанию устраивается крепкий немногословный британец Патрик Хилл. Он получает от босса прозвище Эйч и, впритык к необходимому минимуму пройдя тесты по фитнесу, стрельбе и вождению, отправляется на первое задание. Вскоре и его грузовик пытаются ограбить вооруженные налётчики, но Эйч в одиночку расправляется с целой бандой и становится героем. Кажется, слава и уважение коллег его совершенно не интересуют, ведь он преследует свои цели.",
-    director_id: 399,
+    director_id: 69,
     promo: "",
     genre_id: 16,
     country_id: 20,
+    count_rating: 39,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -149,10 +176,13 @@ const data = [
     durations: "100 мин",
     description:
       "Демобилизовавшись, Данила Багров вернулся в родной городок. Но скучная жизнь российской провинции не устраивала его, и он решился податься в Петербург, где, по слухам, уже несколько лет процветает его старший брат. Данила нашел брата. Но все оказалось не так просто — брат работает наемным убийцей.",
-    director_id: 45,
+    director_id: 170,
     promo: "",
     genre_id: 9,
     country_id: 4,
+    count_rating: 495,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -164,10 +194,13 @@ const data = [
     durations: "103 мин",
     description:
       "Американское семейство отправляется из Чикаго в Европу, но в спешке сборов бестолковые родители забывают дома... одного из своих детей. Юное создание, однако, не теряется и демонстрирует чудеса изобретательности. И когда в дом залезают грабители, им приходится не раз пожалеть о встрече с милым крошкой.",
-    director_id: 162,
+    director_id: 39,
     promo: "",
     genre_id: 11,
     country_id: 12,
+    count_rating: 183,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -179,10 +212,13 @@ const data = [
     durations: "162 мин",
     description:
       "Бывший морпех Джейк Салли прикован к инвалидному креслу. Несмотря на немощное тело, Джейк в душе по-прежнему остается воином. Он получает задание совершить путешествие в несколько световых лет к базе землян на планете Пандора, где корпорации добывают редкий минерал, имеющий огромное значение для выхода Земли из энергетического кризиса.",
-    director_id: 226,
+    director_id: 197,
     promo: "",
     genre_id: 17,
     country_id: 17,
+    count_rating: 478,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -194,10 +230,13 @@ const data = [
     durations: "142 мин",
     description:
       "Бухгалтер Энди Дюфрейн обвинён в убийстве собственной жены и её любовника. Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решётки. Каждый, кто попадает в эти стены, становится их рабом до конца жизни. Но Энди, обладающий живым умом и доброй душой, находит подход как к заключённым, так и к охранникам, добиваясь их особого к себе расположения.",
-    director_id: 738,
+    director_id: 65,
     promo: "",
     genre_id: 11,
     country_id: 17,
+    count_rating: 563,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -209,10 +248,13 @@ const data = [
     durations: "148 мин",
     description:
       "Кобб – талантливый вор, лучший из лучших в опасном искусстве извлечения: он крадет ценные секреты из глубин подсознания во время сна, когда человеческий разум наиболее уязвим. Редкие способности Кобба сделали его ценным игроком в привычном к предательству мире промышленного шпионажа, но они же превратили его в извечного беглеца и лишили всего, что он когда-либо любил.",
-    director_id: 80,
+    director_id: 177,
     promo: "",
     genre_id: 12,
     country_id: 11,
+    count_rating: 920,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -223,11 +265,14 @@ const data = [
     years: "1999",
     durations: "189 мин",
     description:
-      "Пол Эджкомб — начальник блока смертников в тюрьме «Холодная гора», каждый из узников которого однажды проходит «зеленую милю» по пути к месту казни. Пол повидал много заключённых и надзирателей за время работы. Однако гигант Джон Коффи, обвинённый в страшном преступлении, стал одним из самых необычных обитателей блока.",
-    director_id: 212,
+      "Пол Эджкомб — начальник блока смертников в тюрьме «Холодная гора», каждый из узников которого однажды проходит «зеленую милю» по пути к месту казни. Пол повидал много заключённых и надзирателей за время работы. Од��ако гигант Джон Коффи, обвинённый в страшном преступлении, стал одним из самых необычных обитателей блока.",
+    director_id: 5,
     promo: "",
     genre_id: 19,
     country_id: 18,
+    count_rating: 556,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -239,10 +284,13 @@ const data = [
     durations: "108 мин",
     description:
       "Добро пожаловать в Зверополис – современный город, населенный самыми разными животными, от огромных слонов до крошечных мышек. Зверополис разделен на районы, полностью повторяющие естественную среду обитания разных жителей – здесь есть и элитный район Площадь Сахары и неприветливый Тундратаун. В этом городе появляется новый офицер полиции, жизнерадостная зайчиха Джуди Хоппс, которая с первых дней работы понимает, как сложно быть м��ленькой и пушистой среди больших и сильных полицейских. Джуди хватается за первую же возможность проявить себя, несмотря на то, что ее партнером будет болтливый хитрый лис Ник Уайлд. Вдвоем им предстоит раскрыть сложное дело, от которого будет зависеть судьба всех обитателей Зверополиса.",
-    director_id: 614,
+    director_id: 63,
     promo: "",
     genre_id: 11,
     country_id: 22,
+    count_rating: 822,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -254,10 +302,13 @@ const data = [
     durations: "88 мин",
     description:
       "Инженер-изобретатель Тимофеев сконструировал машину времени, которая соединила его квартиру с далеким шестнадцатым веком - точнее, с палатами государя Ивана Грозного. Туда-то и попадают тезка царя пенсионер-общественник Иван Васильевич Бунша и квартирный вор Жорж Милославский.",
-    director_id: 142,
+    director_id: 15,
     promo: "",
     genre_id: 1,
     country_id: 18,
+    count_rating: 496,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -269,10 +320,13 @@ const data = [
     durations: "55 мин",
     description:
       "К концу подходит время благоденствия, и лето, длившееся почти десятилетие, угасает. Вокруг средоточия власти Семи королевств, Железного трона, зреет заговор, и в это непростое время король решает искать поддержки у друга юности Эддарда Старка. В мире, где все — от короля до наемника — рвутся к власти, плетут интриги и готовы вонзить нож в спину, есть место и благородству, состраданию и любви. Между тем никто не замечает пробуждение тьмы из легенд далеко на Севере — и лишь Стена защищает живых к югу от нее.",
-    director_id: 790,
+    director_id: 110,
     promo: "",
     genre_id: 12,
     country_id: 8,
+    count_rating: 91,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -284,10 +338,13 @@ const data = [
     durations: "143 мин",
     description:
       "Жизнь харизматичного авантюриста, капитана Джека Воробья, полная увлекательных приключений, резко меняется, когда его заклятый враг капитан Барбосса похищает корабль Джека Черную Жемчужину, а затем нападает на Порт Ройал и крадет прекрасную дочь губернатора Элизабет Свонн.",
-    director_id: 431,
+    director_id: 132,
     promo: "",
     genre_id: 19,
     country_id: 9,
+    count_rating: 80,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -299,10 +356,13 @@ const data = [
     durations: "130 мин",
     description:
       "На следующее утро после празднования 85-летия известного автора криминальных романов Харлана Тромби виновника торжества находят мёртвым. Налицо — явное самоубийство, но полиция по протоколу опрашивает всех присутствующих в особняке членов семьи, хотя, в этом деле больше заинтересован частный детектив Бенуа Блан. Тем же утром он получил конверт с наличными от неизвестного и заказ на расследование смерти Харлана. Не нужно быть опытным следователем, чтобы понять, что все приукрашивают свои отношения с почившим главой семейства, но Блану достаётся настоящий подарок — медсестра покойного, которая физически не выносит ложь.",
-    director_id: 107,
+    director_id: 142,
     promo: "",
     genre_id: 12,
     country_id: 15,
+    count_rating: 417,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -314,10 +374,13 @@ const data = [
     durations: "152 мин",
     description:
       "Жизнь десятилетнего Гарри Поттера нельзя назвать сладкой: родители умерли, едва ему исполнился год, а от дяди и тёти, взявших сироту на воспитание, достаются лишь тычки да подзатыльники. Но в одиннадцатый день рождения Гарри всё меняется. Странный гость, неожиданно появившийся на пороге, приносит письмо, из которого мальчик узнаёт, что на самом деле он - волшебник и зачислен в школу магии под названием Хогвартс. А уже через пару недель Гарри будет мчаться в поезде Хогвартс-экспресс навстречу новой жизни, где его ждут невероятные приключения, верные друзья и самое главное — ключ к разгадке тайны смерти его родителей.",
-    director_id: 176,
+    director_id: 57,
     promo: "",
     genre_id: 8,
     country_id: 11,
+    count_rating: 780,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -329,10 +392,13 @@ const data = [
     durations: "169 мин",
     description:
       "Когда засуха, пыльные бури и вымирание растений приводят человечество к продовольственному кризису, коллектив исследователей и учёных отправляется сквозь червоточину (которая предположительно соединяет области пространства-времени через большое расстояние) в путешествие, чтобы превзойти прежние ограничения для космических путешествий человека и найти планету с подходящими для человечества условиями.",
-    director_id: 181,
+    director_id: 5,
     promo: "",
     genre_id: 3,
     country_id: 19,
+    count_rating: 697,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -344,10 +410,13 @@ const data = [
     durations: "127 мин",
     description:
       "Участвуя в программе на телевидении, Данила Багров встречает своих друзей по службе в Чечне. Одного из них внезапно убивают. Выясняется, что у того были неприятности из-за брата-хок��еиста в Америке. Данила должен разобраться. Он вылетает в Америку и за компанию берёт с собой старшего брата.",
-    director_id: 374,
+    director_id: 184,
     promo: "",
     genre_id: 12,
     country_id: 8,
+    count_rating: 328,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -359,10 +428,13 @@ const data = [
     durations: "139 мин",
     description:
       "Участвуя в программе на телевидении, Данила Багров встречает своих друзей по службе в Чечне. Одного из них внезапно убивают. Выясняется, что у того были неприятности из-за брата-хоккеиста в Америке. Данила должен разобраться. Он вылетает в Америку и за компанию берёт с собой старшего брата.",
-    director_id: 255,
+    director_id: 21,
     promo: "",
     genre_id: 6,
     country_id: 14,
+    count_rating: 405,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -374,10 +446,13 @@ const data = [
     durations: "142 мин",
     description:
       "Сидя на автобусной остановке, Форрест Гамп — не очень умный, но добрый и открытый парень — рассказывает случайным встречным историю своей необыкновенной жизни.",
-    director_id: 139,
+    director_id: 188,
     promo: "",
     genre_id: 15,
     country_id: 15,
+    count_rating: 565,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -389,10 +464,13 @@ const data = [
     durations: "95 мин",
     description:
       "Студент Шурик попадает в самые невероятные ситуации: сражается с хулиганом Верзилой, весьма оригинальным способом готовится к экзамену и предотвращает «ограбление века», на которое идёт троица бандитов — Балбес, Трус и Бывалый.",
-    director_id: 383,
+    director_id: 25,
     promo: "",
     genre_id: 21,
     country_id: 19,
+    count_rating: 739,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -403,10 +481,13 @@ const data = [
     years: "2018",
     durations: "130 мин",
     description: "",
-    director_id: 374,
+    director_id: 72,
     promo: "",
     genre_id: 14,
     country_id: 9,
+    count_rating: 604,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -417,10 +498,13 @@ const data = [
     years: "2013–...",
     durations: "23 мин",
     description: "",
-    director_id: 405,
+    director_id: 72,
     promo: "",
     genre_id: 20,
     country_id: 22,
+    count_rating: 214,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -431,10 +515,13 @@ const data = [
     years: "1984",
     durations: "107 мин",
     description: "",
-    director_id: 861,
+    director_id: 62,
     promo: "",
     genre_id: 3,
     country_id: 14,
+    count_rating: 163,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -445,10 +532,13 @@ const data = [
     years: "2009",
     durations: "138 мин",
     description: "",
-    director_id: 850,
+    director_id: 54,
     promo: "",
     genre_id: 15,
     country_id: 22,
+    count_rating: 848,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -459,10 +549,13 @@ const data = [
     years: "2018",
     durations: "149 мин",
     description: "",
-    director_id: 423,
+    director_id: 21,
     promo: "",
     genre_id: 8,
     country_id: 13,
+    count_rating: 47,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -473,10 +566,13 @@ const data = [
     years: "2018–...",
     durations: "52 мин",
     description: "",
-    director_id: 565,
+    director_id: 90,
     promo: "",
     genre_id: 10,
     country_id: 11,
+    count_rating: 398,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -487,10 +583,13 @@ const data = [
     years: "1997",
     durations: "194 мин",
     description: "",
-    director_id: 711,
+    director_id: 116,
     promo: "",
     genre_id: 4,
     country_id: 5,
+    count_rating: 572,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -501,10 +600,13 @@ const data = [
     years: "2018",
     durations: "112 мин",
     description: "",
-    director_id: 141,
+    director_id: 5,
     promo: "",
     genre_id: 1,
     country_id: 15,
+    count_rating: 739,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -515,10 +617,13 @@ const data = [
     years: "2019",
     durations: "181 мин",
     description: "",
-    director_id: 49,
+    director_id: 57,
     promo: "",
     genre_id: 15,
     country_id: 20,
+    count_rating: 404,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -529,10 +634,13 @@ const data = [
     years: "2022",
     durations: "50 мин",
     description: "",
-    director_id: 211,
+    director_id: 105,
     promo: "",
     genre_id: 15,
     country_id: 10,
+    count_rating: 122,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -543,10 +651,13 @@ const data = [
     years: "2014–...",
     durations: "52 мин",
     description: "",
-    director_id: 222,
+    director_id: 198,
     promo: "",
     genre_id: 15,
     country_id: 6,
+    count_rating: 50,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -557,10 +668,13 @@ const data = [
     years: "1994",
     durations: "154 мин",
     description: "",
-    director_id: 495,
+    director_id: 92,
     promo: "",
     genre_id: 2,
     country_id: 15,
+    count_rating: 442,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -571,10 +685,13 @@ const data = [
     years: "2014",
     durations: "121 мин",
     description: "",
-    director_id: 374,
+    director_id: 150,
     promo: "",
     genre_id: 1,
     country_id: 4,
+    count_rating: 75,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -585,10 +702,13 @@ const data = [
     years: "2021",
     durations: "155 мин",
     description: "",
-    director_id: 560,
+    director_id: 52,
     promo: "",
     genre_id: 11,
     country_id: 10,
+    count_rating: 266,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -599,10 +719,13 @@ const data = [
     years: "2016",
     durations: "115 мин",
     description: "",
-    director_id: 300,
+    director_id: 63,
     promo: "",
     genre_id: 12,
     country_id: 20,
+    count_rating: 672,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -613,10 +736,13 @@ const data = [
     years: "2011",
     durations: "105 мин",
     description: "",
-    director_id: 535,
+    director_id: 81,
     promo: "",
     genre_id: 10,
     country_id: 6,
+    count_rating: 998,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -627,10 +753,13 @@ const data = [
     years: "1999",
     durations: "136 мин",
     description: "",
-    director_id: 570,
+    director_id: 111,
     promo: "",
     genre_id: 20,
     country_id: 4,
+    count_rating: 77,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -641,10 +770,13 @@ const data = [
     years: "1969–2017",
     durations: "10 мин",
     description: "",
-    director_id: 609,
+    director_id: 39,
     promo: "",
     genre_id: 8,
     country_id: 1,
+    count_rating: 120,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -655,10 +787,13 @@ const data = [
     years: "2008",
     durations: "152 мин",
     description: "",
-    director_id: 853,
+    director_id: 127,
     promo: "",
     genre_id: 19,
     country_id: 10,
+    count_rating: 696,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -669,10 +804,13 @@ const data = [
     years: "2015",
     durations: "131 мин",
     description: "",
-    director_id: 105,
+    director_id: 161,
     promo: "",
     genre_id: 11,
     country_id: 20,
+    count_rating: 332,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -683,10 +821,13 @@ const data = [
     years: "2007",
     durations: "111 мин",
     description: "",
-    director_id: 102,
+    director_id: 52,
     promo: "",
     genre_id: 19,
     country_id: 12,
+    count_rating: 22,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -697,10 +838,13 @@ const data = [
     years: "2012",
     durations: "137 мин",
     description: "",
-    director_id: 602,
+    director_id: 182,
     promo: "",
     genre_id: 17,
     country_id: 17,
+    count_rating: 18,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -711,10 +855,13 @@ const data = [
     years: "2002",
     durations: "141 мин",
     description: "",
-    director_id: 346,
+    director_id: 99,
     promo: "",
     genre_id: 5,
     country_id: 16,
+    count_rating: 603,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -725,10 +872,13 @@ const data = [
     years: "1971",
     durations: "84 мин",
     description: "",
-    director_id: 687,
+    director_id: 82,
     promo: "",
     genre_id: 14,
     country_id: 21,
+    count_rating: 113,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -739,10 +889,13 @@ const data = [
     years: "2012",
     durations: "165 мин",
     description: "",
-    director_id: 306,
+    director_id: 143,
     promo: "",
     genre_id: 1,
     country_id: 13,
+    count_rating: 750,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -753,10 +906,13 @@ const data = [
     years: "2001",
     durations: "90 мин",
     description: "",
-    director_id: 317,
+    director_id: 150,
     promo: "",
     genre_id: 14,
     country_id: 22,
+    count_rating: 396,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -767,10 +923,13 @@ const data = [
     years: "2023",
     durations: "50 мин",
     description: "",
-    director_id: 357,
+    director_id: 155,
     promo: "",
     genre_id: 9,
     country_id: 16,
+    count_rating: 786,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -781,10 +940,13 @@ const data = [
     years: "1994",
     durations: "88 мин",
     description: "",
-    director_id: 233,
+    director_id: 172,
     promo: "",
     genre_id: 6,
     country_id: 18,
+    count_rating: 434,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -795,10 +957,13 @@ const data = [
     years: "1968",
     durations: "94 мин",
     description: "",
-    director_id: 832,
+    director_id: 162,
     promo: "",
     genre_id: 3,
     country_id: 16,
+    count_rating: 71,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -809,10 +974,13 @@ const data = [
     years: "2011",
     durations: "112 мин",
     description: "",
-    director_id: 438,
+    director_id: 128,
     promo: "",
     genre_id: 10,
     country_id: 10,
+    count_rating: 753,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -823,10 +991,13 @@ const data = [
     years: "2019",
     durations: "113 мин",
     description: "",
-    director_id: 727,
+    director_id: 105,
     promo: "",
     genre_id: 20,
     country_id: 21,
+    count_rating: 52,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -837,10 +1008,13 @@ const data = [
     years: "2013",
     durations: "180 мин",
     description: "",
-    director_id: 576,
+    director_id: 167,
     promo: "",
     genre_id: 20,
     country_id: 11,
+    count_rating: 274,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -851,10 +1025,13 @@ const data = [
     years: "2021",
     durations: "119 мин",
     description: "",
-    director_id: 360,
+    director_id: 3,
     promo: "",
     genre_id: 12,
     country_id: 11,
+    count_rating: 188,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -865,10 +1042,13 @@ const data = [
     years: "1997",
     durations: "100 мин",
     description: "",
-    director_id: 156,
+    director_id: 200,
     promo: "",
     genre_id: 17,
     country_id: 13,
+    count_rating: 568,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -879,10 +1059,13 @@ const data = [
     years: "1990",
     durations: "103 мин",
     description: "",
-    director_id: 851,
+    director_id: 28,
     promo: "",
     genre_id: 5,
     country_id: 3,
+    count_rating: 917,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -893,10 +1076,13 @@ const data = [
     years: "2009",
     durations: "162 мин",
     description: "",
-    director_id: 597,
+    director_id: 101,
     promo: "",
     genre_id: 8,
     country_id: 14,
+    count_rating: 80,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -907,10 +1093,13 @@ const data = [
     years: "1994",
     durations: "142 мин",
     description: "",
-    director_id: 162,
+    director_id: 188,
     promo: "",
     genre_id: 18,
     country_id: 18,
+    count_rating: 488,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -921,10 +1110,13 @@ const data = [
     years: "2010",
     durations: "148 мин",
     description: "",
-    director_id: 27,
+    director_id: 38,
     promo: "",
     genre_id: 1,
     country_id: 9,
+    count_rating: 809,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -935,10 +1127,13 @@ const data = [
     years: "1999",
     durations: "189 мин",
     description: "",
-    director_id: 831,
+    director_id: 191,
     promo: "",
     genre_id: 9,
     country_id: 19,
+    count_rating: 866,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -949,10 +1144,13 @@ const data = [
     years: "2016",
     durations: "108 мин",
     description: "",
-    director_id: 221,
+    director_id: 131,
     promo: "",
     genre_id: 14,
     country_id: 21,
+    count_rating: 270,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -963,10 +1161,13 @@ const data = [
     years: "1973",
     durations: "88 мин",
     description: "",
-    director_id: 296,
+    director_id: 117,
     promo: "",
     genre_id: 6,
     country_id: 4,
+    count_rating: 818,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -977,10 +1178,13 @@ const data = [
     years: "2011–2019",
     durations: "55 мин",
     description: "",
-    director_id: 720,
+    director_id: 18,
     promo: "",
     genre_id: 15,
     country_id: 19,
+    count_rating: 532,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -991,10 +1195,13 @@ const data = [
     years: "2003",
     durations: "143 мин",
     description: "",
-    director_id: 369,
+    director_id: 192,
     promo: "",
     genre_id: 17,
     country_id: 16,
+    count_rating: 811,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1005,10 +1212,13 @@ const data = [
     years: "2019",
     durations: "130 мин",
     description: "",
-    director_id: 763,
+    director_id: 180,
     promo: "",
     genre_id: 13,
     country_id: 13,
+    count_rating: 315,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1019,10 +1229,13 @@ const data = [
     years: "2001",
     durations: "152 мин",
     description: "",
-    director_id: 683,
+    director_id: 65,
     promo: "",
     genre_id: 19,
     country_id: 8,
+    count_rating: 230,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1033,10 +1246,13 @@ const data = [
     years: "2014",
     durations: "169 мин",
     description: "",
-    director_id: 441,
+    director_id: 164,
     promo: "",
     genre_id: 19,
     country_id: 2,
+    count_rating: 244,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1047,10 +1263,13 @@ const data = [
     years: "2000",
     durations: "127 мин",
     description: "",
-    director_id: 883,
+    director_id: 41,
     promo: "",
     genre_id: 11,
     country_id: 18,
+    count_rating: 966,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1061,10 +1280,13 @@ const data = [
     years: "1999",
     durations: "139 мин",
     description: "",
-    director_id: 805,
+    director_id: 198,
     promo: "",
     genre_id: 4,
     country_id: 16,
+    count_rating: 304,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1075,10 +1297,13 @@ const data = [
     years: "1994",
     durations: "142 мин",
     description: "",
-    director_id: 438,
+    director_id: 82,
     promo: "",
     genre_id: 13,
     country_id: 10,
+    count_rating: 195,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1089,10 +1314,13 @@ const data = [
     years: "1965",
     durations: "95 мин",
     description: "",
-    director_id: 430,
+    director_id: 105,
     promo: "",
     genre_id: 5,
     country_id: 14,
+    count_rating: 947,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1103,10 +1331,13 @@ const data = [
     years: "2018",
     durations: "130 мин",
     description: "",
-    director_id: 302,
+    director_id: 165,
     promo: "",
     genre_id: 11,
     country_id: 5,
+    count_rating: 967,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1117,10 +1348,13 @@ const data = [
     years: "2013–...",
     durations: "23 мин",
     description: "",
-    director_id: 570,
+    director_id: 173,
     promo: "",
     genre_id: 8,
     country_id: 12,
+    count_rating: 44,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1131,10 +1365,13 @@ const data = [
     years: "1984",
     durations: "107 мин",
     description: "",
-    director_id: 533,
+    director_id: 68,
     promo: "",
     genre_id: 7,
     country_id: 6,
+    count_rating: 287,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1145,10 +1382,13 @@ const data = [
     years: "2009",
     durations: "138 мин",
     description: "",
-    director_id: 587,
+    director_id: 74,
     promo: "",
     genre_id: 5,
     country_id: 2,
+    count_rating: 482,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1157,12 +1397,15 @@ const data = [
     original_name: "Avengers: Infinity War",
     rating: "8.1",
     years: "2018",
-    durations: "149 мин",
+    durations: "149 ми��",
     description: "",
-    director_id: 155,
+    director_id: 46,
     promo: "",
     genre_id: 7,
     country_id: 6,
+    count_rating: 274,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1173,10 +1416,13 @@ const data = [
     years: "2018–...",
     durations: "52 мин",
     description: "",
-    director_id: 443,
+    director_id: 6,
     promo: "",
     genre_id: 8,
     country_id: 3,
+    count_rating: 611,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1187,10 +1433,13 @@ const data = [
     years: "1997",
     durations: "194 мин",
     description: "",
-    director_id: 170,
+    director_id: 168,
     promo: "",
     genre_id: 5,
     country_id: 10,
+    count_rating: 250,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1201,10 +1450,13 @@ const data = [
     years: "2018",
     durations: "112 мин",
     description: "",
-    director_id: 896,
+    director_id: 157,
     promo: "",
     genre_id: 6,
     country_id: 9,
+    count_rating: 904,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1215,10 +1467,13 @@ const data = [
     years: "2019",
     durations: "181 мин",
     description: "",
-    director_id: 290,
+    director_id: 120,
     promo: "",
     genre_id: 7,
     country_id: 11,
+    count_rating: 990,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1229,10 +1484,13 @@ const data = [
     years: "2022",
     durations: "50 мин",
     description: "",
-    director_id: 183,
+    director_id: 96,
     promo: "",
     genre_id: 20,
     country_id: 9,
+    count_rating: 983,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1243,10 +1501,13 @@ const data = [
     years: "2014–...",
     durations: "52 мин",
     description: "",
-    director_id: 787,
+    director_id: 152,
     promo: "",
     genre_id: 14,
     country_id: 2,
+    count_rating: 329,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1257,10 +1518,13 @@ const data = [
     years: "1994",
     durations: "154 мин",
     description: "",
-    director_id: 566,
+    director_id: 129,
     promo: "",
     genre_id: 15,
     country_id: 7,
+    count_rating: 275,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1271,10 +1535,13 @@ const data = [
     years: "2014",
     durations: "121 мин",
     description: "",
-    director_id: 859,
+    director_id: 81,
     promo: "",
     genre_id: 13,
     country_id: 13,
+    count_rating: 761,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1285,10 +1552,13 @@ const data = [
     years: "2021",
     durations: "155 мин",
     description: "",
-    director_id: 205,
+    director_id: 115,
     promo: "",
     genre_id: 5,
     country_id: 12,
+    count_rating: 858,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1299,10 +1569,13 @@ const data = [
     years: "2016",
     durations: "115 мин",
     description: "",
-    director_id: 551,
+    director_id: 122,
     promo: "",
     genre_id: 5,
     country_id: 7,
+    count_rating: 20,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1313,10 +1586,13 @@ const data = [
     years: "2011",
     durations: "105 мин",
     description: "",
-    director_id: 105,
+    director_id: 152,
     promo: "",
     genre_id: 16,
     country_id: 3,
+    count_rating: 242,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1327,10 +1603,13 @@ const data = [
     years: "1999",
     durations: "136 мин",
     description: "",
-    director_id: 743,
+    director_id: 30,
     promo: "",
     genre_id: 12,
     country_id: 19,
+    count_rating: 83,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1341,10 +1620,13 @@ const data = [
     years: "1969–2017",
     durations: "10 мин",
     description: "",
-    director_id: 435,
+    director_id: 48,
     promo: "",
     genre_id: 21,
     country_id: 21,
+    count_rating: 252,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1355,10 +1637,13 @@ const data = [
     years: "2008",
     durations: "152 мин",
     description: "",
-    director_id: 363,
+    director_id: 67,
     promo: "",
     genre_id: 4,
     country_id: 3,
+    count_rating: 479,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1369,10 +1654,13 @@ const data = [
     years: "2015",
     durations: "131 мин",
     description: "",
-    director_id: 625,
+    director_id: 37,
     promo: "",
     genre_id: 11,
     country_id: 3,
+    count_rating: 900,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1383,10 +1671,13 @@ const data = [
     years: "2007",
     durations: "111 мин",
     description: "",
-    director_id: 92,
+    director_id: 185,
     promo: "",
     genre_id: 16,
     country_id: 11,
+    count_rating: 969,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1397,10 +1688,13 @@ const data = [
     years: "2012",
     durations: "137 мин",
     description: "",
-    director_id: 207,
+    director_id: 53,
     promo: "",
     genre_id: 3,
     country_id: 18,
+    count_rating: 655,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1411,10 +1705,13 @@ const data = [
     years: "2002",
     durations: "141 мин",
     description: "",
-    director_id: 6,
+    director_id: 115,
     promo: "",
     genre_id: 18,
     country_id: 2,
+    count_rating: 672,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1425,10 +1722,13 @@ const data = [
     years: "1971",
     durations: "84 мин",
     description: "",
-    director_id: 570,
+    director_id: 140,
     promo: "",
     genre_id: 2,
     country_id: 22,
+    count_rating: 229,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1439,10 +1739,13 @@ const data = [
     years: "2012",
     durations: "165 мин",
     description: "",
-    director_id: 784,
+    director_id: 109,
     promo: "",
     genre_id: 19,
     country_id: 9,
+    count_rating: 247,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1453,10 +1756,13 @@ const data = [
     years: "2001",
     durations: "90 мин",
     description: "",
-    director_id: 266,
+    director_id: 170,
     promo: "",
     genre_id: 19,
     country_id: 11,
+    count_rating: 279,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1467,10 +1773,13 @@ const data = [
     years: "2023",
     durations: "50 мин",
     description: "",
-    director_id: 477,
+    director_id: 28,
     promo: "",
     genre_id: 6,
     country_id: 18,
+    count_rating: 257,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1481,10 +1790,13 @@ const data = [
     years: "1994",
     durations: "88 мин",
     description: "",
-    director_id: 251,
+    director_id: 25,
     promo: "",
     genre_id: 15,
     country_id: 20,
+    count_rating: 882,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1495,10 +1807,13 @@ const data = [
     years: "1968",
     durations: "94 мин",
     description: "",
-    director_id: 672,
+    director_id: 156,
     promo: "",
     genre_id: 15,
     country_id: 12,
+    count_rating: 636,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1509,10 +1824,13 @@ const data = [
     years: "2016",
     durations: "108 мин",
     description: "",
-    director_id: 336,
+    director_id: 132,
     promo: "",
     genre_id: 11,
     country_id: 12,
+    count_rating: 332,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1523,10 +1841,13 @@ const data = [
     years: "2017",
     durations: "105 мин",
     description: "",
-    director_id: 188,
+    director_id: 85,
     promo: "",
     genre_id: 1,
     country_id: 10,
+    count_rating: 773,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1537,10 +1858,13 @@ const data = [
     years: "2019",
     durations: "152 мин",
     description: "",
-    director_id: 581,
+    director_id: 143,
     promo: "",
     genre_id: 6,
     country_id: 12,
+    count_rating: 131,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1551,10 +1875,13 @@ const data = [
     years: "2009",
     durations: "128 мин",
     description: "",
-    director_id: 481,
+    director_id: 173,
     promo: "",
     genre_id: 14,
     country_id: 8,
+    count_rating: 965,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1565,10 +1892,13 @@ const data = [
     years: "2020–...",
     durations: "47 мин",
     description: "",
-    director_id: 506,
+    director_id: 124,
     promo: "",
     genre_id: 19,
     country_id: 20,
+    count_rating: 903,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1579,10 +1909,13 @@ const data = [
     years: "2000",
     durations: "155 мин",
     description: "",
-    director_id: 371,
+    director_id: 197,
     promo: "",
     genre_id: 12,
     country_id: 17,
+    count_rating: 298,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1593,10 +1926,13 @@ const data = [
     years: "2008",
     durations: "98 мин",
     description: "",
-    director_id: 547,
+    director_id: 98,
     promo: "",
     genre_id: 19,
     country_id: 5,
+    count_rating: 266,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1607,10 +1943,13 @@ const data = [
     years: "2001",
     durations: "178 мин",
     description: "",
-    director_id: 427,
+    director_id: 146,
     promo: "",
     genre_id: 19,
     country_id: 18,
+    count_rating: 235,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1621,10 +1960,13 @@ const data = [
     years: "1966",
     durations: "82 мин",
     description: "",
-    director_id: 222,
+    director_id: 24,
     promo: "",
     genre_id: 4,
     country_id: 7,
+    count_rating: 789,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1635,10 +1977,13 @@ const data = [
     years: "1985",
     durations: "116 мин",
     description: "",
-    director_id: 760,
+    director_id: 65,
     promo: "",
     genre_id: 4,
     country_id: 4,
+    count_rating: 713,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1649,10 +1994,13 @@ const data = [
     years: "2015",
     durations: "144 мин",
     description: "",
-    director_id: 221,
+    director_id: 19,
     promo: "",
     genre_id: 17,
     country_id: 10,
+    count_rating: 271,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1663,10 +2011,13 @@ const data = [
     years: "2004",
     durations: "142 мин",
     description: "",
-    director_id: 596,
+    director_id: 115,
     promo: "",
     genre_id: 15,
     country_id: 17,
+    count_rating: 818,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1677,10 +2028,13 @@ const data = [
     years: "1994",
     durations: "133 мин",
     description: "",
-    director_id: 89,
+    director_id: 21,
     promo: "",
     genre_id: 17,
     country_id: 20,
+    count_rating: 572,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1691,10 +2045,13 @@ const data = [
     years: "2008",
     durations: "121 мин",
     description: "",
-    director_id: 297,
+    director_id: 135,
     promo: "",
     genre_id: 21,
     country_id: 10,
+    count_rating: 148,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1705,10 +2062,13 @@ const data = [
     years: "2006",
     durations: "151 мин",
     description: "",
-    director_id: 344,
+    director_id: 75,
     promo: "",
     genre_id: 21,
     country_id: 14,
+    count_rating: 142,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1719,10 +2079,13 @@ const data = [
     years: "2013",
     durations: "115 мин",
     description: "",
-    director_id: 514,
+    director_id: 103,
     promo: "",
     genre_id: 17,
     country_id: 12,
+    count_rating: 191,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1733,10 +2096,13 @@ const data = [
     years: "1997",
     durations: "87 мин",
     description: "",
-    director_id: 476,
+    director_id: 118,
     promo: "",
     genre_id: 3,
     country_id: 2,
+    count_rating: 667,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1747,10 +2113,13 @@ const data = [
     years: "1979",
     durations: "150 мин",
     description: "",
-    director_id: 498,
+    director_id: 110,
     promo: "",
     genre_id: 4,
     country_id: 16,
+    count_rating: 53,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1761,10 +2130,13 @@ const data = [
     years: "2010–2017",
     durations: "90 мин",
     description: "",
-    director_id: 395,
+    director_id: 68,
     promo: "",
     genre_id: 20,
     country_id: 8,
+    count_rating: 217,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1775,10 +2147,13 @@ const data = [
     years: "2002",
     durations: "161 мин",
     description: "",
-    director_id: 54,
+    director_id: 115,
     promo: "",
     genre_id: 2,
     country_id: 6,
+    count_rating: 247,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1789,10 +2164,13 @@ const data = [
     years: "2006",
     durations: "125 мин",
     description: "",
-    director_id: 194,
+    director_id: 200,
     promo: "",
     genre_id: 1,
     country_id: 8,
+    count_rating: 185,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1803,10 +2181,13 @@ const data = [
     years: "2019",
     durations: "109 мин",
     description: "",
-    director_id: 23,
+    director_id: 144,
     promo: "",
     genre_id: 15,
     country_id: 11,
+    count_rating: 270,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1817,10 +2198,13 @@ const data = [
     years: "2021",
     durations: "242 мин",
     description: "",
-    director_id: 66,
+    director_id: 8,
     promo: "",
     genre_id: 6,
     country_id: 12,
+    count_rating: 734,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1831,10 +2215,13 @@ const data = [
     years: "2010",
     durations: "98 мин",
     description: "",
-    director_id: 186,
+    director_id: 47,
     promo: "",
     genre_id: 18,
     country_id: 4,
+    count_rating: 921,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1845,10 +2232,13 @@ const data = [
     years: "2014",
     durations: "149 мин",
     description: "",
-    director_id: 613,
+    director_id: 151,
     promo: "",
     genre_id: 5,
     country_id: 8,
+    count_rating: 279,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1859,10 +2249,13 @@ const data = [
     years: "2009",
     durations: "153 мин",
     description: "",
-    director_id: 718,
+    director_id: 167,
     promo: "",
     genre_id: 16,
     country_id: 1,
+    count_rating: 198,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1873,10 +2266,13 @@ const data = [
     years: "1997",
     durations: "126 мин",
     description: "",
-    director_id: 198,
+    director_id: 6,
     promo: "",
     genre_id: 4,
     country_id: 19,
+    count_rating: 166,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1887,10 +2283,13 @@ const data = [
     years: "2021",
     durations: "115 мин",
     description: "",
-    director_id: 41,
+    director_id: 167,
     promo: "",
     genre_id: 13,
     country_id: 8,
+    count_rating: 747,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1901,10 +2300,13 @@ const data = [
     years: "2009",
     durations: "108 мин",
     description: "",
-    director_id: 478,
+    director_id: 97,
     promo: "",
     genre_id: 12,
     country_id: 2,
+    count_rating: 972,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -1915,10 +2317,13 @@ const data = [
     years: "2020",
     durations: "106 мин",
     description: "",
-    director_id: 186,
+    director_id: 66,
     promo: "",
     genre_id: 5,
     country_id: 16,
+    count_rating: 244,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1929,10 +2334,13 @@ const data = [
     years: "2021–...",
     durations: "50 мин",
     description: "",
-    director_id: 302,
+    director_id: 19,
     promo: "",
     genre_id: 20,
     country_id: 1,
+    count_rating: 962,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1943,10 +2351,13 @@ const data = [
     years: "2018",
     durations: "140 мин",
     description: "",
-    director_id: 480,
+    director_id: 148,
     promo: "",
     genre_id: 12,
     country_id: 21,
+    count_rating: 419,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1957,10 +2368,13 @@ const data = [
     years: "2015",
     durations: "95 мин",
     description: "",
-    director_id: 11,
+    director_id: 91,
     promo: "",
     genre_id: 8,
     country_id: 20,
+    count_rating: 467,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -1971,10 +2385,13 @@ const data = [
     years: "2019",
     durations: "122 мин",
     description: "",
-    director_id: 543,
+    director_id: 173,
     promo: "",
     genre_id: 5,
     country_id: 13,
+    count_rating: 539,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -1985,10 +2402,13 @@ const data = [
     years: "2006",
     durations: "109 мин",
     description: "",
-    director_id: 660,
+    director_id: 58,
     promo: "",
     genre_id: 17,
     country_id: 1,
+    count_rating: 620,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -1999,10 +2419,13 @@ const data = [
     years: "2011",
     durations: "130 мин",
     description: "",
-    director_id: 329,
+    director_id: 70,
     promo: "",
     genre_id: 4,
     country_id: 20,
+    count_rating: 598,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2013,10 +2436,13 @@ const data = [
     years: "2003",
     durations: "201 мин",
     description: "",
-    director_id: 113,
+    director_id: 18,
     promo: "",
     genre_id: 6,
     country_id: 15,
+    count_rating: 611,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2027,10 +2453,13 @@ const data = [
     years: "1992",
     durations: "119 мин",
     description: "",
-    director_id: 886,
+    director_id: 149,
     promo: "",
     genre_id: 21,
     country_id: 18,
+    count_rating: 546,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2041,10 +2470,13 @@ const data = [
     years: "2021",
     durations: "134 мин",
     description: "",
-    director_id: 126,
+    director_id: 142,
     promo: "",
     genre_id: 21,
     country_id: 18,
+    count_rating: 940,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2055,10 +2487,13 @@ const data = [
     years: "2007",
     durations: "169 мин",
     description: "",
-    director_id: 595,
+    director_id: 158,
     promo: "",
     genre_id: 16,
     country_id: 10,
+    count_rating: 12,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2069,10 +2504,13 @@ const data = [
     years: "2022",
     durations: "107 мин",
     description: "",
-    director_id: 878,
+    director_id: 7,
     promo: "",
     genre_id: 12,
     country_id: 11,
+    count_rating: 227,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2083,10 +2521,13 @@ const data = [
     years: "2020–2021",
     durations: "45 мин",
     description: "",
-    director_id: 798,
+    director_id: 120,
     promo: "",
     genre_id: 18,
     country_id: 5,
+    count_rating: 627,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2097,10 +2538,13 @@ const data = [
     years: "2002",
     durations: "179 мин",
     description: "",
-    director_id: 681,
+    director_id: 74,
     promo: "",
     genre_id: 10,
     country_id: 19,
+    count_rating: 285,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2111,10 +2555,13 @@ const data = [
     years: "2019",
     durations: "121 мин",
     description: "",
-    director_id: 560,
+    director_id: 117,
     promo: "",
     genre_id: 10,
     country_id: 9,
+    count_rating: 892,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2125,10 +2572,13 @@ const data = [
     years: "2008–2013",
     durations: "47 мин",
     description: "",
-    director_id: 256,
+    director_id: 34,
     promo: "",
     genre_id: 16,
     country_id: 4,
+    count_rating: 147,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2139,10 +2589,13 @@ const data = [
     years: "2022",
     durations: "109 мин",
     description: "",
-    director_id: 767,
+    director_id: 100,
     promo: "",
     genre_id: 9,
     country_id: 22,
+    count_rating: 915,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2153,10 +2606,13 @@ const data = [
     years: "2012",
     durations: "169 мин",
     description: "",
-    director_id: 523,
+    director_id: 177,
     promo: "",
     genre_id: 1,
     country_id: 10,
+    count_rating: 823,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2167,10 +2623,13 @@ const data = [
     years: "1982",
     durations: "10 мин",
     description: "",
-    director_id: 391,
+    director_id: 122,
     promo: "",
     genre_id: 15,
     country_id: 10,
+    count_rating: 959,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2181,10 +2640,13 @@ const data = [
     years: "2011",
     durations: "127 мин",
     description: "",
-    director_id: 195,
+    director_id: 190,
     promo: "",
     genre_id: 5,
     country_id: 5,
+    count_rating: 765,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2195,10 +2657,13 @@ const data = [
     years: "2000",
     durations: "104 мин",
     description: "",
-    director_id: 236,
+    director_id: 107,
     promo: "",
     genre_id: 7,
     country_id: 4,
+    count_rating: 241,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2209,10 +2674,13 @@ const data = [
     years: "2019",
     durations: "161 мин",
     description: "",
-    director_id: 519,
+    director_id: 139,
     promo: "",
     genre_id: 17,
     country_id: 13,
+    count_rating: 200,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2223,10 +2691,13 @@ const data = [
     years: "1962",
     durations: "92 мин",
     description: "",
-    director_id: 410,
+    director_id: 81,
     promo: "",
     genre_id: 11,
     country_id: 22,
+    count_rating: 602,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2237,10 +2708,13 @@ const data = [
     years: "2009–...",
     durations: "7 мин",
     description: "",
-    director_id: 276,
+    director_id: 74,
     promo: "",
     genre_id: 5,
     country_id: 18,
+    count_rating: 149,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2251,10 +2725,13 @@ const data = [
     years: "2012–2016",
     durations: "22 мин",
     description: "",
-    director_id: 88,
+    director_id: 20,
     promo: "",
     genre_id: 6,
     country_id: 21,
+    count_rating: 762,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2265,10 +2742,13 @@ const data = [
     years: "2001",
     durations: "125 мин",
     description: "",
-    director_id: 558,
+    director_id: 162,
     promo: "",
     genre_id: 20,
     country_id: 5,
+    count_rating: 137,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2279,10 +2759,13 @@ const data = [
     years: "2020",
     durations: "150 мин",
     description: "",
-    director_id: 385,
+    director_id: 73,
     promo: "",
     genre_id: 7,
     country_id: 16,
+    count_rating: 39,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2293,10 +2776,13 @@ const data = [
     years: "2011–2021",
     durations: "55 мин",
     description: "",
-    director_id: 868,
+    director_id: 179,
     promo: "",
     genre_id: 15,
     country_id: 16,
+    count_rating: 662,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2307,10 +2793,13 @@ const data = [
     years: "2013",
     durations: "102 мин",
     description: "",
-    director_id: 239,
+    director_id: 109,
     promo: "",
     genre_id: 8,
     country_id: 7,
+    count_rating: 32,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2321,10 +2810,13 @@ const data = [
     years: "2021",
     durations: "136 мин",
     description: "",
-    director_id: 10,
+    director_id: 15,
     promo: "",
     genre_id: 8,
     country_id: 20,
+    count_rating: 658,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2335,10 +2827,13 @@ const data = [
     years: "2015",
     durations: "168 мин",
     description: "",
-    director_id: 542,
+    director_id: 126,
     promo: "",
     genre_id: 17,
     country_id: 8,
+    count_rating: 30,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2349,10 +2844,13 @@ const data = [
     years: "2014",
     durations: "113 мин",
     description: "",
-    director_id: 883,
+    director_id: 84,
     promo: "",
     genre_id: 18,
     country_id: 14,
+    count_rating: 507,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2363,10 +2861,13 @@ const data = [
     years: "2017",
     durations: "130 мин",
     description: "",
-    director_id: 666,
+    director_id: 89,
     promo: "",
     genre_id: 4,
     country_id: 10,
+    count_rating: 28,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2377,10 +2878,13 @@ const data = [
     years: "1998",
     durations: "103 мин",
     description: "",
-    director_id: 843,
+    director_id: 128,
     promo: "",
     genre_id: 14,
     country_id: 2,
+    count_rating: 466,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2391,10 +2895,13 @@ const data = [
     years: "2005",
     durations: "157 мин",
     description: "",
-    director_id: 359,
+    director_id: 82,
     promo: "",
     genre_id: 20,
     country_id: 13,
+    count_rating: 946,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2405,10 +2912,13 @@ const data = [
     years: "2017",
     durations: "136 мин",
     description: "",
-    director_id: 830,
+    director_id: 37,
     promo: "",
     genre_id: 17,
     country_id: 22,
+    count_rating: 561,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2419,10 +2929,13 @@ const data = [
     years: "2018",
     durations: "139 мин",
     description: "",
-    director_id: 310,
+    director_id: 76,
     promo: "",
     genre_id: 18,
     country_id: 19,
+    count_rating: 831,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2433,10 +2946,13 @@ const data = [
     years: "2003",
     durations: "97 мин",
     description: "",
-    director_id: 320,
+    director_id: 120,
     promo: "",
     genre_id: 16,
     country_id: 9,
+    count_rating: 195,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2447,10 +2963,13 @@ const data = [
     years: "1998",
     durations: "107 мин",
     description: "",
-    director_id: 46,
+    director_id: 90,
     promo: "",
     genre_id: 4,
     country_id: 18,
+    count_rating: 643,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2461,10 +2980,13 @@ const data = [
     years: "1977",
     durations: "159 мин",
     description: "",
-    director_id: 621,
+    director_id: 40,
     promo: "",
     genre_id: 11,
     country_id: 10,
+    count_rating: 389,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2475,10 +2997,13 @@ const data = [
     years: "2018",
     durations: "117 мин",
     description: "",
-    director_id: 484,
+    director_id: 21,
     promo: "",
     genre_id: 5,
     country_id: 10,
+    count_rating: 586,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2489,10 +3014,13 @@ const data = [
     years: "2018",
     durations: "143 мин",
     description: "",
-    director_id: 203,
+    director_id: 193,
     promo: "",
     genre_id: 12,
     country_id: 3,
+    count_rating: 920,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2503,10 +3031,13 @@ const data = [
     years: "2008",
     durations: "89 мин",
     description: "",
-    director_id: 403,
+    director_id: 95,
     promo: "",
     genre_id: 4,
     country_id: 10,
+    count_rating: 430,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2517,10 +3048,13 @@ const data = [
     years: "2003",
     durations: "113 мин",
     description: "",
-    director_id: 53,
+    director_id: 173,
     promo: "",
     genre_id: 12,
     country_id: 10,
+    count_rating: 973,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2531,10 +3065,13 @@ const data = [
     years: "2019",
     durations: "129 мин",
     description: "",
-    director_id: 870,
+    director_id: 47,
     promo: "",
     genre_id: 12,
     country_id: 7,
+    count_rating: 751,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2545,10 +3082,13 @@ const data = [
     years: "1994–2004",
     durations: "22 мин",
     description: "",
-    director_id: 562,
+    director_id: 2,
     promo: "",
     genre_id: 5,
     country_id: 8,
+    count_rating: 562,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2559,10 +3099,13 @@ const data = [
     years: "2016",
     durations: "118 мин",
     description: "",
-    director_id: 811,
+    director_id: 22,
     promo: "",
     genre_id: 1,
     country_id: 15,
+    count_rating: 183,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2573,10 +3116,13 @@ const data = [
     years: "2005",
     durations: "121 мин",
     description: "",
-    director_id: 561,
+    director_id: 78,
     promo: "",
     genre_id: 21,
     country_id: 15,
+    count_rating: 713,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2587,10 +3133,13 @@ const data = [
     years: "2012",
     durations: "165 мин",
     description: "",
-    director_id: 395,
+    director_id: 179,
     promo: "",
     genre_id: 13,
     country_id: 5,
+    count_rating: 901,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2601,10 +3150,13 @@ const data = [
     years: "2018",
     durations: "119 мин",
     description: "",
-    director_id: 170,
+    director_id: 157,
     promo: "",
     genre_id: 15,
     country_id: 11,
+    count_rating: 101,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2615,10 +3167,13 @@ const data = [
     years: "1990",
     durations: "118 мин",
     description: "",
-    director_id: 618,
+    director_id: 180,
     promo: "",
     genre_id: 15,
     country_id: 21,
+    count_rating: 883,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2629,10 +3184,13 @@ const data = [
     years: "2019",
     durations: "131 мин",
     description: "",
-    director_id: 721,
+    director_id: 106,
     promo: "",
     genre_id: 5,
     country_id: 7,
+    count_rating: 351,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2643,10 +3201,13 @@ const data = [
     years: "2001",
     durations: "92 мин",
     description: "",
-    director_id: 33,
+    director_id: 53,
     promo: "",
     genre_id: 11,
     country_id: 17,
+    count_rating: 764,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2657,10 +3218,13 @@ const data = [
     years: "1993",
     durations: "195 мин",
     description: "",
-    director_id: 626,
+    director_id: 167,
     promo: "",
     genre_id: 19,
     country_id: 19,
+    count_rating: 287,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2671,10 +3235,13 @@ const data = [
     years: "2001",
     durations: "135 мин",
     description: "",
-    director_id: 775,
+    director_id: 128,
     promo: "",
     genre_id: 17,
     country_id: 13,
+    count_rating: 541,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2685,10 +3252,13 @@ const data = [
     years: "2019",
     durations: "59 мин",
     description: "",
-    director_id: 119,
+    director_id: 167,
     promo: "",
     genre_id: 19,
     country_id: 18,
+    count_rating: 523,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2699,10 +3269,13 @@ const data = [
     years: "2011",
     durations: "109 мин",
     description: "",
-    director_id: 165,
+    director_id: 100,
     promo: "",
     genre_id: 15,
     country_id: 20,
+    count_rating: 561,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2713,10 +3286,13 @@ const data = [
     years: "2007",
     durations: "138 мин",
     description: "",
-    director_id: 140,
+    director_id: 23,
     promo: "",
     genre_id: 9,
     country_id: 2,
+    count_rating: 231,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2727,10 +3303,13 @@ const data = [
     years: "2002",
     durations: "52 мин",
     description: "",
-    director_id: 367,
+    director_id: 104,
     promo: "",
     genre_id: 10,
     country_id: 11,
+    count_rating: 761,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2741,10 +3320,13 @@ const data = [
     years: "2014",
     durations: "100 мин",
     description: "",
-    director_id: 540,
+    director_id: 95,
     promo: "",
     genre_id: 18,
     country_id: 10,
+    count_rating: 733,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2755,10 +3337,13 @@ const data = [
     years: "1995",
     durations: "127 мин",
     description: "",
-    director_id: 615,
+    director_id: 162,
     promo: "",
     genre_id: 7,
     country_id: 21,
+    count_rating: 603,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2769,10 +3354,13 @@ const data = [
     years: "2009",
     durations: "108 мин",
     description: "",
-    director_id: 63,
+    director_id: 46,
     promo: "",
     genre_id: 14,
     country_id: 7,
+    count_rating: 709,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2783,10 +3371,13 @@ const data = [
     years: "1993",
     durations: "101 мин",
     description: "",
-    director_id: 79,
+    director_id: 195,
     promo: "",
     genre_id: 10,
     country_id: 6,
+    count_rating: 482,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2797,10 +3388,13 @@ const data = [
     years: "2015",
     durations: "130 мин",
     description: "",
-    director_id: 456,
+    director_id: 172,
     promo: "",
     genre_id: 6,
     country_id: 6,
+    count_rating: 327,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2811,10 +3405,13 @@ const data = [
     years: "2005–2020",
     durations: "43 мин",
     description: "",
-    director_id: 57,
+    director_id: 196,
     promo: "",
     genre_id: 17,
     country_id: 19,
+    count_rating: 464,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2825,10 +3422,13 @@ const data = [
     years: "2008",
     durations: "166 мин",
     description: "",
-    director_id: 433,
+    director_id: 40,
     promo: "",
     genre_id: 20,
     country_id: 1,
+    count_rating: 469,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2839,10 +3439,13 @@ const data = [
     years: "2020",
     durations: "76 мин",
     description: "",
-    director_id: 148,
+    director_id: 68,
     promo: "",
     genre_id: 16,
     country_id: 18,
+    count_rating: 204,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2853,10 +3456,13 @@ const data = [
     years: "2021",
     durations: "139 мин",
     description: "",
-    director_id: 900,
+    director_id: 37,
     promo: "",
     genre_id: 9,
     country_id: 12,
+    count_rating: 776,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2867,10 +3473,13 @@ const data = [
     years: "2009",
     durations: "153 мин",
     description: "",
-    director_id: 215,
+    director_id: 47,
     promo: "",
     genre_id: 2,
     country_id: 22,
+    count_rating: 930,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2881,10 +3490,13 @@ const data = [
     years: "2004–2012",
     durations: "43 мин",
     description: "",
-    director_id: 361,
+    director_id: 135,
     promo: "",
     genre_id: 21,
     country_id: 13,
+    count_rating: 475,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2895,10 +3507,13 @@ const data = [
     years: "2010–2022",
     durations: "43 мин",
     description: "",
-    director_id: 225,
+    director_id: 116,
     promo: "",
     genre_id: 19,
     country_id: 12,
+    count_rating: 383,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2909,10 +3524,13 @@ const data = [
     years: "2005",
     durations: "115 мин",
     description: "",
-    director_id: 832,
+    director_id: 190,
     promo: "",
     genre_id: 20,
     country_id: 2,
+    count_rating: 615,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2923,10 +3541,13 @@ const data = [
     years: "2018",
     durations: "134 мин",
     description: "",
-    director_id: 679,
+    director_id: 116,
     promo: "",
     genre_id: 18,
     country_id: 1,
+    count_rating: 912,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2937,10 +3558,13 @@ const data = [
     years: "2007",
     durations: "96 мин",
     description: "",
-    director_id: 511,
+    director_id: 67,
     promo: "",
     genre_id: 12,
     country_id: 15,
+    count_rating: 709,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -2951,10 +3575,13 @@ const data = [
     years: "2022",
     durations: "114 мин",
     description: "",
-    director_id: 301,
+    director_id: 122,
     promo: "",
     genre_id: 8,
     country_id: 11,
+    count_rating: 788,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -2965,10 +3592,13 @@ const data = [
     years: "2021",
     durations: "132 мин",
     description: "",
-    director_id: 410,
+    director_id: 173,
     promo: "",
     genre_id: 1,
     country_id: 16,
+    count_rating: 537,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -2979,10 +3609,13 @@ const data = [
     years: "1994",
     durations: "101 мин",
     description: "",
-    director_id: 857,
+    director_id: 188,
     promo: "",
     genre_id: 9,
     country_id: 13,
+    count_rating: 652,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -2993,10 +3626,13 @@ const data = [
     years: "2012",
     durations: "134 мин",
     description: "",
-    director_id: 340,
+    director_id: 7,
     promo: "",
     genre_id: 9,
     country_id: 11,
+    count_rating: 7,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3007,10 +3643,13 @@ const data = [
     years: "2016",
     durations: "132 мин",
     description: "",
-    director_id: 10,
+    director_id: 28,
     promo: "",
     genre_id: 11,
     country_id: 9,
+    count_rating: 676,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3021,10 +3660,13 @@ const data = [
     years: "2010",
     durations: "146 мин",
     description: "",
-    director_id: 52,
+    director_id: 66,
     promo: "",
     genre_id: 6,
     country_id: 11,
+    count_rating: 4,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3035,10 +3677,13 @@ const data = [
     years: "1991",
     durations: "137 мин",
     description: "",
-    director_id: 239,
+    director_id: 42,
     promo: "",
     genre_id: 4,
     country_id: 13,
+    count_rating: 946,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3049,10 +3694,13 @@ const data = [
     years: "2016–2022",
     durations: "51 мин",
     description: "",
-    director_id: 462,
+    director_id: 106,
     promo: "",
     genre_id: 3,
     country_id: 6,
+    count_rating: 402,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3063,10 +3711,13 @@ const data = [
     years: "2005",
     durations: "110 мин",
     description: "",
-    director_id: 132,
+    director_id: 159,
     promo: "",
     genre_id: 16,
     country_id: 12,
+    count_rating: 204,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3077,10 +3728,13 @@ const data = [
     years: "2014",
     durations: "101 мин",
     description: "",
-    director_id: 194,
+    director_id: 97,
     promo: "",
     genre_id: 9,
     country_id: 22,
+    count_rating: 138,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3091,10 +3745,13 @@ const data = [
     years: "2004",
     durations: "124 мин",
     description: "",
-    director_id: 48,
+    director_id: 105,
     promo: "",
     genre_id: 1,
     country_id: 16,
+    count_rating: 607,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3105,10 +3762,13 @@ const data = [
     years: "2006",
     durations: "151 мин",
     description: "",
-    director_id: 622,
+    director_id: 5,
     promo: "",
     genre_id: 12,
     country_id: 1,
+    count_rating: 276,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3119,10 +3779,13 @@ const data = [
     years: "2013",
     durations: "125 мин",
     description: "",
-    director_id: 258,
+    director_id: 157,
     promo: "",
     genre_id: 11,
     country_id: 22,
+    count_rating: 989,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3133,10 +3796,13 @@ const data = [
     years: "2010",
     durations: "119 мин",
     description: "",
-    director_id: 187,
+    director_id: 170,
     promo: "",
     genre_id: 6,
     country_id: 7,
+    count_rating: 450,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3147,10 +3813,13 @@ const data = [
     years: "2004",
     durations: "108 мин",
     description: "",
-    director_id: 22,
+    director_id: 49,
     promo: "",
     genre_id: 21,
     country_id: 12,
+    count_rating: 348,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3161,10 +3830,13 @@ const data = [
     years: "2021",
     durations: "101 мин",
     description: "",
-    director_id: 620,
+    director_id: 147,
     promo: "",
     genre_id: 7,
     country_id: 19,
+    count_rating: 372,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3175,10 +3847,13 @@ const data = [
     years: "2002",
     durations: "121 мин",
     description: "",
-    director_id: 617,
+    director_id: 140,
     promo: "",
     genre_id: 9,
     country_id: 14,
+    count_rating: 340,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3189,10 +3864,13 @@ const data = [
     years: "2007–2019",
     durations: "22 мин",
     description: "",
-    director_id: 148,
+    director_id: 28,
     promo: "",
     genre_id: 18,
     country_id: 9,
+    count_rating: 696,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3203,10 +3881,13 @@ const data = [
     years: "1997",
     durations: "98 мин",
     description: "",
-    director_id: 48,
+    director_id: 82,
     promo: "",
     genre_id: 20,
     country_id: 7,
+    count_rating: 132,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3217,10 +3898,13 @@ const data = [
     years: "2016",
     durations: "139 мин",
     description: "",
-    director_id: 585,
+    director_id: 89,
     promo: "",
     genre_id: 3,
     country_id: 9,
+    count_rating: 163,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3231,10 +3915,13 @@ const data = [
     years: "2013",
     durations: "161 мин",
     description: "",
-    director_id: 246,
+    director_id: 117,
     promo: "",
     genre_id: 11,
     country_id: 7,
+    count_rating: 815,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3245,10 +3932,13 @@ const data = [
     years: "2021",
     durations: "96 мин",
     description: "",
-    director_id: 840,
+    director_id: 40,
     promo: "",
     genre_id: 12,
     country_id: 15,
+    count_rating: 630,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3259,10 +3949,13 @@ const data = [
     years: "2010",
     durations: "100 мин",
     description: "",
-    director_id: 135,
+    director_id: 15,
     promo: "",
     genre_id: 7,
     country_id: 14,
+    count_rating: 664,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3273,10 +3966,13 @@ const data = [
     years: "2017",
     durations: "135 мин",
     description: "",
-    director_id: 109,
+    director_id: 73,
     promo: "",
     genre_id: 13,
     country_id: 10,
+    count_rating: 784,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3287,10 +3983,13 @@ const data = [
     years: "1973",
     durations: "87 мин",
     description: "",
-    director_id: 624,
+    director_id: 179,
     promo: "",
     genre_id: 4,
     country_id: 13,
+    count_rating: 590,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3301,10 +4000,13 @@ const data = [
     years: "2021–2022",
     durations: "46 мин",
     description: "",
-    director_id: 207,
+    director_id: 138,
     promo: "",
     genre_id: 10,
     country_id: 18,
+    count_rating: 269,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3315,10 +4017,13 @@ const data = [
     years: "2013",
     durations: "143 мин",
     description: "",
-    director_id: 624,
+    director_id: 113,
     promo: "",
     genre_id: 20,
     country_id: 21,
+    count_rating: 673,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3329,10 +4034,13 @@ const data = [
     years: "2015",
     durations: "141 мин",
     description: "",
-    director_id: 574,
+    director_id: 66,
     promo: "",
     genre_id: 19,
     country_id: 8,
+    count_rating: 398,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3343,10 +4051,13 @@ const data = [
     years: "2011",
     durations: "110 мин",
     description: "",
-    director_id: 544,
+    director_id: 166,
     promo: "",
     genre_id: 16,
     country_id: 6,
+    count_rating: 694,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3357,10 +4068,13 @@ const data = [
     years: "2011",
     durations: "93 мин",
     description: "",
-    director_id: 267,
+    director_id: 185,
     promo: "",
     genre_id: 17,
     country_id: 14,
+    count_rating: 215,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3371,10 +4085,13 @@ const data = [
     years: "1997",
     durations: "144 мин",
     description: "",
-    director_id: 852,
+    director_id: 51,
     promo: "",
     genre_id: 18,
     country_id: 4,
+    count_rating: 685,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3385,10 +4102,13 @@ const data = [
     years: "1997",
     durations: "129 мин",
     description: "",
-    director_id: 492,
+    director_id: 45,
     promo: "",
     genre_id: 18,
     country_id: 1,
+    count_rating: 929,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3399,10 +4119,13 @@ const data = [
     years: "2008",
     durations: "118 мин",
     description: "",
-    director_id: 466,
+    director_id: 179,
     promo: "",
     genre_id: 19,
     country_id: 11,
+    count_rating: 575,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3413,10 +4136,13 @@ const data = [
     years: "2017",
     durations: "115 мин",
     description: "",
-    director_id: 603,
+    director_id: 51,
     promo: "",
     genre_id: 12,
     country_id: 16,
+    count_rating: 366,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3427,10 +4153,13 @@ const data = [
     years: "2004",
     durations: "115 мин",
     description: "",
-    director_id: 266,
+    director_id: 170,
     promo: "",
     genre_id: 14,
     country_id: 4,
+    count_rating: 346,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3441,10 +4170,13 @@ const data = [
     years: "2004",
     durations: "124 мин",
     description: "",
-    director_id: 851,
+    director_id: 37,
     promo: "",
     genre_id: 6,
     country_id: 1,
+    count_rating: 302,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3455,10 +4187,13 @@ const data = [
     years: "2016",
     durations: "107 мин",
     description: "",
-    director_id: 712,
+    director_id: 147,
     promo: "",
     genre_id: 9,
     country_id: 8,
+    count_rating: 60,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3469,10 +4204,13 @@ const data = [
     years: "2017",
     durations: "114 мин",
     description: "",
-    director_id: 127,
+    director_id: 137,
     promo: "",
     genre_id: 11,
     country_id: 4,
+    count_rating: 873,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3483,10 +4221,13 @@ const data = [
     years: "1989",
     durations: "108 мин",
     description: "",
-    director_id: 732,
+    director_id: 198,
     promo: "",
     genre_id: 12,
     country_id: 5,
+    count_rating: 668,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3497,10 +4238,13 @@ const data = [
     years: "2013–2022",
     durations: "60 мин",
     description: "",
-    director_id: 36,
+    director_id: 40,
     promo: "",
     genre_id: 9,
     country_id: 13,
+    count_rating: 298,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3511,10 +4255,13 @@ const data = [
     years: "2016",
     durations: "118 мин",
     description: "",
-    director_id: 446,
+    director_id: 145,
     promo: "",
     genre_id: 9,
     country_id: 13,
+    count_rating: 956,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3525,10 +4272,13 @@ const data = [
     years: "2005",
     durations: "86 мин",
     description: "",
-    director_id: 149,
+    director_id: 119,
     promo: "",
     genre_id: 17,
     country_id: 19,
+    count_rating: 681,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3539,10 +4289,13 @@ const data = [
     years: "2017",
     durations: "136 мин",
     description: "",
-    director_id: 31,
+    director_id: 47,
     promo: "",
     genre_id: 20,
     country_id: 14,
+    count_rating: 775,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3553,10 +4306,13 @@ const data = [
     years: "2021",
     durations: "55 мин",
     description: "",
-    director_id: 231,
+    director_id: 19,
     promo: "",
     genre_id: 12,
     country_id: 11,
+    count_rating: 932,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3567,10 +4323,13 @@ const data = [
     years: "2015",
     durations: "156 мин",
     description: "",
-    director_id: 657,
+    director_id: 73,
     promo: "",
     genre_id: 21,
     country_id: 6,
+    count_rating: 313,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3581,10 +4340,13 @@ const data = [
     years: "2011",
     durations: "100 мин",
     description: "",
-    director_id: 11,
+    director_id: 120,
     promo: "",
     genre_id: 9,
     country_id: 20,
+    count_rating: 575,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3595,10 +4357,13 @@ const data = [
     years: "2021",
     durations: "98 мин",
     description: "",
-    director_id: 388,
+    director_id: 147,
     promo: "",
     genre_id: 8,
     country_id: 6,
+    count_rating: 174,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3609,10 +4374,13 @@ const data = [
     years: "2009",
     durations: "96 мин",
     description: "",
-    director_id: 379,
+    director_id: 180,
     promo: "",
     genre_id: 15,
     country_id: 14,
+    count_rating: 205,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3623,10 +4391,13 @@ const data = [
     years: "2016",
     durations: "127 мин",
     description: "",
-    director_id: 16,
+    director_id: 27,
     promo: "",
     genre_id: 6,
     country_id: 7,
+    count_rating: 848,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3637,10 +4408,13 @@ const data = [
     years: "2002",
     durations: "81 мин",
     description: "",
-    director_id: 315,
+    director_id: 178,
     promo: "",
     genre_id: 15,
     country_id: 18,
+    count_rating: 314,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3651,10 +4425,13 @@ const data = [
     years: "1990",
     durations: "115 мин",
     description: "",
-    director_id: 819,
+    director_id: 2,
     promo: "",
     genre_id: 20,
     country_id: 10,
+    count_rating: 304,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3665,10 +4442,13 @@ const data = [
     years: "2021",
     durations: "92 мин",
     description: "",
-    director_id: 57,
+    director_id: 146,
     promo: "",
     genre_id: 7,
     country_id: 20,
+    count_rating: 144,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3679,10 +4459,13 @@ const data = [
     years: "2021",
     durations: "107 мин",
     description: "",
-    director_id: 847,
+    director_id: 21,
     promo: "",
     genre_id: 17,
     country_id: 16,
+    count_rating: 255,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3693,10 +4476,13 @@ const data = [
     years: "2018",
     durations: "134 мин",
     description: "",
-    director_id: 26,
+    director_id: 16,
     promo: "",
     genre_id: 17,
     country_id: 22,
+    count_rating: 509,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3707,10 +4493,13 @@ const data = [
     years: "2013–...",
     durations: "24 мин",
     description: "",
-    director_id: 67,
+    director_id: 5,
     promo: "",
     genre_id: 1,
     country_id: 21,
+    count_rating: 627,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3721,10 +4510,13 @@ const data = [
     years: "2019–...",
     durations: "60 мин",
     description: "",
-    director_id: 719,
+    director_id: 187,
     promo: "",
     genre_id: 13,
     country_id: 10,
+    count_rating: 535,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3735,10 +4527,13 @@ const data = [
     years: "2014",
     durations: "116 мин",
     description: "",
-    director_id: 212,
+    director_id: 150,
     promo: "",
     genre_id: 14,
     country_id: 13,
+    count_rating: 891,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3749,10 +4544,13 @@ const data = [
     years: "1975",
     durations: "184 мин",
     description: "",
-    director_id: 91,
+    director_id: 106,
     promo: "",
     genre_id: 1,
     country_id: 10,
+    count_rating: 676,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3763,10 +4561,13 @@ const data = [
     years: "2014",
     durations: "89 мин",
     description: "",
-    director_id: 533,
+    director_id: 31,
     promo: "",
     genre_id: 4,
     country_id: 21,
+    count_rating: 902,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3777,10 +4578,13 @@ const data = [
     years: "2013",
     durations: "125 мин",
     description: "",
-    director_id: 563,
+    director_id: 155,
     promo: "",
     genre_id: 20,
     country_id: 5,
+    count_rating: 322,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3791,10 +4595,13 @@ const data = [
     years: "2022",
     durations: "60 мин",
     description: "",
-    director_id: 432,
+    director_id: 158,
     promo: "",
     genre_id: 4,
     country_id: 9,
+    count_rating: 40,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3805,10 +4612,13 @@ const data = [
     years: "2016",
     durations: "116 мин",
     description: "",
-    director_id: 116,
+    director_id: 114,
     promo: "",
     genre_id: 21,
     country_id: 5,
+    count_rating: 642,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3819,10 +4629,13 @@ const data = [
     years: "2012",
     durations: "142 мин",
     description: "",
-    director_id: 741,
+    director_id: 162,
     promo: "",
     genre_id: 11,
     country_id: 20,
+    count_rating: 825,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3833,10 +4646,13 @@ const data = [
     years: "2014",
     durations: "97 мин",
     description: "",
-    director_id: 180,
+    director_id: 196,
     promo: "",
     genre_id: 7,
     country_id: 8,
+    count_rating: 571,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -3847,10 +4663,13 @@ const data = [
     years: "2016",
     durations: "142 мин",
     description: "",
-    director_id: 860,
+    director_id: 1,
     promo: "",
     genre_id: 3,
     country_id: 22,
+    count_rating: 977,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3861,10 +4680,13 @@ const data = [
     years: "2022",
     durations: "50 мин",
     description: "",
-    director_id: 57,
+    director_id: 47,
     promo: "",
     genre_id: 5,
     country_id: 1,
+    count_rating: 90,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3875,10 +4697,13 @@ const data = [
     years: "2013",
     durations: "106 мин",
     description: "",
-    director_id: 563,
+    director_id: 113,
     promo: "",
     genre_id: 7,
     country_id: 18,
+    count_rating: 454,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -3889,10 +4714,13 @@ const data = [
     years: "2014",
     durations: "134 мин",
     description: "",
-    director_id: 573,
+    director_id: 41,
     promo: "",
     genre_id: 6,
     country_id: 10,
+    count_rating: 165,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3903,10 +4731,13 @@ const data = [
     years: "2020",
     durations: "129 мин",
     description: "",
-    director_id: 892,
+    director_id: 57,
     promo: "",
     genre_id: 21,
     country_id: 21,
+    count_rating: 648,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -3917,10 +4748,13 @@ const data = [
     years: "2011",
     durations: "114 мин",
     description: "",
-    director_id: 888,
+    director_id: 95,
     promo: "",
     genre_id: 8,
     country_id: 20,
+    count_rating: 112,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3931,10 +4765,13 @@ const data = [
     years: "2022–...",
     durations: "45 мин",
     description: "",
-    director_id: 241,
+    director_id: 165,
     promo: "",
     genre_id: 2,
     country_id: 20,
+    count_rating: 119,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3945,10 +4782,13 @@ const data = [
     years: "2017",
     durations: "164 мин",
     description: "",
-    director_id: 178,
+    director_id: 143,
     promo: "",
     genre_id: 16,
     country_id: 11,
+    count_rating: 81,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3959,10 +4799,13 @@ const data = [
     years: "1978",
     durations: "19 мин",
     description: "",
-    director_id: 455,
+    director_id: 164,
     promo: "",
     genre_id: 18,
     country_id: 22,
+    count_rating: 624,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3973,10 +4816,13 @@ const data = [
     years: "2013",
     durations: "118 мин",
     description: "",
-    director_id: 258,
+    director_id: 6,
     promo: "",
     genre_id: 18,
     country_id: 8,
+    count_rating: 393,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -3987,10 +4833,13 @@ const data = [
     years: "2011",
     durations: "146 мин",
     description: "",
-    director_id: 604,
+    director_id: 53,
     promo: "",
     genre_id: 1,
     country_id: 4,
+    count_rating: 143,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4001,10 +4850,13 @@ const data = [
     years: "2008–2021",
     durations: "136 мин",
     description: "",
-    director_id: 819,
+    director_id: 188,
     promo: "",
     genre_id: 5,
     country_id: 22,
+    count_rating: 664,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4015,10 +4867,13 @@ const data = [
     years: "2019–...",
     durations: "43 мин",
     description: "",
-    director_id: 369,
+    director_id: 48,
     promo: "",
     genre_id: 2,
     country_id: 2,
+    count_rating: 762,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4029,10 +4884,13 @@ const data = [
     years: "2021",
     durations: "87 мин",
     description: "",
-    director_id: 746,
+    director_id: 39,
     promo: "",
     genre_id: 16,
     country_id: 10,
+    count_rating: 761,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4043,10 +4901,13 @@ const data = [
     years: "2006",
     durations: "117 мин",
     description: "",
-    director_id: 811,
+    director_id: 167,
     promo: "",
     genre_id: 19,
     country_id: 21,
+    count_rating: 656,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4057,10 +4918,13 @@ const data = [
     years: "2021",
     durations: "132 мин",
     description: "",
-    director_id: 738,
+    director_id: 92,
     promo: "",
     genre_id: 9,
     country_id: 7,
+    count_rating: 169,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4071,10 +4935,13 @@ const data = [
     years: "2011",
     durations: "136 мин",
     description: "",
-    director_id: 744,
+    director_id: 88,
     promo: "",
     genre_id: 6,
     country_id: 13,
+    count_rating: 9,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4085,10 +4952,13 @@ const data = [
     years: "2006",
     durations: "112 мин",
     description: "",
-    director_id: 753,
+    director_id: 196,
     promo: "",
     genre_id: 21,
     country_id: 3,
+    count_rating: 914,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4099,10 +4969,13 @@ const data = [
     years: "2013",
     durations: "116 мин",
     description: "",
-    director_id: 67,
+    director_id: 62,
     promo: "",
     genre_id: 8,
     country_id: 5,
+    count_rating: 699,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4113,10 +4986,13 @@ const data = [
     years: "2020",
     durations: "110 мин",
     description: "",
-    director_id: 91,
+    director_id: 41,
     promo: "",
     genre_id: 19,
     country_id: 13,
+    count_rating: 624,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4127,10 +5003,13 @@ const data = [
     years: "2004",
     durations: "119 мин",
     description: "",
-    director_id: 298,
+    director_id: 86,
     promo: "",
     genre_id: 13,
     country_id: 2,
+    count_rating: 34,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4141,10 +5020,13 @@ const data = [
     years: "2021",
     durations: "148 мин",
     description: "",
-    director_id: 302,
+    director_id: 84,
     promo: "",
     genre_id: 14,
     country_id: 6,
+    count_rating: 189,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4155,10 +5037,13 @@ const data = [
     years: "2012",
     durations: "131 мин",
     description: "",
-    director_id: 264,
+    director_id: 20,
     promo: "",
     genre_id: 1,
     country_id: 20,
+    count_rating: 441,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4169,10 +5054,13 @@ const data = [
     years: "2017",
     durations: "133 мин",
     description: "",
-    director_id: 453,
+    director_id: 110,
     promo: "",
     genre_id: 14,
     country_id: 15,
+    count_rating: 958,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4183,10 +5071,13 @@ const data = [
     years: "2015",
     durations: "120 мин",
     description: "",
-    director_id: 564,
+    director_id: 18,
     promo: "",
     genre_id: 3,
     country_id: 14,
+    count_rating: 548,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4197,10 +5088,13 @@ const data = [
     years: "2014",
     durations: "144 мин",
     description: "",
-    director_id: 555,
+    director_id: 135,
     promo: "",
     genre_id: 10,
     country_id: 9,
+    count_rating: 217,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4211,10 +5105,13 @@ const data = [
     years: "2021",
     durations: "50 мин",
     description: "",
-    director_id: 724,
+    director_id: 87,
     promo: "",
     genre_id: 11,
     country_id: 12,
+    count_rating: 262,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4225,10 +5122,13 @@ const data = [
     years: "2005",
     durations: "140 мин",
     description: "",
-    director_id: 392,
+    director_id: 3,
     promo: "",
     genre_id: 10,
     country_id: 22,
+    count_rating: 761,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4239,10 +5139,13 @@ const data = [
     years: "2003–2012",
     durations: "6 мин",
     description: "",
-    director_id: 507,
+    director_id: 130,
     promo: "",
     genre_id: 8,
     country_id: 15,
+    count_rating: 322,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4253,10 +5156,13 @@ const data = [
     years: "2017",
     durations: "129 мин",
     description: "",
-    director_id: 657,
+    director_id: 193,
     promo: "",
     genre_id: 2,
     country_id: 4,
+    count_rating: 478,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4267,10 +5173,13 @@ const data = [
     years: "2016",
     durations: "123 мин",
     description: "",
-    director_id: 177,
+    director_id: 144,
     promo: "",
     genre_id: 18,
     country_id: 12,
+    count_rating: 908,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4281,10 +5190,13 @@ const data = [
     years: "1972",
     durations: "175 мин",
     description: "",
-    director_id: 181,
+    director_id: 133,
     promo: "",
     genre_id: 6,
     country_id: 20,
+    count_rating: 917,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4295,10 +5207,13 @@ const data = [
     years: "2009",
     durations: "96 мин",
     description: "",
-    director_id: 15,
+    director_id: 60,
     promo: "",
     genre_id: 14,
     country_id: 20,
+    count_rating: 226,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4309,10 +5224,13 @@ const data = [
     years: "2006",
     durations: "136 мин",
     description: "",
-    director_id: 626,
+    director_id: 123,
     promo: "",
     genre_id: 21,
     country_id: 7,
+    count_rating: 862,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4323,10 +5241,13 @@ const data = [
     years: "2008",
     durations: "92 мин",
     description: "",
-    director_id: 94,
+    director_id: 17,
     promo: "",
     genre_id: 13,
     country_id: 16,
+    count_rating: 488,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4337,24 +5258,30 @@ const data = [
     years: "2004",
     durations: "131 мин",
     description: "",
-    director_id: 896,
+    director_id: 30,
     promo: "",
     genre_id: 15,
     country_id: 14,
+    count_rating: 870,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
       "avatars.mds.yandex.net/get-kinopoisk-image/1898899/c48824e7-89fc-4d6f-a55a-57a8fa05d38c/72x108",
-    name: "Дневник памяти",
+    name: "Дневник ��амяти",
     original_name: "The Notebook",
     rating: "8.2",
     years: "2004",
     durations: "124 мин",
     description: "",
-    director_id: 704,
+    director_id: 64,
     promo: "",
     genre_id: 4,
     country_id: 5,
+    count_rating: 616,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4365,10 +5292,13 @@ const data = [
     years: "1980",
     durations: "107 мин",
     description: "",
-    director_id: 154,
+    director_id: 10,
     promo: "",
     genre_id: 17,
     country_id: 4,
+    count_rating: 44,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4379,10 +5309,13 @@ const data = [
     years: "2011",
     durations: "119 мин",
     description: "",
-    director_id: 726,
+    director_id: 80,
     promo: "",
     genre_id: 1,
     country_id: 22,
+    count_rating: 703,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4393,10 +5326,13 @@ const data = [
     years: "2019",
     durations: "123 мин",
     description: "",
-    director_id: 748,
+    director_id: 94,
     promo: "",
     genre_id: 15,
     country_id: 12,
+    count_rating: 319,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4407,10 +5343,13 @@ const data = [
     years: "2004",
     durations: "93 мин",
     description: "",
-    director_id: 843,
+    director_id: 152,
     promo: "",
     genre_id: 13,
     country_id: 9,
+    count_rating: 545,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4421,10 +5360,13 @@ const data = [
     years: "2000",
     durations: "143 мин",
     description: "",
-    director_id: 390,
+    director_id: 130,
     promo: "",
     genre_id: 7,
     country_id: 1,
+    count_rating: 27,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4435,10 +5377,13 @@ const data = [
     years: "1998",
     durations: "86 мин",
     description: "",
-    director_id: 551,
+    director_id: 170,
     promo: "",
     genre_id: 3,
     country_id: 13,
+    count_rating: 658,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4449,10 +5394,13 @@ const data = [
     years: "1988",
     durations: "133 мин",
     description: "",
-    director_id: 834,
+    director_id: 125,
     promo: "",
     genre_id: 11,
     country_id: 16,
+    count_rating: 155,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4463,10 +5411,13 @@ const data = [
     years: "2022–...",
     durations: "26 мин",
     description: "",
-    director_id: 110,
+    director_id: 5,
     promo: "",
     genre_id: 11,
     country_id: 1,
+    count_rating: 197,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4477,10 +5428,13 @@ const data = [
     years: "1999",
     durations: "107 мин",
     description: "",
-    director_id: 534,
+    director_id: 31,
     promo: "",
     genre_id: 15,
     country_id: 2,
+    count_rating: 190,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4491,10 +5445,13 @@ const data = [
     years: "2007",
     durations: "143 мин",
     description: "",
-    director_id: 263,
+    director_id: 29,
     promo: "",
     genre_id: 10,
     country_id: 18,
+    count_rating: 583,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4505,10 +5462,13 @@ const data = [
     years: "2019",
     durations: "128 мин",
     description: "",
-    director_id: 686,
+    director_id: 177,
     promo: "",
     genre_id: 16,
     country_id: 18,
+    count_rating: 74,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4519,10 +5479,13 @@ const data = [
     years: "2009",
     durations: "158 мин",
     description: "",
-    director_id: 144,
+    director_id: 190,
     promo: "",
     genre_id: 3,
     country_id: 22,
+    count_rating: 335,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4533,10 +5496,13 @@ const data = [
     years: "2005",
     durations: "140 мин",
     description: "",
-    director_id: 870,
+    director_id: 91,
     promo: "",
     genre_id: 13,
     country_id: 18,
+    count_rating: 130,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4547,10 +5513,13 @@ const data = [
     years: "2008",
     durations: "122 мин",
     description: "",
-    director_id: 285,
+    director_id: 154,
     promo: "",
     genre_id: 8,
     country_id: 17,
+    count_rating: 905,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4561,10 +5530,13 @@ const data = [
     years: "2017",
     durations: "133 мин",
     description: "",
-    director_id: 870,
+    director_id: 7,
     promo: "",
     genre_id: 16,
     country_id: 7,
+    count_rating: 347,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4575,10 +5547,13 @@ const data = [
     years: "1998",
     durations: "119 мин",
     description: "",
-    director_id: 211,
+    director_id: 74,
     promo: "",
     genre_id: 10,
     country_id: 11,
+    count_rating: 823,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4589,10 +5564,13 @@ const data = [
     years: "2001",
     durations: "116 мин",
     description: "",
-    director_id: 549,
+    director_id: 90,
     promo: "",
     genre_id: 10,
     country_id: 4,
+    count_rating: 713,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4603,10 +5581,13 @@ const data = [
     years: "2010",
     durations: "108 мин",
     description: "",
-    director_id: 399,
+    director_id: 73,
     promo: "",
     genre_id: 11,
     country_id: 17,
+    count_rating: 654,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4617,10 +5598,13 @@ const data = [
     years: "2000",
     durations: "102 мин",
     description: "",
-    director_id: 544,
+    director_id: 79,
     promo: "",
     genre_id: 19,
     country_id: 18,
+    count_rating: 225,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4631,10 +5615,13 @@ const data = [
     years: "2021",
     durations: "111 мин",
     description: "",
-    director_id: 589,
+    director_id: 49,
     promo: "",
     genre_id: 14,
     country_id: 8,
+    count_rating: 230,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4645,10 +5632,13 @@ const data = [
     years: "1999",
     durations: "136 мин",
     description: "",
-    director_id: 123,
+    director_id: 72,
     promo: "",
     genre_id: 20,
     country_id: 5,
+    count_rating: 777,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4659,10 +5649,13 @@ const data = [
     years: "2021",
     durations: "134 мин",
     description: "",
-    director_id: 665,
+    director_id: 53,
     promo: "",
     genre_id: 3,
     country_id: 21,
+    count_rating: 178,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4673,10 +5666,13 @@ const data = [
     years: "1990",
     durations: "118 мин",
     description: "",
-    director_id: 372,
+    director_id: 160,
     promo: "",
     genre_id: 18,
     country_id: 21,
+    count_rating: 542,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4687,10 +5683,13 @@ const data = [
     years: "2022",
     durations: "113 мин",
     description: "",
-    director_id: 605,
+    director_id: 124,
     promo: "",
     genre_id: 11,
     country_id: 6,
+    count_rating: 340,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4701,10 +5700,13 @@ const data = [
     years: "2004–2010",
     durations: "43 мин",
     description: "",
-    director_id: 528,
+    director_id: 51,
     promo: "",
     genre_id: 5,
     country_id: 19,
+    count_rating: 409,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4715,10 +5717,13 @@ const data = [
     years: "2010",
     durations: "115 мин",
     description: "",
-    director_id: 315,
+    director_id: 128,
     promo: "",
     genre_id: 13,
     country_id: 3,
+    count_rating: 629,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4729,10 +5734,13 @@ const data = [
     years: "2010",
     durations: "118 мин",
     description: "",
-    director_id: 749,
+    director_id: 28,
     promo: "",
     genre_id: 16,
     country_id: 1,
+    count_rating: 248,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4743,10 +5751,13 @@ const data = [
     years: "2015",
     durations: "121 мин",
     description: "",
-    director_id: 571,
+    director_id: 143,
     promo: "",
     genre_id: 21,
     country_id: 6,
+    count_rating: 476,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4757,10 +5768,13 @@ const data = [
     years: "2017",
     durations: "137 мин",
     description: "",
-    director_id: 238,
+    director_id: 121,
     promo: "",
     genre_id: 11,
     country_id: 19,
+    count_rating: 661,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4771,10 +5785,13 @@ const data = [
     years: "2002",
     durations: "149 мин",
     description: "",
-    director_id: 80,
+    director_id: 75,
     promo: "",
     genre_id: 15,
     country_id: 13,
+    count_rating: 506,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4785,10 +5802,13 @@ const data = [
     years: "2018",
     durations: "102 мин",
     description: "",
-    director_id: 526,
+    director_id: 71,
     promo: "",
     genre_id: 10,
     country_id: 1,
+    count_rating: 306,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4799,10 +5819,13 @@ const data = [
     years: "2004–2008",
     durations: "22 мин",
     description: "",
-    director_id: 456,
+    director_id: 45,
     promo: "",
     genre_id: 15,
     country_id: 16,
+    count_rating: 282,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4813,10 +5836,13 @@ const data = [
     years: "2014–...",
     durations: "60 мин",
     description: "",
-    director_id: 622,
+    director_id: 176,
     promo: "",
     genre_id: 20,
     country_id: 9,
+    count_rating: 120,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4827,10 +5853,13 @@ const data = [
     years: "1988",
     durations: "136 мин",
     description: "",
-    director_id: 283,
+    director_id: 97,
     promo: "",
     genre_id: 19,
     country_id: 6,
+    count_rating: 986,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4841,10 +5870,13 @@ const data = [
     years: "1998",
     durations: "178 мин",
     description: "",
-    director_id: 140,
+    director_id: 116,
     promo: "",
     genre_id: 10,
     country_id: 9,
+    count_rating: 918,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -4855,10 +5887,13 @@ const data = [
     years: "2016",
     durations: "116 мин",
     description: "",
-    director_id: 899,
+    director_id: 197,
     promo: "",
     genre_id: 4,
     country_id: 1,
+    count_rating: 250,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4869,10 +5904,13 @@ const data = [
     years: "2019",
     durations: "100 мин",
     description: "",
-    director_id: 399,
+    director_id: 66,
     promo: "",
     genre_id: 14,
     country_id: 14,
+    count_rating: 115,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4883,10 +5921,13 @@ const data = [
     years: "2014",
     durations: "136 мин",
     description: "",
-    director_id: 70,
+    director_id: 49,
     promo: "",
     genre_id: 13,
     country_id: 19,
+    count_rating: 468,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4897,10 +5938,13 @@ const data = [
     years: "2020–...",
     durations: "51 мин",
     description: "",
-    director_id: 446,
+    director_id: 167,
     promo: "",
     genre_id: 19,
     country_id: 11,
+    count_rating: 547,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4911,10 +5955,13 @@ const data = [
     years: "2008",
     durations: "104 мин",
     description: "",
-    director_id: 690,
+    director_id: 24,
     promo: "",
     genre_id: 5,
     country_id: 8,
+    count_rating: 672,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4925,10 +5972,13 @@ const data = [
     years: "2013",
     durations: "108 мин",
     description: "",
-    director_id: 309,
+    director_id: 185,
     promo: "",
     genre_id: 10,
     country_id: 21,
+    count_rating: 177,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4939,10 +5989,13 @@ const data = [
     years: "2017",
     durations: "97 мин",
     description: "",
-    director_id: 505,
+    director_id: 10,
     promo: "",
     genre_id: 8,
     country_id: 17,
+    count_rating: 140,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -4953,10 +6006,13 @@ const data = [
     years: "2016",
     durations: "129 мин",
     description: "",
-    director_id: 474,
+    director_id: 99,
     promo: "",
     genre_id: 13,
     country_id: 6,
+    count_rating: 927,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -4967,10 +6023,13 @@ const data = [
     years: "2022",
     durations: "52 мин",
     description: "",
-    director_id: 545,
+    director_id: 157,
     promo: "",
     genre_id: 17,
     country_id: 8,
+    count_rating: 913,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4981,10 +6040,13 @@ const data = [
     years: "2015",
     durations: "113 мин",
     description: "",
-    director_id: 29,
+    director_id: 132,
     promo: "",
     genre_id: 1,
     country_id: 15,
+    count_rating: 43,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -4995,10 +6057,13 @@ const data = [
     years: "1975",
     durations: "133 мин",
     description: "",
-    director_id: 646,
+    director_id: 69,
     promo: "",
     genre_id: 7,
     country_id: 13,
+    count_rating: 455,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5009,10 +6074,13 @@ const data = [
     years: "2009",
     durations: "117 мин",
     description: "",
-    director_id: 831,
+    director_id: 91,
     promo: "",
     genre_id: 5,
     country_id: 19,
+    count_rating: 468,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5023,10 +6091,13 @@ const data = [
     years: "2012–2016",
     durations: "25 мин",
     description: "",
-    director_id: 280,
+    director_id: 61,
     promo: "",
     genre_id: 11,
     country_id: 21,
+    count_rating: 735,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5037,10 +6108,13 @@ const data = [
     years: "2018",
     durations: "100 мин",
     description: "",
-    director_id: 689,
+    director_id: 99,
     promo: "",
     genre_id: 14,
     country_id: 6,
+    count_rating: 658,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5051,10 +6125,13 @@ const data = [
     years: "2011",
     durations: "104 мин",
     description: "",
-    director_id: 416,
+    director_id: 4,
     promo: "",
     genre_id: 18,
     country_id: 19,
+    count_rating: 469,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5065,10 +6142,13 @@ const data = [
     years: "2001",
     durations: "122 мин",
     description: "",
-    director_id: 651,
+    director_id: 2,
     promo: "",
     genre_id: 4,
     country_id: 3,
+    count_rating: 957,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5079,10 +6159,13 @@ const data = [
     years: "2019",
     durations: "103 мин",
     description: "",
-    director_id: 54,
+    director_id: 8,
     promo: "",
     genre_id: 15,
     country_id: 19,
+    count_rating: 253,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5093,10 +6176,13 @@ const data = [
     years: "2005",
     durations: "111 мин",
     description: "",
-    director_id: 295,
+    director_id: 166,
     promo: "",
     genre_id: 13,
     country_id: 21,
+    count_rating: 725,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5107,10 +6193,13 @@ const data = [
     years: "1989–1990",
     durations: "22 мин",
     description: "",
-    director_id: 780,
+    director_id: 60,
     promo: "",
     genre_id: 15,
     country_id: 2,
+    count_rating: 607,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5121,10 +6210,13 @@ const data = [
     years: "2010",
     durations: "103 мин",
     description: "",
-    director_id: 720,
+    director_id: 53,
     promo: "",
     genre_id: 11,
     country_id: 4,
+    count_rating: 386,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5135,10 +6227,13 @@ const data = [
     years: "2012",
     durations: "131 мин",
     description: "",
-    director_id: 763,
+    director_id: 139,
     promo: "",
     genre_id: 5,
     country_id: 10,
+    count_rating: 157,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5149,10 +6244,13 @@ const data = [
     years: "2020",
     durations: "131 мин",
     description: "",
-    director_id: 346,
+    director_id: 114,
     promo: "",
     genre_id: 10,
     country_id: 16,
+    count_rating: 215,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5163,10 +6261,13 @@ const data = [
     years: "2007",
     durations: "139 мин",
     description: "",
-    director_id: 335,
+    director_id: 93,
     promo: "",
     genre_id: 3,
     country_id: 15,
+    count_rating: 514,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5177,10 +6278,13 @@ const data = [
     years: "2009",
     durations: "84 мин",
     description: "",
-    director_id: 90,
+    director_id: 77,
     promo: "",
     genre_id: 18,
     country_id: 10,
+    count_rating: 384,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5191,10 +6295,13 @@ const data = [
     years: "2003",
     durations: "101 мин",
     description: "",
-    director_id: 247,
+    director_id: 198,
     promo: "",
     genre_id: 17,
     country_id: 10,
+    count_rating: 804,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5205,10 +6312,13 @@ const data = [
     years: "2013",
     durations: "119 мин",
     description: "",
-    director_id: 195,
+    director_id: 161,
     promo: "",
     genre_id: 6,
     country_id: 13,
+    count_rating: 622,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5219,10 +6329,13 @@ const data = [
     years: "2005",
     durations: "120 мин",
     description: "",
-    director_id: 395,
+    director_id: 37,
     promo: "",
     genre_id: 3,
     country_id: 16,
+    count_rating: 961,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5233,10 +6346,13 @@ const data = [
     years: "2013",
     durations: "110 мин",
     description: "",
-    director_id: 139,
+    director_id: 38,
     promo: "",
     genre_id: 19,
     country_id: 16,
+    count_rating: 312,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5247,10 +6363,13 @@ const data = [
     years: "2017",
     durations: "117 мин",
     description: "",
-    director_id: 34,
+    director_id: 124,
     promo: "",
     genre_id: 10,
     country_id: 3,
+    count_rating: 740,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5261,10 +6380,13 @@ const data = [
     years: "2014",
     durations: "113 мин",
     description: "",
-    director_id: 346,
+    director_id: 78,
     promo: "",
     genre_id: 5,
     country_id: 17,
+    count_rating: 700,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5275,10 +6397,13 @@ const data = [
     years: "2017",
     durations: "114 мин",
     description: "",
-    director_id: 455,
+    director_id: 75,
     promo: "",
     genre_id: 11,
     country_id: 9,
+    count_rating: 331,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5289,10 +6414,13 @@ const data = [
     years: "2019",
     durations: "93 мин",
     description: "",
-    director_id: 54,
+    director_id: 127,
     promo: "",
     genre_id: 6,
     country_id: 4,
+    count_rating: 572,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5303,10 +6431,13 @@ const data = [
     years: "2022",
     durations: "45 мин",
     description: "",
-    director_id: 735,
+    director_id: 15,
     promo: "",
     genre_id: 8,
     country_id: 15,
+    count_rating: 493,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5317,10 +6448,13 @@ const data = [
     years: "2017",
     durations: "122 мин",
     description: "",
-    director_id: 594,
+    director_id: 29,
     promo: "",
     genre_id: 5,
     country_id: 7,
+    count_rating: 469,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5331,10 +6465,13 @@ const data = [
     years: "1977",
     durations: "121 мин",
     description: "",
-    director_id: 873,
+    director_id: 185,
     promo: "",
     genre_id: 19,
     country_id: 5,
+    count_rating: 863,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5345,10 +6482,13 @@ const data = [
     years: "1979",
     durations: "60 мин",
     description: "",
-    director_id: 407,
+    director_id: 73,
     promo: "",
     genre_id: 9,
     country_id: 22,
+    count_rating: 738,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5359,10 +6499,13 @@ const data = [
     years: "1991",
     durations: "84 мин",
     description: "",
-    director_id: 180,
+    director_id: 46,
     promo: "",
     genre_id: 15,
     country_id: 11,
+    count_rating: 910,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5373,10 +6516,13 @@ const data = [
     years: "2012",
     durations: "124 мин",
     description: "",
-    director_id: 354,
+    director_id: 52,
     promo: "",
     genre_id: 3,
     country_id: 13,
+    count_rating: 965,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5387,10 +6533,13 @@ const data = [
     years: "2004",
     durations: "163 мин",
     description: "",
-    director_id: 410,
+    director_id: 23,
     promo: "",
     genre_id: 12,
     country_id: 15,
+    count_rating: 252,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5401,10 +6550,13 @@ const data = [
     years: "2011",
     durations: "128 мин",
     description: "",
-    director_id: 392,
+    director_id: 113,
     promo: "",
     genre_id: 12,
     country_id: 9,
+    count_rating: 378,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5415,10 +6567,13 @@ const data = [
     years: "2015",
     durations: "117 мин",
     description: "",
-    director_id: 59,
+    director_id: 60,
     promo: "",
     genre_id: 1,
     country_id: 3,
+    count_rating: 535,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5429,10 +6584,13 @@ const data = [
     years: "2007",
     durations: "122 мин",
     description: "",
-    director_id: 124,
+    director_id: 155,
     promo: "",
     genre_id: 17,
     country_id: 13,
+    count_rating: 83,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5443,10 +6601,13 @@ const data = [
     years: "1999",
     durations: "124 мин",
     description: "",
-    director_id: 395,
+    director_id: 56,
     promo: "",
     genre_id: 5,
     country_id: 11,
+    count_rating: 696,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5457,10 +6618,13 @@ const data = [
     years: "2010",
     durations: "120 мин",
     description: "",
-    director_id: 445,
+    director_id: 31,
     promo: "",
     genre_id: 19,
     country_id: 21,
+    count_rating: 716,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5471,10 +6635,13 @@ const data = [
     years: "2008",
     durations: "91 мин",
     description: "",
-    director_id: 555,
+    director_id: 113,
     promo: "",
     genre_id: 1,
     country_id: 8,
+    count_rating: 333,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5485,10 +6652,13 @@ const data = [
     years: "2013",
     durations: "93 мин",
     description: "",
-    director_id: 338,
+    director_id: 43,
     promo: "",
     genre_id: 12,
     country_id: 22,
+    count_rating: 819,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5499,10 +6669,13 @@ const data = [
     years: "2016",
     durations: "48 мин",
     description: "",
-    director_id: 881,
+    director_id: 89,
     promo: "",
     genre_id: 5,
     country_id: 17,
+    count_rating: 42,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5513,10 +6686,13 @@ const data = [
     years: "2011–...",
     durations: "43 мин",
     description: "",
-    director_id: 862,
+    director_id: 72,
     promo: "",
     genre_id: 14,
     country_id: 6,
+    count_rating: 382,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5527,10 +6703,13 @@ const data = [
     years: "2019",
     durations: "130 мин",
     description: "",
-    director_id: 725,
+    director_id: 26,
     promo: "",
     genre_id: 3,
     country_id: 19,
+    count_rating: 479,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5541,10 +6720,13 @@ const data = [
     years: "2004",
     durations: "127 мин",
     description: "",
-    director_id: 431,
+    director_id: 75,
     promo: "",
     genre_id: 16,
     country_id: 18,
+    count_rating: 121,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5555,10 +6737,13 @@ const data = [
     years: "2010",
     durations: "95 мин",
     description: "",
-    director_id: 767,
+    director_id: 36,
     promo: "",
     genre_id: 13,
     country_id: 22,
+    count_rating: 564,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5569,10 +6754,13 @@ const data = [
     years: "1992",
     durations: "90 мин",
     description: "",
-    director_id: 216,
+    director_id: 147,
     promo: "",
     genre_id: 11,
     country_id: 7,
+    count_rating: 189,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5583,10 +6771,13 @@ const data = [
     years: "2018",
     durations: "134 мин",
     description: "",
-    director_id: 459,
+    director_id: 200,
     promo: "",
     genre_id: 21,
     country_id: 2,
+    count_rating: 983,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5597,10 +6788,13 @@ const data = [
     years: "2015–2021",
     durations: "53 мин",
     description: "",
-    director_id: 562,
+    director_id: 191,
     promo: "",
     genre_id: 5,
     country_id: 16,
+    count_rating: 129,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5611,10 +6805,13 @@ const data = [
     years: "2010–...",
     durations: "6 мин",
     description: "",
-    director_id: 762,
+    director_id: 176,
     promo: "",
     genre_id: 3,
     country_id: 2,
+    count_rating: 330,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5625,10 +6822,13 @@ const data = [
     years: "2007",
     durations: "124 мин",
     description: "",
-    director_id: 511,
+    director_id: 174,
     promo: "",
     genre_id: 16,
     country_id: 2,
+    count_rating: 883,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5639,10 +6839,13 @@ const data = [
     years: "1988",
     durations: "133 мин",
     description: "",
-    director_id: 255,
+    director_id: 153,
     promo: "",
     genre_id: 7,
     country_id: 2,
+    count_rating: 196,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5653,10 +6856,13 @@ const data = [
     years: "2001",
     durations: "116 мин",
     description: "",
-    director_id: 220,
+    director_id: 128,
     promo: "",
     genre_id: 3,
     country_id: 7,
+    count_rating: 980,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5667,10 +6873,13 @@ const data = [
     years: "2022",
     durations: "49 мин",
     description: "",
-    director_id: 750,
+    director_id: 2,
     promo: "",
     genre_id: 17,
     country_id: 7,
+    count_rating: 308,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5681,10 +6890,13 @@ const data = [
     years: "1959",
     durations: "119 мин",
     description: "",
-    director_id: 728,
+    director_id: 95,
     promo: "",
     genre_id: 4,
     country_id: 21,
+    count_rating: 294,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5695,10 +6907,13 @@ const data = [
     years: "2018",
     durations: "85 мин",
     description: "",
-    director_id: 128,
+    director_id: 109,
     promo: "",
     genre_id: 13,
     country_id: 21,
+    count_rating: 949,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5709,10 +6924,13 @@ const data = [
     years: "2015",
     durations: "116 мин",
     description: "",
-    director_id: 312,
+    director_id: 120,
     promo: "",
     genre_id: 6,
     country_id: 4,
+    count_rating: 370,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5723,10 +6941,13 @@ const data = [
     years: "2009–2011",
     durations: "43 мин",
     description: "",
-    director_id: 241,
+    director_id: 132,
     promo: "",
     genre_id: 14,
     country_id: 17,
+    count_rating: 583,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5737,10 +6958,13 @@ const data = [
     years: "2016",
     durations: "115 мин",
     description: "",
-    director_id: 821,
+    director_id: 46,
     promo: "",
     genre_id: 5,
     country_id: 4,
+    count_rating: 916,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5751,10 +6975,13 @@ const data = [
     years: "2010",
     durations: "93 мин",
     description: "",
-    director_id: 454,
+    director_id: 106,
     promo: "",
     genre_id: 19,
     country_id: 5,
+    count_rating: 182,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5765,10 +6992,13 @@ const data = [
     years: "1990",
     durations: "127 мин",
     description: "",
-    director_id: 178,
+    director_id: 70,
     promo: "",
     genre_id: 3,
     country_id: 15,
+    count_rating: 482,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5779,10 +7009,13 @@ const data = [
     years: "2016",
     durations: "128 мин",
     description: "",
-    director_id: 783,
+    director_id: 11,
     promo: "",
     genre_id: 8,
     country_id: 5,
+    count_rating: 165,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5793,10 +7026,13 @@ const data = [
     years: "1984",
     durations: "108 мин",
     description: "",
-    director_id: 437,
+    director_id: 158,
     promo: "",
     genre_id: 16,
     country_id: 7,
+    count_rating: 729,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5807,10 +7043,13 @@ const data = [
     years: "2005",
     durations: "110 мин",
     description: "",
-    director_id: 673,
+    director_id: 25,
     promo: "",
     genre_id: 1,
     country_id: 22,
+    count_rating: 757,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5821,10 +7060,13 @@ const data = [
     years: "2014",
     durations: "105 мин",
     description: "",
-    director_id: 466,
+    director_id: 142,
     promo: "",
     genre_id: 14,
     country_id: 13,
+    count_rating: 668,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5835,10 +7077,13 @@ const data = [
     years: "2017",
     durations: "126 мин",
     description: "",
-    director_id: 46,
+    director_id: 171,
     promo: "",
     genre_id: 9,
     country_id: 12,
+    count_rating: 716,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5849,10 +7094,13 @@ const data = [
     years: "2002",
     durations: "107 мин",
     description: "",
-    director_id: 341,
+    director_id: 2,
     promo: "",
     genre_id: 3,
     country_id: 12,
+    count_rating: 341,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5863,10 +7111,13 @@ const data = [
     years: "2019",
     durations: "95 мин",
     description: "",
-    director_id: 3,
+    director_id: 13,
     promo: "",
     genre_id: 15,
     country_id: 14,
+    count_rating: 515,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5877,10 +7128,13 @@ const data = [
     years: "2012",
     durations: "127 мин",
     description: "",
-    director_id: 213,
+    director_id: 59,
     promo: "",
     genre_id: 12,
     country_id: 19,
+    count_rating: 875,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5891,10 +7145,13 @@ const data = [
     years: "2010",
     durations: "93 мин",
     description: "",
-    director_id: 375,
+    director_id: 148,
     promo: "",
     genre_id: 19,
     country_id: 1,
+    count_rating: 338,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5905,10 +7162,13 @@ const data = [
     years: "2008",
     durations: "116 мин",
     description: "",
-    director_id: 28,
+    director_id: 112,
     promo: "",
     genre_id: 18,
     country_id: 13,
+    count_rating: 76,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5919,10 +7179,13 @@ const data = [
     years: "2013",
     durations: "146 мин",
     description: "",
-    director_id: 347,
+    director_id: 29,
     promo: "",
     genre_id: 12,
     country_id: 5,
+    count_rating: 440,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -5933,10 +7196,13 @@ const data = [
     years: "2018",
     durations: "90 мин",
     description: "",
-    director_id: 135,
+    director_id: 81,
     promo: "",
     genre_id: 11,
     country_id: 13,
+    count_rating: 219,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5947,10 +7213,13 @@ const data = [
     years: "2017",
     durations: "118 мин",
     description: "",
-    director_id: 639,
+    director_id: 87,
     promo: "",
     genre_id: 4,
     country_id: 22,
+    count_rating: 57,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -5961,10 +7230,13 @@ const data = [
     years: "2008",
     durations: "94 мин",
     description: "",
-    director_id: 817,
+    director_id: 67,
     promo: "",
     genre_id: 13,
     country_id: 17,
+    count_rating: 824,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -5975,10 +7247,13 @@ const data = [
     years: "1995",
     durations: "178 мин",
     description: "",
-    director_id: 160,
+    director_id: 10,
     promo: "",
     genre_id: 5,
     country_id: 18,
+    count_rating: 270,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -5989,10 +7264,13 @@ const data = [
     years: "2011",
     durations: "158 мин",
     description: "",
-    director_id: 473,
+    director_id: 151,
     promo: "",
     genre_id: 1,
     country_id: 17,
+    count_rating: 415,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6003,10 +7281,13 @@ const data = [
     years: "2013–2020",
     durations: "45 мин",
     description: "",
-    director_id: 498,
+    director_id: 119,
     promo: "",
     genre_id: 1,
     country_id: 8,
+    count_rating: 322,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6017,10 +7298,13 @@ const data = [
     years: "1980",
     durations: "124 мин",
     description: "",
-    director_id: 406,
+    director_id: 195,
     promo: "",
     genre_id: 3,
     country_id: 3,
+    count_rating: 546,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6031,10 +7315,13 @@ const data = [
     years: "2012",
     durations: "172 мин",
     description: "",
-    director_id: 180,
+    director_id: 105,
     promo: "",
     genre_id: 18,
     country_id: 22,
+    count_rating: 298,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6045,10 +7332,13 @@ const data = [
     years: "2017",
     durations: "141 мин",
     description: "",
-    director_id: 728,
+    director_id: 136,
     promo: "",
     genre_id: 3,
     country_id: 5,
+    count_rating: 732,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6059,10 +7349,13 @@ const data = [
     years: "2014",
     durations: "131 мин",
     description: "",
-    director_id: 490,
+    director_id: 143,
     promo: "",
     genre_id: 13,
     country_id: 18,
+    count_rating: 103,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6073,10 +7366,13 @@ const data = [
     years: "2021",
     durations: "127 мин",
     description: "",
-    director_id: 46,
+    director_id: 137,
     promo: "",
     genre_id: 5,
     country_id: 8,
+    count_rating: 574,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6087,10 +7383,13 @@ const data = [
     years: "2012",
     durations: "106 мин",
     description: "",
-    director_id: 74,
+    director_id: 81,
     promo: "",
     genre_id: 6,
     country_id: 17,
+    count_rating: 301,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6101,10 +7400,13 @@ const data = [
     years: "1998",
     durations: "169 мин",
     description: "",
-    director_id: 203,
+    director_id: 84,
     promo: "",
     genre_id: 8,
     country_id: 19,
+    count_rating: 691,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6115,10 +7417,13 @@ const data = [
     years: "1979",
     durations: "116 мин",
     description: "",
-    director_id: 199,
+    director_id: 124,
     promo: "",
     genre_id: 10,
     country_id: 17,
+    count_rating: 325,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6129,10 +7434,13 @@ const data = [
     years: "2022",
     durations: "108 ��ин",
     description: "",
-    director_id: 9,
+    director_id: 19,
     promo: "",
     genre_id: 6,
     country_id: 5,
+    count_rating: 88,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6143,10 +7451,13 @@ const data = [
     years: "2012",
     durations: "132 мин",
     description: "",
-    director_id: 771,
+    director_id: 58,
     promo: "",
     genre_id: 6,
     country_id: 2,
+    count_rating: 644,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6157,10 +7468,13 @@ const data = [
     years: "2020",
     durations: "121 мин",
     description: "",
-    director_id: 800,
+    director_id: 158,
     promo: "",
     genre_id: 11,
     country_id: 17,
+    count_rating: 386,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6171,10 +7485,13 @@ const data = [
     years: "2009",
     durations: "112 мин",
     description: "",
-    director_id: 30,
+    director_id: 58,
     promo: "",
     genre_id: 18,
     country_id: 20,
+    count_rating: 137,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6185,10 +7502,13 @@ const data = [
     years: "2018",
     durations: "90 мин",
     description: "",
-    director_id: 713,
+    director_id: 154,
     promo: "",
     genre_id: 18,
     country_id: 1,
+    count_rating: 971,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6199,10 +7519,13 @@ const data = [
     years: "2013",
     durations: "114 мин",
     description: "",
-    director_id: 869,
+    director_id: 52,
     promo: "",
     genre_id: 3,
     country_id: 7,
+    count_rating: 451,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6213,10 +7536,13 @@ const data = [
     years: "1999",
     durations: "105 мин",
     description: "",
-    director_id: 147,
+    director_id: 114,
     promo: "",
     genre_id: 10,
     country_id: 16,
+    count_rating: 535,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6227,10 +7553,13 @@ const data = [
     years: "1998",
     durations: "117 мин",
     description: "",
-    director_id: 886,
+    director_id: 97,
     promo: "",
     genre_id: 4,
     country_id: 4,
+    count_rating: 511,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6241,10 +7570,13 @@ const data = [
     years: "2004–2012",
     durations: "43 мин",
     description: "",
-    director_id: 736,
+    director_id: 103,
     promo: "",
     genre_id: 17,
     country_id: 21,
+    count_rating: 326,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6255,10 +7587,13 @@ const data = [
     years: "2021",
     durations: "120 мин",
     description: "",
-    director_id: 689,
+    director_id: 24,
     promo: "",
     genre_id: 9,
     country_id: 18,
+    count_rating: 26,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6269,10 +7604,13 @@ const data = [
     years: "2002",
     durations: "142 мин",
     description: "",
-    director_id: 278,
+    director_id: 166,
     promo: "",
     genre_id: 7,
     country_id: 18,
+    count_rating: 420,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6283,10 +7621,13 @@ const data = [
     years: "2014–2015",
     durations: "40 мин",
     description: "",
-    director_id: 508,
+    director_id: 133,
     promo: "",
     genre_id: 12,
     country_id: 15,
+    count_rating: 738,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6297,10 +7638,13 @@ const data = [
     years: "2014",
     durations: "105 мин",
     description: "",
-    director_id: 866,
+    director_id: 155,
     promo: "",
     genre_id: 20,
     country_id: 2,
+    count_rating: 755,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6311,10 +7655,13 @@ const data = [
     years: "2008",
     durations: "114 мин",
     description: "",
-    director_id: 658,
+    director_id: 91,
     promo: "",
     genre_id: 4,
     country_id: 22,
+    count_rating: 833,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6325,10 +7672,13 @@ const data = [
     years: "2020",
     durations: "90 мин",
     description: "",
-    director_id: 309,
+    director_id: 38,
     promo: "",
     genre_id: 8,
     country_id: 9,
+    count_rating: 996,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6339,10 +7689,13 @@ const data = [
     years: "1992",
     durations: "156 мин",
     description: "",
-    director_id: 688,
+    director_id: 182,
     promo: "",
     genre_id: 14,
     country_id: 4,
+    count_rating: 729,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6353,10 +7706,13 @@ const data = [
     years: "2019",
     durations: "118 мин",
     description: "",
-    director_id: 268,
+    director_id: 42,
     promo: "",
     genre_id: 11,
     country_id: 17,
+    count_rating: 830,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6367,10 +7723,13 @@ const data = [
     years: "2015",
     durations: "91 мин",
     description: "",
-    director_id: 327,
+    director_id: 52,
     promo: "",
     genre_id: 4,
     country_id: 12,
+    count_rating: 614,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6381,10 +7740,13 @@ const data = [
     years: "2022",
     durations: "147 мин",
     description: "",
-    director_id: 458,
+    director_id: 8,
     promo: "",
     genre_id: 16,
     country_id: 13,
+    count_rating: 608,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6395,10 +7757,13 @@ const data = [
     years: "2009",
     durations: "129 мин",
     description: "",
-    director_id: 519,
+    director_id: 53,
     promo: "",
     genre_id: 17,
     country_id: 15,
+    count_rating: 31,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6409,10 +7774,13 @@ const data = [
     years: "2017",
     durations: "101 мин",
     description: "",
-    director_id: 252,
+    director_id: 155,
     promo: "",
     genre_id: 11,
     country_id: 16,
+    count_rating: 707,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6423,10 +7791,13 @@ const data = [
     years: "1998",
     durations: "84 мин",
     description: "",
-    director_id: 297,
+    director_id: 71,
     promo: "",
     genre_id: 20,
     country_id: 2,
+    count_rating: 979,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6437,10 +7808,13 @@ const data = [
     years: "2003",
     durations: "111 мин",
     description: "",
-    director_id: 839,
+    director_id: 120,
     promo: "",
     genre_id: 8,
     country_id: 7,
+    count_rating: 84,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6451,10 +7825,13 @@ const data = [
     years: "2005",
     durations: "129 мин",
     description: "",
-    director_id: 677,
+    director_id: 30,
     promo: "",
     genre_id: 14,
     country_id: 1,
+    count_rating: 569,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6465,10 +7842,13 @@ const data = [
     years: "2009",
     durations: "162 мин",
     description: "",
-    director_id: 429,
+    director_id: 22,
     promo: "",
     genre_id: 11,
     country_id: 9,
+    count_rating: 360,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6479,10 +7859,13 @@ const data = [
     years: "2014",
     durations: "134 мин",
     description: "",
-    director_id: 509,
+    director_id: 162,
     promo: "",
     genre_id: 11,
     country_id: 2,
+    count_rating: 914,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6493,10 +7876,13 @@ const data = [
     years: "1989–...",
     durations: "22 мин",
     description: "",
-    director_id: 612,
+    director_id: 40,
     promo: "",
     genre_id: 11,
     country_id: 10,
+    count_rating: 44,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6507,10 +7893,13 @@ const data = [
     years: "2019",
     durations: "30 мин",
     description: "",
-    director_id: 564,
+    director_id: 124,
     promo: "",
     genre_id: 12,
     country_id: 9,
+    count_rating: 420,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6521,10 +7910,13 @@ const data = [
     years: "2007",
     durations: "107 мин",
     description: "",
-    director_id: 758,
+    director_id: 140,
     promo: "",
     genre_id: 10,
     country_id: 1,
+    count_rating: 236,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6535,10 +7927,13 @@ const data = [
     years: "2021",
     durations: "108 мин",
     description: "",
-    director_id: 622,
+    director_id: 1,
     promo: "",
     genre_id: 8,
     country_id: 8,
+    count_rating: 513,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6549,10 +7944,13 @@ const data = [
     years: "2001",
     durations: "106 мин",
     description: "",
-    director_id: 105,
+    director_id: 194,
     promo: "",
     genre_id: 6,
     country_id: 1,
+    count_rating: 166,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6563,10 +7961,13 @@ const data = [
     years: "2016",
     durations: "87 мин",
     description: "",
-    director_id: 738,
+    director_id: 73,
     promo: "",
     genre_id: 9,
     country_id: 2,
+    count_rating: 538,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6577,10 +7978,13 @@ const data = [
     years: "2019",
     durations: "151 мин",
     description: "",
-    director_id: 582,
+    director_id: 68,
     promo: "",
     genre_id: 20,
     country_id: 8,
+    count_rating: 940,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6591,10 +7995,13 @@ const data = [
     years: "2013",
     durations: "133 мин",
     description: "",
-    director_id: 240,
+    director_id: 97,
     promo: "",
     genre_id: 10,
     country_id: 12,
+    count_rating: 514,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6605,10 +8012,13 @@ const data = [
     years: "2018",
     durations: "97 мин",
     description: "",
-    director_id: 487,
+    director_id: 190,
     promo: "",
     genre_id: 20,
     country_id: 10,
+    count_rating: 815,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6619,10 +8029,13 @@ const data = [
     years: "1983",
     durations: "131 мин",
     description: "",
-    director_id: 379,
+    director_id: 15,
     promo: "",
     genre_id: 1,
     country_id: 21,
+    count_rating: 279,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6633,10 +8046,13 @@ const data = [
     years: "2015",
     durations: "130 мин",
     description: "",
-    director_id: 153,
+    director_id: 144,
     promo: "",
     genre_id: 14,
     country_id: 21,
+    count_rating: 189,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6647,10 +8063,13 @@ const data = [
     years: "2015",
     durations: "106 мин",
     description: "",
-    director_id: 295,
+    director_id: 142,
     promo: "",
     genre_id: 6,
     country_id: 2,
+    count_rating: 785,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6661,10 +8080,13 @@ const data = [
     years: "2013",
     durations: "131 мин",
     description: "",
-    director_id: 869,
+    director_id: 81,
     promo: "",
     genre_id: 9,
     country_id: 12,
+    count_rating: 803,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6675,10 +8097,13 @@ const data = [
     years: "2017",
     durations: "113 мин",
     description: "",
-    director_id: 298,
+    director_id: 71,
     promo: "",
     genre_id: 18,
     country_id: 4,
+    count_rating: 176,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6689,10 +8114,13 @@ const data = [
     years: "1999–...",
     durations: "22 мин",
     description: "",
-    director_id: 681,
+    director_id: 192,
     promo: "",
     genre_id: 1,
     country_id: 12,
+    count_rating: 883,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6703,10 +8131,13 @@ const data = [
     years: "2005",
     durations: "117 мин",
     description: "",
-    director_id: 683,
+    director_id: 113,
     promo: "",
     genre_id: 6,
     country_id: 15,
+    count_rating: 741,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6718,10 +8149,13 @@ const data = [
     years: "2005",
     durations: "143 мин",
     description: "",
-    director_id: 704,
+    director_id: 151,
     promo: "",
     genre_id: 13,
     country_id: 17,
+    count_rating: 775,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6732,10 +8166,13 @@ const data = [
     years: "2015",
     durations: "138 мин",
     description: "",
-    director_id: 649,
+    director_id: 8,
     promo: "",
     genre_id: 2,
     country_id: 1,
+    count_rating: 601,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6746,10 +8183,13 @@ const data = [
     years: "2022",
     durations: "107 мин",
     description: "",
-    director_id: 813,
+    director_id: 54,
     promo: "",
     genre_id: 2,
     country_id: 22,
+    count_rating: 804,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6760,10 +8200,13 @@ const data = [
     years: "2009",
     durations: "138 мин",
     description: "",
-    director_id: 785,
+    director_id: 198,
     promo: "",
     genre_id: 1,
     country_id: 20,
+    count_rating: 165,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6774,10 +8217,13 @@ const data = [
     years: "2015–...",
     durations: "20 мин",
     description: "",
-    director_id: 512,
+    director_id: 77,
     promo: "",
     genre_id: 13,
     country_id: 3,
+    count_rating: 134,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6788,10 +8234,13 @@ const data = [
     years: "1991",
     durations: "100 мин",
     description: "",
-    director_id: 731,
+    director_id: 158,
     promo: "",
     genre_id: 20,
     country_id: 19,
+    count_rating: 669,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6802,10 +8251,13 @@ const data = [
     years: "2012",
     durations: "106 мин",
     description: "",
-    director_id: 207,
+    director_id: 107,
     promo: "",
     genre_id: 4,
     country_id: 16,
+    count_rating: 680,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6816,10 +8268,13 @@ const data = [
     years: "2001–2010",
     durations: "22 мин",
     description: "",
-    director_id: 871,
+    director_id: 44,
     promo: "",
     genre_id: 16,
     country_id: 9,
+    count_rating: 695,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6830,10 +8285,13 @@ const data = [
     years: "2021",
     durations: "110 мин",
     description: "",
-    director_id: 800,
+    director_id: 75,
     promo: "",
     genre_id: 20,
     country_id: 8,
+    count_rating: 738,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6844,10 +8302,13 @@ const data = [
     years: "2018",
     durations: "112 мин",
     description: "",
-    director_id: 709,
+    director_id: 107,
     promo: "",
     genre_id: 1,
     country_id: 13,
+    count_rating: 756,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6858,10 +8319,13 @@ const data = [
     years: "2016",
     durations: "115 мин",
     description: "",
-    director_id: 50,
+    director_id: 21,
     promo: "",
     genre_id: 18,
     country_id: 1,
+    count_rating: 233,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6872,10 +8336,13 @@ const data = [
     years: "1999–...",
     durations: "22 мин",
     description: "",
-    director_id: 506,
+    director_id: 111,
     promo: "",
     genre_id: 13,
     country_id: 11,
+    count_rating: 422,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6886,10 +8353,13 @@ const data = [
     years: "2012",
     durations: "91 мин",
     description: "",
-    director_id: 567,
+    director_id: 68,
     promo: "",
     genre_id: 21,
     country_id: 2,
+    count_rating: 346,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6900,10 +8370,13 @@ const data = [
     years: "2009",
     durations: "107 мин",
     description: "",
-    director_id: 728,
+    director_id: 29,
     promo: "",
     genre_id: 17,
     country_id: 20,
+    count_rating: 157,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6914,10 +8387,13 @@ const data = [
     years: "2016",
     durations: "106 мин",
     description: "",
-    director_id: 24,
+    director_id: 143,
     promo: "",
     genre_id: 20,
     country_id: 16,
+    count_rating: 462,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -6928,10 +8404,13 @@ const data = [
     years: "2018",
     durations: "118 мин",
     description: "",
-    director_id: 278,
+    director_id: 21,
     promo: "",
     genre_id: 13,
     country_id: 17,
+    count_rating: 106,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6942,10 +8421,13 @@ const data = [
     years: "2015",
     durations: "125 мин",
     description: "",
-    director_id: 352,
+    director_id: 126,
     promo: "",
     genre_id: 14,
     country_id: 18,
+    count_rating: 608,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6956,10 +8438,13 @@ const data = [
     years: "2004",
     durations: "132 мин",
     description: "",
-    director_id: 62,
+    director_id: 174,
     promo: "",
     genre_id: 20,
     country_id: 10,
+    count_rating: 865,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -6970,10 +8455,13 @@ const data = [
     years: "2019",
     durations: "137 мин",
     description: "",
-    director_id: 582,
+    director_id: 13,
     promo: "",
     genre_id: 6,
     country_id: 2,
+    count_rating: 280,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -6984,10 +8472,13 @@ const data = [
     years: "2019",
     durations: "104 мин",
     description: "",
-    director_id: 361,
+    director_id: 43,
     promo: "",
     genre_id: 6,
     country_id: 6,
+    count_rating: 503,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -6998,10 +8489,13 @@ const data = [
     years: "2021–...",
     durations: "48 мин",
     description: "",
-    director_id: 441,
+    director_id: 37,
     promo: "",
     genre_id: 9,
     country_id: 4,
+    count_rating: 65,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -7012,10 +8506,13 @@ const data = [
     years: "2005–2017",
     durations: "43 мин",
     description: "",
-    director_id: 649,
+    director_id: 23,
     promo: "",
     genre_id: 15,
     country_id: 18,
+    count_rating: 681,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -7026,10 +8523,13 @@ const data = [
     years: "2003",
     durations: "138 мин",
     description: "",
-    director_id: 896,
+    director_id: 133,
     promo: "",
     genre_id: 13,
     country_id: 20,
+    count_rating: 863,
+    ageLimit: 18,
+    description_EN: "",
   },
   {
     avatars:
@@ -7040,10 +8540,13 @@ const data = [
     years: "2011",
     durations: "131 мин",
     description: "",
-    director_id: 537,
+    director_id: 32,
     promo: "",
     genre_id: 17,
     country_id: 14,
+    count_rating: 759,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -7054,10 +8557,13 @@ const data = [
     years: "2013",
     durations: "90 мин",
     description: "",
-    director_id: 544,
+    director_id: 73,
     promo: "",
     genre_id: 18,
     country_id: 12,
+    count_rating: 14,
+    ageLimit: 16,
+    description_EN: "",
   },
   {
     avatars:
@@ -7072,6 +8578,9 @@ const data = [
     promo: "",
     genre_id: 10,
     country_id: 8,
+    count_rating: 692,
+    ageLimit: 6,
+    description_EN: "",
   },
   {
     avatars:
@@ -7082,10 +8591,13 @@ const data = [
     years: "2008",
     durations: "120 мин",
     description: "",
-    director_id: 239,
+    director_id: 182,
     promo: "",
     genre_id: 4,
     country_id: 9,
+    count_rating: 125,
+    ageLimit: 12,
+    description_EN: "",
   },
   {
     avatars:
@@ -7096,19 +8608,23 @@ const data = [
     years: "1999",
     durations: "95 мин",
     description: "",
-    director_id: 140,
+    director_id: 61,
     promo: "",
     genre_id: 20,
     country_id: 21,
+    count_rating: 223,
+    ageLimit: 16,
+    description_EN: "",
   },
 ];
-
 function addDirectorId(films) {
   const ageLimits = [6, 12, 16, 18];
   films.forEach((film) => {
+    delete film.durations_EN;
     film.count_rating = Math.floor(Math.random() * 1000) + 1;
     film.ageLimit = ageLimits[Math.floor(Math.random() * ageLimits.length)];
     film.director_id = Math.floor(Math.random() * 200) + 1;
+    film.description_EN = "";
   });
 
   return films;
