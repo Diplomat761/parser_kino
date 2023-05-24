@@ -68,7 +68,7 @@ const data = [
       "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/55c1b347-ab1d-431b-bb42-323ce0ab3af7/600x900",
     name: "На солнце, вдоль рядов кукурузы",
     original_name: "На солнце, вдоль рядов кукурузы",
-    rating: "8ю4",
+    rating: "8.4",
     years: "2023",
     durations: "89 мин",
     description:
