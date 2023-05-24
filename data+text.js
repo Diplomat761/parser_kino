@@ -7078,7 +7078,7 @@ function addDirectorId(films) {
     delete film.country;
     delete film.roles;
     delete film.director;
-    film.director_id = Math.floor(Math.random() * 900) + 1;
+    film.director_id = Math.floor(Math.random() * 200) + 1;
     film.promo = "";
     film.genre_id = Math.floor(Math.random() * 21) + 1;
     film.country_id = Math.floor(Math.random() * 22) + 1;
