@@ -1689,7 +1689,7 @@ const data = [
     director_id: 91,
     promo: "",
     genre_id: 8,
-    country_id: 28,
+    country_id: 20,
     count_rating: 467,
     ageLimit: 12,
     description_EN:
@@ -8615,4 +8615,4 @@ const data = [
 ];
 
 const json = JSON.stringify(data);
-console.log(data);
+console.log(json);
