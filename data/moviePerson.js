@@ -1,4 +1,4 @@
-const numMovies = 505;
+const numMovies = 454;
 const numPeople = 200;
 
 const results = [];

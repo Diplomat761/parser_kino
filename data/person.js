@@ -5,7 +5,7 @@ const data = [
     description:
       "актер, режиссер, актер дубляжа, сценарист, продюсер, оператор. 51 год",
     DOB: "1971",
-    full_name_EN: "",
+    full_name_EN: "Vladimir Epifantsev",
     description_EN: "",
   },
   {
@@ -13,7 +13,7 @@ const data = [
     full_name: "Данила Козловский",
     description: "актер, продюсер, режиссер, актер дубляжа, сценарист. 38 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Danila Kozlovsky",
     description_EN: "",
   },
   {
@@ -21,7 +21,7 @@ const data = [
     full_name: "Александр Петров",
     description: "актер, режиссер, сценарист, продюсер, актер дубляжа. 34 года",
     DOB: "1989",
-    full_name_EN: "",
+    full_name_EN: "Alexander Petrov",
     description_EN: "",
   },
   {
@@ -29,7 +29,7 @@ const data = [
     full_name: "Константин Хабенский",
     description: "актер, актер дубляжа, режиссер, сценарист, продюсер. 51 год",
     DOB: "1972",
-    full_name_EN: "",
+    full_name_EN: "Konstantin Khabensky",
     description_EN: "",
   },
   {
@@ -38,7 +38,7 @@ const data = [
     description:
       "актриса, режиссер, сценарист, продюсер, оператор, актриса дубляжа. 40 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Svetlana Hodchenkova",
     description_EN: "",
   },
   {
@@ -46,7 +46,7 @@ const data = [
     full_name: "Дмитрий Назаров",
     description: "актер, актер дубляжа. 65 лет",
     DOB: "1957",
-    full_name_EN: "",
+    full_name_EN: "Dmitry Nazarov",
     description_EN: "",
   },
   {
@@ -54,7 +54,7 @@ const data = [
     full_name: "Любовь Аксёнова",
     description: "актриса, актриса дубляжа. 33 года",
     DOB: "1990",
-    full_name_EN: "",
+    full_name_EN: "Lyubov Aksyonova",
     description_EN: "",
   },
   {
@@ -62,7 +62,7 @@ const data = [
     full_name: "Дмитрий Нагиев",
     description: "актер, актер дубляжа. 56 лет",
     DOB: "1967",
-    full_name_EN: "",
+    full_name_EN: "Dmitry Nagiev",
     description_EN: "",
   },
   {
@@ -70,7 +70,7 @@ const data = [
     full_name: "Сергей Безруков",
     description: "актер, актер дубляжа, продюсер, режиссер, сценарист. 49 лет",
     DOB: "1973",
-    full_name_EN: "",
+    full_name_EN: "Sergey Bezrukov",
     description_EN: "",
   },
   {
@@ -78,7 +78,7 @@ const data = [
     full_name: "Сергей Бурунов",
     description: "актер дубляжа, актер. 46 лет",
     DOB: "1977",
-    full_name_EN: "",
+    full_name_EN: "Sergey Burunov",
     description_EN: "",
   },
   {
@@ -86,7 +86,7 @@ const data = [
     full_name: "Антон Ельчин",
     description: "актер. 27 лет",
     DOB: "1989 – 2016",
-    full_name_EN: "",
+    full_name_EN: "Anton Yelchin",
     description_EN: "",
   },
   {
@@ -94,7 +94,7 @@ const data = [
     full_name: "Юлия Александрова",
     description: "актриса, оператор. 41 год",
     DOB: "1982",
-    full_name_EN: "",
+    full_name_EN: "Julia Alexandrova",
     description_EN: "",
   },
   {
@@ -102,7 +102,7 @@ const data = [
     full_name: "Кристина Асмус",
     description: "актриса, актриса дубляжа. 35 лет",
     DOB: "1988",
-    full_name_EN: "",
+    full_name_EN: "Christine Asmus",
     description_EN: "",
   },
   {
@@ -111,7 +111,7 @@ const data = [
     description:
       "актер, актер дубляжа, сценарист, режиссер, композитор, монтажер, продюсер. 41 год",
     DOB: "1982",
-    full_name_EN: "",
+    full_name_EN: "Pyotr Fedorov",
     description_EN: "",
   },
   {
@@ -119,7 +119,7 @@ const data = [
     full_name: "Владимир Машков",
     description: "актер, режиссер, продюсер, сценарист, актер дубляжа. 59 лет",
     DOB: "1963",
-    full_name_EN: "",
+    full_name_EN: "Vladimir Mashkov",
     description_EN: "",
   },
   {
@@ -127,7 +127,7 @@ const data = [
     full_name: "Екатерина Вилкова",
     description: "актриса. 38 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Ekaterina Vilkova",
     description_EN: "",
   },
   {
@@ -135,7 +135,7 @@ const data = [
     full_name: "Оксана Акиньшина",
     description: "актриса. 36 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Oksana Akinshina",
     description_EN: "",
   },
   {
@@ -143,7 +143,7 @@ const data = [
     full_name: "Фёдор Бондарчук",
     description: "актер, продюсер, режиссер, актер дубляжа, сценарист. 56 лет",
     DOB: "1967",
-    full_name_EN: "",
+    full_name_EN: "Fedor Bondarchuk",
     description_EN: "",
   },
   {
@@ -151,7 +151,7 @@ const data = [
     full_name: "Катерина Шпица",
     description: "актриса, актриса дубляжа. 37 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Katerina Shpitsa",
     description_EN: "",
   },
   {
@@ -159,7 +159,7 @@ const data = [
     full_name: "Паулина Андреева",
     description: "актриса, сценарист, режиссер, продюсер. 34 года",
     DOB: "1988",
-    full_name_EN: "",
+    full_name_EN: "Paulina Andreeva",
     description_EN: "",
   },
   {
@@ -168,7 +168,7 @@ const data = [
     description:
       "актер, режиссер, сценарист, композитор, монтажер, продюсер. 41 год",
     DOB: "1981",
-    full_name_EN: "",
+    full_name_EN: "Yuri Bykov",
     description_EN: "",
   },
   {
@@ -176,7 +176,7 @@ const data = [
     full_name: "Екатерина Климова",
     description: "актриса, актриса дубляжа. 45 лет",
     DOB: "1978",
-    full_name_EN: "",
+    full_name_EN: "Ekaterina Klimova",
     description_EN: "",
   },
   {
@@ -184,7 +184,7 @@ const data = [
     full_name: "Алексей Балабанов",
     description: "режиссер, сценарист, актер, продюсер, актер дубляжа. 54 года",
     DOB: "1959 – 2013",
-    full_name_EN: "",
+    full_name_EN: "Alexey Balabanov",
     description_EN: "",
   },
   {
@@ -193,7 +193,7 @@ const data = [
     description:
       "актер, режиссер, сценарист, продюсер, композитор, актер дубляжа. 44 года",
     DOB: "1979",
-    full_name_EN: "",
+    full_name_EN: "Evgeny Tsyganov",
     description_EN: "",
   },
   {
@@ -201,7 +201,7 @@ const data = [
     full_name: "Светлана Иванова",
     description: "актриса, актриса дубляжа. 37 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Svetlana Ivanova",
     description_EN: "",
   },
   {
@@ -209,7 +209,7 @@ const data = [
     full_name: "Янина Студилина",
     description: "актриса. 37 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Yanina Studilina",
     description_EN: "",
   },
   {
@@ -217,7 +217,7 @@ const data = [
     full_name: "Елена Лядова",
     description: "актриса, актриса дубляжа. 42 года",
     DOB: "1980",
-    full_name_EN: "",
+    full_name_EN: "Elena Lyadova",
     description_EN: "",
   },
   {
@@ -225,7 +225,7 @@ const data = [
     full_name: "Дарья Мельникова",
     description: "актриса, актриса дубляжа. 31 год",
     DOB: "1992",
-    full_name_EN: "",
+    full_name_EN: "Daria Melnikova",
     description_EN: "",
   },
   {
@@ -233,7 +233,7 @@ const data = [
     full_name: "Алексей Чадов",
     description: "актер, сценарист, актер дубляжа, режиссер, продюсер. 41 год",
     DOB: "1981",
-    full_name_EN: "",
+    full_name_EN: "Alexey Chadov",
     description_EN: "",
   },
   {
@@ -241,7 +241,7 @@ const data = [
     full_name: "Елизавета Боярская",
     description: "актриса, актриса дубляжа. 37 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Elizaveta Boyarskaya",
     description_EN: "",
   },
   {
@@ -249,7 +249,7 @@ const data = [
     full_name: "Максим Матвеев",
     description: "актер, актер дубляжа. 40 лет",
     DOB: "1982",
-    full_name_EN: "",
+    full_name_EN: "Maxim Matveev",
     description_EN: "",
   },
   {
@@ -258,7 +258,7 @@ const data = [
     description:
       "актер, режиссер, продюсер, сценарист, директор фильма. 77 лет",
     DOB: "1945",
-    full_name_EN: "",
+    full_name_EN: "Nikita Mikhalkov",
     description_EN: "",
   },
   {
@@ -266,7 +266,7 @@ const data = [
     full_name: "Иван Охлобыстин",
     description: "актер, сценарист, режиссер, актер дубляжа, продюсер. 56 лет",
     DOB: "1966",
-    full_name_EN: "",
+    full_name_EN: "Ivan Okhlobystin",
     description_EN: "",
   },
   {
@@ -274,7 +274,7 @@ const data = [
     full_name: "Ирина Старшенбаум",
     description: "актриса, продюсер, актриса дубляжа. 31 год",
     DOB: "1992",
-    full_name_EN: "",
+    full_name_EN: "Irina Starshenbaum",
     description_EN: "",
   },
   {
@@ -282,7 +282,7 @@ const data = [
     full_name: "Елена Подкаминская",
     description: "актриса. 44 года",
     DOB: "1979",
-    full_name_EN: "",
+    full_name_EN: "Elena Podkaminskaya",
     description_EN: "",
   },
   {
@@ -290,7 +290,7 @@ const data = [
     full_name: "Анастасия Панина",
     description: "актриса. 40 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Anastasia Panina",
     description_EN: "",
   },
   {
@@ -298,7 +298,7 @@ const data = [
     full_name: "Владимир Яглыч",
     description: "актер, актер дубляжа. 40 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Vladimir Yaglych",
     description_EN: "",
   },
   {
@@ -306,7 +306,7 @@ const data = [
     full_name: "Настасья Самбурская",
     description: "актриса, актриса дубляжа, продюсер. 36 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Nastasya Samburskaya",
     description_EN: "",
   },
   {
@@ -314,7 +314,7 @@ const data = [
     full_name: "Александр Паль",
     description: "актер, актер дубляжа. 34 года",
     DOB: "1988",
-    full_name_EN: "",
+    full_name_EN: "Alexander Pal",
     description_EN: "",
   },
   {
@@ -322,7 +322,7 @@ const data = [
     full_name: "Алексей Серебряков",
     description: "актер, актер дубляжа. 58 лет",
     DOB: "1964",
-    full_name_EN: "",
+    full_name_EN: "Alexey Serebryakov",
     description_EN: "",
   },
   {
@@ -330,7 +330,7 @@ const data = [
     full_name: "Павел Деревянко",
     description: "актер, актер дубляжа. 46 лет",
     DOB: "1976",
-    full_name_EN: "",
+    full_name_EN: "Pavel Derevyanko",
     description_EN: "",
   },
   {
@@ -338,7 +338,7 @@ const data = [
     full_name: "Ингрид Олеринская",
     description: "актриса. 31 год",
     DOB: "1992",
-    full_name_EN: "",
+    full_name_EN: "Ingrid Olerinskaya",
     description_EN: "",
   },
   {
@@ -346,7 +346,7 @@ const data = [
     full_name: "Мария Горбань",
     description: "актриса. 36 лет",
     DOB: "1986",
-    full_name_EN: "",
+    full_name_EN: "Maria Gorban",
     description_EN: "",
   },
   {
@@ -354,7 +354,7 @@ const data = [
     full_name: "Юлия Пересильд",
     description: "актриса. 38 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Julia Peresild",
     description_EN: "",
   },
   {
@@ -362,7 +362,7 @@ const data = [
     full_name: "Сергей Бодров мл.",
     description: "актер, сценарист, режиссер. 30 лет",
     DOB: "1971 – 2002",
-    full_name_EN: "",
+    full_name_EN: "Sergei Bodrov Jr.",
     description_EN: "",
   },
   {
@@ -370,7 +370,7 @@ const data = [
     full_name: "Аня Чиповская",
     description: "актриса, актриса дубляжа. 35 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Anya Chipovskaya",
     description_EN: "",
   },
   {
@@ -378,7 +378,7 @@ const data = [
     full_name: "Владимир Вдовиченков",
     description: "актер, актер дубляжа. 51 год",
     DOB: "1971",
-    full_name_EN: "",
+    full_name_EN: "Vladimir Vdovichenkov",
     description_EN: "",
   },
   {
@@ -386,7 +386,7 @@ const data = [
     full_name: "Андрей Звягинцев",
     description: "режиссер, актер, сценарист, продюсер, монтажер. 59 лет",
     DOB: "1964",
-    full_name_EN: "",
+    full_name_EN: "Andrey Zvyagintsev",
     description_EN: "",
   },
   {
@@ -394,7 +394,7 @@ const data = [
     full_name: "Роман Курцын",
     description: "актер, продюсер, актер дубляжа. 38 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Roman Kurtsyn",
     description_EN: "",
   },
   {
@@ -402,7 +402,7 @@ const data = [
     full_name: "Юлия Снигирь",
     description: "актриса, актриса дубляжа. 39 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Julia Snigir",
     description_EN: "",
   },
   {
@@ -410,7 +410,7 @@ const data = [
     full_name: "Валерия Федорович",
     description: "актриса. 30 лет",
     DOB: "1992",
-    full_name_EN: "",
+    full_name_EN: "Valeria Fedorovich",
     description_EN: "",
   },
   {
@@ -418,7 +418,7 @@ const data = [
     full_name: "Артур Смольянинов",
     description: "актер, актер дубляжа. 39 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Arthur Smolyaninov",
     description_EN: "",
   },
   {
@@ -426,7 +426,7 @@ const data = [
     full_name: "Анна Хилькевич",
     description: "актриса, актриса дубляжа. 36 лет",
     DOB: "1986",
-    full_name_EN: "",
+    full_name_EN: "Anna Khilkevich",
     description_EN: "",
   },
   {
@@ -434,7 +434,7 @@ const data = [
     full_name: "София Каштанова",
     description: "актриса. 35 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Sofia Kashtanova",
     description_EN: "",
   },
   {
@@ -442,7 +442,7 @@ const data = [
     full_name: "Мария Кожевникова",
     description: "актриса, актриса дубляжа. 38 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Mariya Kozhevnikova",
     description_EN: "",
   },
   {
@@ -450,7 +450,7 @@ const data = [
     full_name: "Юрий Колокольников",
     description: "актер, актер дубляжа, продюсер. 42 года",
     DOB: "1980",
-    full_name_EN: "",
+    full_name_EN: "Yuri Kolokolnikov",
     description_EN: "",
   },
   {
@@ -458,7 +458,7 @@ const data = [
     full_name: "Полина Максимова",
     description: "актриса, актриса дубляжа. 33 года",
     DOB: "1989",
-    full_name_EN: "",
+    full_name_EN: "Polina Maksimova",
     description_EN: "",
   },
   {
@@ -466,7 +466,7 @@ const data = [
     full_name: "Ольга Серябкина",
     description: "актриса, композитор. 38 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Olga Seryabkina",
     description_EN: "",
   },
   {
@@ -474,7 +474,7 @@ const data = [
     full_name: "Евгений Миронов",
     description: "актер, продюсер, актер дубляжа, сценарист. 56 лет",
     DOB: "1966",
-    full_name_EN: "",
+    full_name_EN: "Evgeny Mironov",
     description_EN: "",
   },
   {
@@ -483,7 +483,7 @@ const data = [
     description:
       "сценарист, режиссер, актер, монтажер, художник, директор фильма. 54 года",
     DOB: "1932 – 1986",
-    full_name_EN: "",
+    full_name_EN: "Andrei Tarkovsky",
     description_EN: "",
   },
   {
@@ -491,7 +491,7 @@ const data = [
     full_name: "Жора Крыжовников",
     description: "сценарист, режиссер, продюсер, художник. 44 года",
     DOB: "1979",
-    full_name_EN: "",
+    full_name_EN: "Zhora Kryzhovnikov",
     description_EN: "",
   },
   {
@@ -499,7 +499,7 @@ const data = [
     full_name: "Евгения Брик",
     description: "актриса. 40 лет",
     DOB: "1981 – 2022",
-    full_name_EN: "",
+    full_name_EN: "Evgenia Brik",
     description_EN: "",
   },
   {
@@ -507,7 +507,7 @@ const data = [
     full_name: "Илья Найшуллер",
     description: "режиссер, актер, продюсер, сценарист, композитор. 39 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Ilya Naishuller",
     description_EN: "",
   },
   {
@@ -515,7 +515,7 @@ const data = [
     full_name: "Татьяна Арнтгольц",
     description: "актриса, актриса дубляжа. 41 год",
     DOB: "1982",
-    full_name_EN: "",
+    full_name_EN: "Tatyana Arntgolts",
     description_EN: "",
   },
   {
@@ -523,7 +523,7 @@ const data = [
     full_name: "Анна Михайловская",
     description: "актриса. 34 года",
     DOB: "1988",
-    full_name_EN: "",
+    full_name_EN: "Anna Mikhailovskaya",
     description_EN: "",
   },
   {
@@ -531,7 +531,7 @@ const data = [
     full_name: "Анна Старшенбаум",
     description: "актриса, актриса дубляжа, продюсер. 34 года",
     DOB: "1989",
-    full_name_EN: "",
+    full_name_EN: "Anna Starshenbaum",
     description_EN: "",
   },
   {
@@ -539,7 +539,7 @@ const data = [
     full_name: "Артём Ткаченко",
     description: "актер. 41 год",
     DOB: "1982",
-    full_name_EN: "",
+    full_name_EN: "Artyom Tkachenko",
     description_EN: "",
   },
   {
@@ -547,7 +547,7 @@ const data = [
     full_name: "Виктор Хориняк",
     description: "актер, актер дубляжа. 33 года",
     DOB: "1990",
-    full_name_EN: "",
+    full_name_EN: "Victor Khorinyak",
     description_EN: "",
   },
   {
@@ -555,7 +555,7 @@ const data = [
     full_name: "Юлия Хлынина",
     description: "актриса, актриса дубляжа. 31 год",
     DOB: "1992",
-    full_name_EN: "",
+    full_name_EN: "Julia Khlynina",
     description_EN: "",
   },
   {
@@ -563,7 +563,7 @@ const data = [
     full_name: "Сергей Романович",
     description: "актер. 30 лет",
     DOB: "1992",
-    full_name_EN: "",
+    full_name_EN: "Sergei Romanovich",
     description_EN: "",
   },
   {
@@ -571,7 +571,7 @@ const data = [
     full_name: "Никита Панфилов",
     description: "актер, актер дубляжа. 44 года",
     DOB: "1979",
-    full_name_EN: "",
+    full_name_EN: "Nikita Panfilov",
     description_EN: "",
   },
   {
@@ -579,7 +579,7 @@ const data = [
     full_name: "Карина Разумовская",
     description: "актриса, актриса дубляжа. 40 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Karina Razumovskaya",
     description_EN: "",
   },
   {
@@ -587,7 +587,7 @@ const data = [
     full_name: "Илья Любимов",
     description: "актер, актер дубляжа. 46 лет",
     DOB: "1977",
-    full_name_EN: "",
+    full_name_EN: "Ilya Lyubimov",
     description_EN: "",
   },
   {
@@ -596,7 +596,7 @@ const data = [
     description:
       "актер, актер дубляжа, сценарист, продюсер, композитор. 42 года",
     DOB: "1981",
-    full_name_EN: "",
+    full_name_EN: "Garik Kharlamov",
     description_EN: "",
   },
   {
@@ -604,7 +604,7 @@ const data = [
     full_name: "Марк Богатырев",
     description: "актер. 38 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Mark Bogatyrev",
     description_EN: "",
   },
   {
@@ -612,7 +612,7 @@ const data = [
     full_name: "Елизавета Арзамасова",
     description: "актриса, актриса дубляжа, сценарист. 28 лет",
     DOB: "1995",
-    full_name_EN: "",
+    full_name_EN: "Elizaveta Arzamasova",
     description_EN: "",
   },
   {
@@ -620,7 +620,7 @@ const data = [
     full_name: "Екатерина Гусева",
     description: "актриса, актриса дубляжа. 46 лет",
     DOB: "1976",
-    full_name_EN: "",
+    full_name_EN: "Ekaterina Guseva",
     description_EN: "",
   },
   {
@@ -628,7 +628,7 @@ const data = [
     full_name: "Сергей Светлаков",
     description: "актер, продюсер, сценарист, актер дубляжа. 45 лет",
     DOB: "1977",
-    full_name_EN: "",
+    full_name_EN: "Sergei Svetlakov",
     description_EN: "",
   },
   {
@@ -636,7 +636,7 @@ const data = [
     full_name: "Михаил Ефремов",
     description: "актер, сценарист, актер дубляжа. 59 лет",
     DOB: "1963",
-    full_name_EN: "",
+    full_name_EN: "Mikhail Efremov",
     description_EN: "",
   },
   {
@@ -644,7 +644,7 @@ const data = [
     full_name: "Илья Глинников",
     description: "актер, режиссер, сценарист, продюсер. 38 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Ilya Glinnikov",
     description_EN: "",
   },
   {
@@ -652,7 +652,7 @@ const data = [
     full_name: "Анфиса Вистингаузен",
     description: "актриса. 23 года",
     DOB: "1999",
-    full_name_EN: "",
+    full_name_EN: "Anfisa Wistinghausen",
     description_EN: "",
   },
   {
@@ -660,7 +660,7 @@ const data = [
     full_name: "Андрей Смоляков",
     description: "актер. 64 года",
     DOB: "1958",
-    full_name_EN: "",
+    full_name_EN: "Andrey Smolyakov",
     description_EN: "",
   },
   {
@@ -668,7 +668,7 @@ const data = [
     full_name: "Таисия Вилкова",
     description: "актриса, актриса дубляжа. 26 лет",
     DOB: "1996",
-    full_name_EN: "",
+    full_name_EN: "Taisiya Vilkova",
     description_EN: "",
   },
   {
@@ -676,7 +676,7 @@ const data = [
     full_name: "Андрей Панин",
     description: "актер, режиссер, продюсер. 50 лет",
     DOB: "1962 – 2013",
-    full_name_EN: "",
+    full_name_EN: "Andrei Panin",
     description_EN: "",
   },
   {
@@ -684,7 +684,7 @@ const data = [
     full_name: "Ольга Кузьмина",
     description: "актриса, актриса дубляжа. 35 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Olga Kuzmina",
     description_EN: "",
   },
   {
@@ -692,7 +692,7 @@ const data = [
     full_name: "Андрей Миронов",
     description: "актер, режиссер. 46 лет",
     DOB: "1941 – 1987",
-    full_name_EN: "",
+    full_name_EN: "Andrey Mironov",
     description_EN: "",
   },
   {
@@ -700,7 +700,7 @@ const data = [
     full_name: "Зоя Бербер",
     description: "актриса, актриса дубляжа. 35 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Zoya Berber",
     description_EN: "",
   },
   {
@@ -708,7 +708,7 @@ const data = [
     full_name: "Лукерья Ильяшенко",
     description: "актриса. 33 года",
     DOB: "1989",
-    full_name_EN: "",
+    full_name_EN: "Lukerya Ilyashenko",
     description_EN: "",
   },
   {
@@ -716,7 +716,7 @@ const data = [
     full_name: "Аристарх Венес",
     description: "актер, продюсер. 33 года",
     DOB: "1989",
-    full_name_EN: "",
+    full_name_EN: "Aristarchus Venes",
     description_EN: "",
   },
   {
@@ -724,7 +724,7 @@ const data = [
     full_name: "Светлана Устинова",
     description: "актриса, сценарист, продюсер, режиссер. 41 год",
     DOB: "1982",
-    full_name_EN: "",
+    full_name_EN: "Svetlana Ustinova",
     description_EN: "",
   },
   {
@@ -732,7 +732,7 @@ const data = [
     full_name: "Олег Меньшиков",
     description: "актер, актер дубляжа, режиссер. 62 года",
     DOB: "1960",
-    full_name_EN: "",
+    full_name_EN: "Oleg Menshikov",
     description_EN: "",
   },
   {
@@ -740,7 +740,7 @@ const data = [
     full_name: "Яна Троянова",
     description: "актриса, режиссер, сценарист. 50 лет",
     DOB: "1973",
-    full_name_EN: "",
+    full_name_EN: "Yana Troyanova",
     description_EN: "",
   },
   {
@@ -748,7 +748,7 @@ const data = [
     full_name: "Лянка Грыу",
     description: "актриса, режиссер, сценарист, продюсер. 35 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Lyanka Gryu",
     description_EN: "",
   },
   {
@@ -756,7 +756,7 @@ const data = [
     full_name: "Иван Янковский",
     description: "актер. 32 года",
     DOB: "1990",
-    full_name_EN: "",
+    full_name_EN: "Ivan Yankovsky",
     description_EN: "",
   },
   {
@@ -764,7 +764,7 @@ const data = [
     full_name: "Юлия Такшина",
     description: "актриса. 42 года",
     DOB: "1980",
-    full_name_EN: "",
+    full_name_EN: "Julia Takshina",
     description_EN: "",
   },
   {
@@ -772,7 +772,7 @@ const data = [
     full_name: "Полина Гренц",
     description: "актриса, актриса дубляжа. 28 лет",
     DOB: "1994",
-    full_name_EN: "",
+    full_name_EN: "Polina Grenz",
     description_EN: "",
   },
   {
@@ -780,7 +780,7 @@ const data = [
     full_name: "Настя Задорожная",
     description: "актриса. 37 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Nastya Zadorozhnaya",
     description_EN: "",
   },
   {
@@ -788,7 +788,7 @@ const data = [
     full_name: "Александр Невский",
     description: "актер, продюсер, сценарист, актер дубляжа, режиссер. 51 год",
     DOB: "1971",
-    full_name_EN: "",
+    full_name_EN: "Alexander Nevskiy",
     description_EN: "",
   },
   {
@@ -797,7 +797,7 @@ const data = [
     description:
       "режиссер, актриса, сценарист, оператор, продюсер, монтажер. 39 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Valeria Gai Germanika",
     description_EN: "",
   },
   {
@@ -805,7 +805,7 @@ const data = [
     full_name: "Иван Жидков",
     description: "актер. 39 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Ivan Zhidkov",
     description_EN: "",
   },
   {
@@ -813,7 +813,7 @@ const data = [
     full_name: "Татьяна Бабенкова",
     description: "актриса, актриса дубляжа. 31 год",
     DOB: "1991",
-    full_name_EN: "",
+    full_name_EN: "Tatyana Babenkova",
     description_EN: "",
   },
   {
@@ -821,7 +821,7 @@ const data = [
     full_name: "Денис Шведов",
     description: "актер, актер дубляжа. 41 год",
     DOB: "1981",
-    full_name_EN: "",
+    full_name_EN: "Denis Shvedov",
     description_EN: "",
   },
   {
@@ -829,7 +829,7 @@ const data = [
     full_name: "Анастасия Сиваева",
     description: "актриса, актриса дубляжа. 31 год",
     DOB: "1991",
-    full_name_EN: "",
+    full_name_EN: "Anastasia Sivaeva",
     description_EN: "",
   },
   {
@@ -837,7 +837,7 @@ const data = [
     full_name: "Маргарита Левиева",
     description: "актриса. 43 года",
     DOB: "1980",
-    full_name_EN: "",
+    full_name_EN: "Margarita Levieva",
     description_EN: "",
   },
   {
@@ -845,7 +845,7 @@ const data = [
     full_name: "Михаил Пореченков",
     description: "актер, актер дубляжа, продюсер, режиссер. 54 года",
     DOB: "1969",
-    full_name_EN: "",
+    full_name_EN: "Mikhail Porechenkov",
     description_EN: "",
   },
   {
@@ -853,7 +853,7 @@ const data = [
     full_name: "Мария Миронова",
     description: "актриса, актриса дубляжа. 49 лет",
     DOB: "1973",
-    full_name_EN: "",
+    full_name_EN: "Maria Mironova",
     description_EN: "",
   },
   {
@@ -861,7 +861,7 @@ const data = [
     full_name: "Аглая Тарасова",
     description: "актриса. 29 лет",
     DOB: "1994",
-    full_name_EN: "",
+    full_name_EN: "Aglaya Tarasova",
     description_EN: "",
   },
   {
@@ -869,7 +869,7 @@ const data = [
     full_name: "Алексей Бардуков",
     description: "актер, актер дубляжа. 38 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Alexey Bardukov",
     description_EN: "",
   },
   {
@@ -877,7 +877,7 @@ const data = [
     full_name: "Андрей Мерзликин",
     description: "актер, актер дубляжа, режиссер. 50 лет",
     DOB: "1973",
-    full_name_EN: "",
+    full_name_EN: "Andrey Merzlikin",
     description_EN: "",
   },
   {
@@ -885,7 +885,7 @@ const data = [
     full_name: "Александр Ильин мл.",
     description: "актер, режиссер, композитор. 39 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Alexander Ilyin Jr.",
     description_EN: "",
   },
   {
@@ -893,7 +893,7 @@ const data = [
     full_name: "Никита Ефремов",
     description: "актер, актер дубляжа. 34 года",
     DOB: "1988",
-    full_name_EN: "",
+    full_name_EN: "Nikita Efremov",
     description_EN: "",
   },
   {
@@ -901,7 +901,7 @@ const data = [
     full_name: "Агния Кузнецова",
     description: "актриса. 37 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Agniya Kuznetsova",
     description_EN: "",
   },
   {
@@ -909,7 +909,7 @@ const data = [
     full_name: "Иван Ургант",
     description: "актер, продюсер, сценарист, актер дубляжа. 45 лет",
     DOB: "1978",
-    full_name_EN: "",
+    full_name_EN: "Ivan Urgant",
     description_EN: "",
   },
   {
@@ -917,7 +917,7 @@ const data = [
     full_name: "Константин Крюков",
     description: "актер, актер дубляжа. 38 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Konstantin Kryukov",
     description_EN: "",
   },
   {
@@ -925,7 +925,7 @@ const data = [
     full_name: "Ирина Пегова",
     description: "актриса, актриса дубляжа. 44 года",
     DOB: "1978",
-    full_name_EN: "",
+    full_name_EN: "Irina Pegova",
     description_EN: "",
   },
   {
@@ -933,7 +933,7 @@ const data = [
     full_name: "Дмитрий Дюжев",
     description: "актер, режиссер, актер дубляжа, сценарист. 44 года",
     DOB: "1978",
-    full_name_EN: "",
+    full_name_EN: "Dmitry Dyuzhev",
     description_EN: "",
   },
   {
@@ -942,7 +942,7 @@ const data = [
     description:
       "актриса, сценарист, режиссер, продюсер, монтажер, актриса дубляжа. 56 лет",
     DOB: "1967",
-    full_name_EN: "",
+    full_name_EN: "Renata Litvinova",
     description_EN: "",
   },
   {
@@ -950,7 +950,7 @@ const data = [
     full_name: "Владимир Жеребцов",
     description: "актер. 39 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Vladimir Zherebtsov",
     description_EN: "",
   },
   {
@@ -958,7 +958,7 @@ const data = [
     full_name: "Яна Кошкина",
     description: "актриса. 33 года",
     DOB: "1990",
-    full_name_EN: "",
+    full_name_EN: "Yana Koshkina",
     description_EN: "",
   },
   {
@@ -966,7 +966,7 @@ const data = [
     full_name: "Алина Ланина",
     description: "актриса. 34 года",
     DOB: "1989",
-    full_name_EN: "",
+    full_name_EN: "Alina Lanina",
     description_EN: "",
   },
   {
@@ -974,7 +974,7 @@ const data = [
     full_name: "Ксения Раппопорт",
     description: "актриса, актриса дубляжа, режиссер, сценарист. 49 лет",
     DOB: "1974",
-    full_name_EN: "",
+    full_name_EN: "Ksenia Rappoport",
     description_EN: "",
   },
   {
@@ -982,7 +982,7 @@ const data = [
     full_name: "Андрей Кончаловский",
     description: "сценарист, режиссер, продюсер, актер, актер дубляжа. 85 лет",
     DOB: "1937",
-    full_name_EN: "",
+    full_name_EN: "Andrey Konchalovsky",
     description_EN: "",
   },
   {
@@ -990,7 +990,7 @@ const data = [
     full_name: "Риналь Мухаметов",
     description: "актер, сценарист. 33 года",
     DOB: "1989",
-    full_name_EN: "",
+    full_name_EN: "Rinal Mukhametov",
     description_EN: "",
   },
   {
@@ -998,7 +998,7 @@ const data = [
     full_name: "Владимир Зайцев",
     description: "актер дубляжа, актер. 64 года",
     DOB: "1958",
-    full_name_EN: "",
+    full_name_EN: "Vladimir Zaitsev",
     description_EN: "",
   },
   {
@@ -1006,7 +1006,7 @@ const data = [
     full_name: "Михаил Галустян",
     description: "актер, актер дубляжа, продюсер. 43 года",
     DOB: "1979",
-    full_name_EN: "",
+    full_name_EN: "Mikhail Galustyan",
     description_EN: "",
   },
   {
@@ -1014,7 +1014,7 @@ const data = [
     full_name: "Пётр Иващенко",
     description: "актер дубляжа, актер, продюсер, режиссер дубляжа. 46 лет",
     DOB: "1976",
-    full_name_EN: "",
+    full_name_EN: "Petr Ivashchenko",
     description_EN: "",
   },
   {
@@ -1022,7 +1022,7 @@ const data = [
     full_name: "Даниил Вахрушев",
     description: "актер. 31 год",
     DOB: "1992",
-    full_name_EN: "",
+    full_name_EN: "Daniil Vakhrushev",
     description_EN: "",
   },
   {
@@ -1030,7 +1030,7 @@ const data = [
     full_name: "Екатерина Старшова",
     description: "актриса. 21 год",
     DOB: "2001",
-    full_name_EN: "",
+    full_name_EN: "Ekaterina Starshova",
     description_EN: "",
   },
   {
@@ -1038,7 +1038,7 @@ const data = [
     full_name: "Дарья Мороз",
     description: "актриса, продюсер, актриса дубляжа, режиссер. 39 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Daria Moroz",
     description_EN: "",
   },
   {
@@ -1046,7 +1046,7 @@ const data = [
     full_name: "Мария Шалаева",
     description: "актриса, режиссер, сценарист, продюсер. 42 года",
     DOB: "1981",
-    full_name_EN: "",
+    full_name_EN: "Maria Shalaeva",
     description_EN: "",
   },
   {
@@ -1054,7 +1054,7 @@ const data = [
     full_name: "Ирина Вилкова",
     description: "актриса, режиссер, сценарист, продюсер. 37 лет",
     DOB: "1986",
-    full_name_EN: "",
+    full_name_EN: "Irina Vilkova",
     description_EN: "",
   },
   {
@@ -1062,7 +1062,7 @@ const data = [
     full_name: "Кирилл Серебренников",
     description: "режиссер, сценарист, художник, актер, продюсер. 53 года",
     DOB: "1969",
-    full_name_EN: "",
+    full_name_EN: "Kirill Serebrennikov",
     description_EN: "",
   },
   {
@@ -1070,7 +1070,7 @@ const data = [
     full_name: "Константин Лавроненко",
     description: "актер, актер дубляжа. 62 года",
     DOB: "1961",
-    full_name_EN: "",
+    full_name_EN: "Konstantin Lavronenko",
     description_EN: "",
   },
   {
@@ -1078,7 +1078,7 @@ const data = [
     full_name: "Сергей Бодров",
     description: "сценарист, режиссер, продюсер, актер. 74 года",
     DOB: "1948",
-    full_name_EN: "",
+    full_name_EN: "Sergei Bodrov",
     description_EN: "",
   },
   {
@@ -1086,7 +1086,7 @@ const data = [
     full_name: "Анна Уколова",
     description: "актриса. 45 лет",
     DOB: "1978",
-    full_name_EN: "",
+    full_name_EN: "Anna Ukolova",
     description_EN: "",
   },
   {
@@ -1094,7 +1094,7 @@ const data = [
     full_name: "Евгений Пронин",
     description: "актер, продюсер. 42 года",
     DOB: "1980",
-    full_name_EN: "",
+    full_name_EN: "Evgeny Pronin",
     description_EN: "",
   },
   {
@@ -1102,7 +1102,7 @@ const data = [
     full_name: "Леонид Куравлёв",
     description: "актер, актер дубляжа. 85 лет",
     DOB: "1936 – 2022",
-    full_name_EN: "",
+    full_name_EN: "Leonid Kuravlyov",
     description_EN: "",
   },
   {
@@ -1110,7 +1110,7 @@ const data = [
     full_name: "Мария Берсенева",
     description: "актриса, актриса дубляжа. 41 год",
     DOB: "1981",
-    full_name_EN: "",
+    full_name_EN: "Maria Berseneva",
     description_EN: "",
   },
   {
@@ -1118,7 +1118,7 @@ const data = [
     full_name: "Глеб Калюжный",
     description: "актер. 24 года",
     DOB: "1998",
-    full_name_EN: "",
+    full_name_EN: "Глеб Калюжный",
     description_EN: "",
   },
   {
@@ -1126,7 +1126,7 @@ const data = [
     full_name: "Павел Воля",
     description: "актер, актер дубляжа, сценарист. 44 года",
     DOB: "1979",
-    full_name_EN: "",
+    full_name_EN: "Pavel Volya",
     description_EN: "",
   },
   {
@@ -1134,7 +1134,7 @@ const data = [
     full_name: "Фёдор Добронравов",
     description: "актер, актер дубляжа, продюсер. 61 год",
     DOB: "1961",
-    full_name_EN: "",
+    full_name_EN: "Fedor Dobronravov",
     description_EN: "",
   },
   {
@@ -1142,7 +1142,7 @@ const data = [
     full_name: "Ян Цапник",
     description: "актер, актер дубляжа. 54 года",
     DOB: "1968",
-    full_name_EN: "",
+    full_name_EN: "Jan Tsapnik",
     description_EN: "",
   },
   {
@@ -1150,7 +1150,7 @@ const data = [
     full_name: "Владислав Галкин",
     description: "актер, актер дубляжа. 38 лет",
     DOB: "1971 – 2010",
-    full_name_EN: "",
+    full_name_EN: "Vladislav Galkin",
     description_EN: "",
   },
   {
@@ -1158,7 +1158,7 @@ const data = [
     full_name: "Глафира Тарханова",
     description: "актриса. 39 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Glafira Tarkhanova",
     description_EN: "",
   },
   {
@@ -1166,7 +1166,7 @@ const data = [
     full_name: "Александр Демьяненко",
     description: "актер дубляжа, актер. 62 года",
     DOB: "1937 – 1999",
-    full_name_EN: "",
+    full_name_EN: "Alexander Demyanenko",
     description_EN: "",
   },
   {
@@ -1174,7 +1174,7 @@ const data = [
     full_name: "Рина Гришина",
     description: "актриса, актриса дубляжа, продюсер. 35 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Rina Grishina",
     description_EN: "",
   },
   {
@@ -1182,7 +1182,7 @@ const data = [
     full_name: "Леонид Бичевин",
     description: "актер. 38 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Leonid Bichevin",
     description_EN: "",
   },
   {
@@ -1190,7 +1190,7 @@ const data = [
     full_name: "Денис Никифоров",
     description: "актер. 45 лет",
     DOB: "1977",
-    full_name_EN: "",
+    full_name_EN: "Denis Nikiforov",
     description_EN: "",
   },
   {
@@ -1198,7 +1198,7 @@ const data = [
     full_name: "Александр Абдулов",
     description: "актер, сценарист, режиссер, продюсер, актер дубляжа. 54 года",
     DOB: "1953 – 2008",
-    full_name_EN: "",
+    full_name_EN: "Alexander Abdulov",
     description_EN: "",
   },
   {
@@ -1206,7 +1206,7 @@ const data = [
     full_name: "Евгений Стычкин",
     description: "актер, актер дубляжа, режиссер. 48 лет",
     DOB: "1974",
-    full_name_EN: "",
+    full_name_EN: "Evgeny Stychkin",
     description_EN: "",
   },
   {
@@ -1214,7 +1214,7 @@ const data = [
     full_name: "Диана Пожарская",
     description: "актриса. 31 год",
     DOB: "1992",
-    full_name_EN: "",
+    full_name_EN: "Diana Pozharskaya",
     description_EN: "",
   },
   {
@@ -1222,7 +1222,7 @@ const data = [
     full_name: "Леонид Гайдай",
     description: "режиссер, сценарист, актер. 70 лет",
     DOB: "1923 – 1993",
-    full_name_EN: "",
+    full_name_EN: "Leonid Gaidai",
     description_EN: "",
   },
   {
@@ -1231,7 +1231,7 @@ const data = [
     description:
       "режиссер, сценарист, актер, композитор, продюсер, монтажер. 38 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Roman Karimov",
     description_EN: "",
   },
   {
@@ -1239,7 +1239,7 @@ const data = [
     full_name: "Дмитрий Шаракоис",
     description: "актер. 37 лет",
     DOB: "1986",
-    full_name_EN: "",
+    full_name_EN: "Dmitry Sharakois",
     description_EN: "",
   },
   {
@@ -1247,7 +1247,7 @@ const data = [
     full_name: "Юра Борисов",
     description: "актер. 30 лет",
     DOB: "1992",
-    full_name_EN: "",
+    full_name_EN: "Yura Borisov",
     description_EN: "",
   },
   {
@@ -1255,7 +1255,7 @@ const data = [
     full_name: "Александр Яценко",
     description: "актер. 46 лет",
     DOB: "1977",
-    full_name_EN: "",
+    full_name_EN: "Alexander Yatsenko",
     description_EN: "",
   },
   {
@@ -1264,7 +1264,7 @@ const data = [
     description:
       "актер, композитор, актер дубляжа, режиссер, сценарист, монтажер, продюсер. 35 лет",
     DOB: "1988",
-    full_name_EN: "",
+    full_name_EN: "Alexey Vorobyov",
     description_EN: "",
   },
   {
@@ -1272,7 +1272,7 @@ const data = [
     full_name: "Мария Поезжаева",
     description: "актриса. 34 года",
     DOB: "1989",
-    full_name_EN: "",
+    full_name_EN: "Maria Poezzhaeva",
     description_EN: "",
   },
   {
@@ -1280,7 +1280,7 @@ const data = [
     full_name: "Семён Трескунов",
     description: "актер, режиссер, сценарист, актер дубляжа, продюсер. 23 года",
     DOB: "1999",
-    full_name_EN: "",
+    full_name_EN: "Semyon Treskunov",
     description_EN: "",
   },
   {
@@ -1288,7 +1288,7 @@ const data = [
     full_name: "Даниил Страхов",
     description: "актер, актер дубляжа. 47 лет",
     DOB: "1976",
-    full_name_EN: "",
+    full_name_EN: "Daniel Strakhov",
     description_EN: "",
   },
   {
@@ -1296,7 +1296,7 @@ const data = [
     full_name: "Анастасия Заворотнюк",
     description: "актриса, актриса дубляжа. 52 года",
     DOB: "1971",
-    full_name_EN: "",
+    full_name_EN: "Anastasia Zavorotnyuk",
     description_EN: "",
   },
   {
@@ -1304,7 +1304,7 @@ const data = [
     full_name: "Иван Стебунов",
     description: "актер, режиссер, продюсер, сценарист. 41 год",
     DOB: "1981",
-    full_name_EN: "",
+    full_name_EN: "Ivan Stebunov",
     description_EN: "",
   },
   {
@@ -1312,7 +1312,7 @@ const data = [
     full_name: "Денис Косяков",
     description: "актер, сценарист, продюсер. 39 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Denis Kosyakov",
     description_EN: "",
   },
   {
@@ -1320,7 +1320,7 @@ const data = [
     full_name: "Максим Аверин",
     description: "актер, режиссер, актер дубляжа. 47 лет",
     DOB: "1975",
-    full_name_EN: "",
+    full_name_EN: "Maxim Averin",
     description_EN: "",
   },
   {
@@ -1328,7 +1328,7 @@ const data = [
     full_name: "Мария Машкова",
     description: "актриса, продюсер, сценарист. 38 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Maria Mashkova",
     description_EN: "",
   },
   {
@@ -1336,7 +1336,7 @@ const data = [
     full_name: "Валентина Мазунина",
     description: "актриса. 35 лет",
     DOB: "1988",
-    full_name_EN: "",
+    full_name_EN: "Valentina Mazunina",
     description_EN: "",
   },
   {
@@ -1344,7 +1344,7 @@ const data = [
     full_name: "Алексей Макаров",
     description: "актер. 51 год",
     DOB: "1972",
-    full_name_EN: "",
+    full_name_EN: "Alexey Makarov",
     description_EN: "",
   },
   {
@@ -1352,7 +1352,7 @@ const data = [
     full_name: "Анфиса Черных",
     description: "актриса. 27 лет",
     DOB: "1996",
-    full_name_EN: "",
+    full_name_EN: "Anfisa Chernykh",
     description_EN: "",
   },
   {
@@ -1360,7 +1360,7 @@ const data = [
     full_name: "Мария Порошина",
     description: "актриса, актриса дубляжа. 49 лет",
     DOB: "1973",
-    full_name_EN: "",
+    full_name_EN: "Maria Poroshina",
     description_EN: "",
   },
   {
@@ -1368,7 +1368,7 @@ const data = [
     full_name: "Николай Наумов",
     description: "актер, актер дубляжа. 41 год",
     DOB: "1982",
-    full_name_EN: "",
+    full_name_EN: "Nikolai Naumov",
     description_EN: "",
   },
   {
@@ -1376,7 +1376,7 @@ const data = [
     full_name: "Елена Панова",
     description: "актриса. 45 лет",
     DOB: "1977",
-    full_name_EN: "",
+    full_name_EN: "Elena Panova",
     description_EN: "",
   },
   {
@@ -1384,7 +1384,7 @@ const data = [
     full_name: "Оксана Сидоренко",
     description: "актриса, актриса дубляжа. 36 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Oksana Sidorenko",
     description_EN: "",
   },
   {
@@ -1392,7 +1392,7 @@ const data = [
     full_name: "Ксения Лукьянчикова",
     description: "актриса. 30 лет",
     DOB: "1993",
-    full_name_EN: "",
+    full_name_EN: "Ksenia Lukyanchikova",
     description_EN: "",
   },
   {
@@ -1400,7 +1400,7 @@ const data = [
     full_name: "Мария Аронова",
     description: "актриса, актриса дубляжа. 51 год",
     DOB: "1972",
-    full_name_EN: "",
+    full_name_EN: "Maria Aronova",
     description_EN: "",
   },
   {
@@ -1408,7 +1408,7 @@ const data = [
     full_name: "Наталья Земцова",
     description: "актриса, сценарист, продюсер. 35 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Natalya Zemtsova",
     description_EN: "",
   },
   {
@@ -1416,7 +1416,7 @@ const data = [
     full_name: "Александра Ребенок",
     description: "актриса, актриса дубляжа, сценарист. 43 года",
     DOB: "1980",
-    full_name_EN: "",
+    full_name_EN: "Alexandra Child",
     description_EN: "",
   },
   {
@@ -1424,7 +1424,7 @@ const data = [
     full_name: "Чулпан Хаматова",
     description: "актриса, актриса дубляжа. 47 лет",
     DOB: "1975",
-    full_name_EN: "",
+    full_name_EN: "Chulpan Khamatova",
     description_EN: "",
   },
   {
@@ -1433,7 +1433,7 @@ const data = [
     description:
       "актриса, режиссер, актриса дубляжа, сценарист, продюсер. 33 года",
     DOB: "1989",
-    full_name_EN: "",
+    full_name_EN: "Anna Tsukanova-Kott",
     description_EN: "",
   },
   {
@@ -1441,7 +1441,7 @@ const data = [
     full_name: "Дмитрий Марьянов",
     description: "актер, сценарист. 47 лет",
     DOB: "1969 – 2017",
-    full_name_EN: "",
+    full_name_EN: "Dmitry Maryanov",
     description_EN: "",
   },
   {
@@ -1449,7 +1449,7 @@ const data = [
     full_name: "Анна Снаткина",
     description: "актриса, актриса дубляжа. 39 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Anna Snatkina",
     description_EN: "",
   },
   {
@@ -1457,7 +1457,7 @@ const data = [
     full_name: "Татьяна Шитова",
     description: "актриса дубляжа, актриса. 47 лет",
     DOB: "1975",
-    full_name_EN: "",
+    full_name_EN: "Tatyana Shitova",
     description_EN: "",
   },
   {
@@ -1465,7 +1465,7 @@ const data = [
     full_name: "Наталья Бардо",
     description: "актриса. 35 лет",
     DOB: "1988",
-    full_name_EN: "",
+    full_name_EN: "Natalia Bardo",
     description_EN: "",
   },
   {
@@ -1473,7 +1473,7 @@ const data = [
     full_name: "Егор Бероев",
     description: "актер, актер дубляжа. 45 лет",
     DOB: "1977",
-    full_name_EN: "",
+    full_name_EN: "Egor Beroev",
     description_EN: "",
   },
   {
@@ -1481,7 +1481,7 @@ const data = [
     full_name: "Гела Месхи",
     description: "актер. 37 лет",
     DOB: "1986",
-    full_name_EN: "",
+    full_name_EN: "Gela Meskhi",
     description_EN: "",
   },
   {
@@ -1489,7 +1489,7 @@ const data = [
     full_name: "Ольга Дибцева",
     description: "актриса, режиссер, сценарист, продюсер. 36 лет",
     DOB: "1986",
-    full_name_EN: "",
+    full_name_EN: "Olga Dibtseva",
     description_EN: "",
   },
   {
@@ -1497,7 +1497,7 @@ const data = [
     full_name: "Сергей Чирков",
     description: "актер. 39 лет",
     DOB: "1983",
-    full_name_EN: "",
+    full_name_EN: "Sergey Chirkov",
     description_EN: "",
   },
   {
@@ -1505,7 +1505,7 @@ const data = [
     full_name: "Елена Беркова",
     description: "актриса. 38 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Elena Berkova",
     description_EN: "",
   },
   {
@@ -1513,7 +1513,7 @@ const data = [
     full_name: "Мария Иващенко",
     description: "актриса дубляжа, актриса. 31 год",
     DOB: "1991",
-    full_name_EN: "",
+    full_name_EN: "Maria Ivashchenko",
     description_EN: "",
   },
   {
@@ -1521,7 +1521,7 @@ const data = [
     full_name: "Олеся Судзиловская",
     description: "актриса, актриса дубляжа. 49 лет",
     DOB: "1974",
-    full_name_EN: "",
+    full_name_EN: "Olesya Sudzilovskaya",
     description_EN: "",
   },
   {
@@ -1529,7 +1529,7 @@ const data = [
     full_name: "Александр Робак",
     description: "актер, продюсер, режиссер, оператор. 49 лет",
     DOB: "1973",
-    full_name_EN: "",
+    full_name_EN: "Alexander Robak",
     description_EN: "",
   },
   {
@@ -1538,7 +1538,7 @@ const data = [
     description:
       "актриса, композитор, режиссер, сценарист, продюсер, актриса дубляжа. 42 года",
     DOB: "1980",
-    full_name_EN: "",
+    full_name_EN: "Dasha Charusha",
     description_EN: "",
   },
   {
@@ -1546,7 +1546,7 @@ const data = [
     full_name: "Дарья Сагалова",
     description: "актриса. 37 лет",
     DOB: "1985",
-    full_name_EN: "",
+    full_name_EN: "Daria Sagalova",
     description_EN: "",
   },
   {
@@ -1554,7 +1554,7 @@ const data = [
     full_name: "Евгений Леонов",
     description: "актер. 67 лет",
     DOB: "1926 – 1994",
-    full_name_EN: "",
+    full_name_EN: "Evgeny Leonov",
     description_EN: "",
   },
   {
@@ -1562,7 +1562,7 @@ const data = [
     full_name: "Мария Куликова",
     description: "актриса, актриса дубляжа. 45 лет",
     DOB: "1977",
-    full_name_EN: "",
+    full_name_EN: "Maria Kulikova",
     description_EN: "",
   },
   {
@@ -1570,7 +1570,7 @@ const data = [
     full_name: "Вера Алентова",
     description: "актриса, актриса дубляжа. 81 год",
     DOB: "1942",
-    full_name_EN: "",
+    full_name_EN: "Vera Alentova",
     description_EN: "",
   },
   {
@@ -1578,7 +1578,7 @@ const data = [
     full_name: "Иван Макаревич",
     description: "актер, художник, композитор, режиссер, актер дубляжа. 35 лет",
     DOB: "1987",
-    full_name_EN: "",
+    full_name_EN: "Ivan Makarevich",
     description_EN: "",
   },
   {
@@ -1586,7 +1586,7 @@ const data = [
     full_name: "Антон Шагин",
     description: "актер, актер дубляжа. 39 лет",
     DOB: "1984",
-    full_name_EN: "",
+    full_name_EN: "Anton Shagin",
     description_EN: "",
   },
   {
@@ -1594,7 +1594,7 @@ const data = [
     full_name: "Владимир Сычев",
     description: "актер, продюсер. 51 год",
     DOB: "1971",
-    full_name_EN: "",
+    full_name_EN: "Vladimir Sychev",
     description_EN: "",
   },
   {
@@ -1602,7 +1602,7 @@ const data = [
     full_name: "Любовь Толкалина",
     description: "актриса, актриса дубляжа. 45 лет",
     DOB: "1978",
-    full_name_EN: "",
+    full_name_EN: "Lyubov Tolkalina",
     description_EN: "",
   },
   {
@@ -1610,15 +1610,15 @@ const data = [
     full_name: "Эльдар Рязанов",
     description: "режиссер, сценарист, актер. 88 лет",
     DOB: "1927 – 2015",
-    full_name_EN: "",
+    full_name_EN: "Eldar Ryazanov",
     description_EN: "",
   },
 ];
 function addDirectorId(films) {
   const ageLimits = [6, 12, 16, 18];
   films.forEach((film) => {
-    film.full_name_EN = "";
-    film.description_EN = "";
+    film.description_EN =
+      "actor, director, dubbing actor, screenwriter, producer, operator.";
   });
 
   return films;

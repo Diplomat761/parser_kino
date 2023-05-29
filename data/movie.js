@@ -12,11 +12,12 @@ const data = [
     director_id: 175,
     promo:
       "thumbs.dfs.ivi.ru/storage5/contents/f/6/e9a5c19056bd6b9826c35733be0a5a.jpg/1216x524/?q=85",
-    genre_id: 7,
-    country_id: 1,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 608,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -31,11 +32,12 @@ const data = [
     director_id: 18,
     promo:
       "thumbs.dfs.ivi.ru/storage8/contents/e/b/d3bee58e314d16cb641300c41f2cd6.jpg/1216x524/?q=85",
-    genre_id: 3,
-    country_id: 16,
+    genre_id: 2,
+    country_id: 8,
     count_rating: 685,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -50,11 +52,12 @@ const data = [
     director_id: 46,
     promo:
       "thumbs.dfs.ivi.ru/storage15/contents/9/e/1d55ae079d13e80bd240ae65f93559.jpg/1216x524/?q=85",
-    genre_id: 14,
-    country_id: 18,
+    genre_id: 3,
+    country_id: 1,
     count_rating: 307,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -69,11 +72,12 @@ const data = [
     director_id: 31,
     promo:
       "thumbs.dfs.ivi.ru/storage15/contents/a/a/1993c4846c11f73f5590b85fb6e1ac.jpg/1216x524/?q=85",
-    genre_id: 6,
-    country_id: 1,
+    genre_id: 4,
+    country_id: 3,
     count_rating: 211,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -88,11 +92,12 @@ const data = [
     director_id: 194,
     promo:
       "thumbs.dfs.ivi.ru/storage5/contents/f/d/c97206e2f92e9b928906338d62f2bf.jpg/1216x524/?q=85",
-    genre_id: 15,
-    country_id: 19,
+    genre_id: 1,
+    country_id: 1,
     count_rating: 945,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -107,10 +112,11 @@ const data = [
     director_id: 114,
     promo: "",
     genre_id: 1,
-    country_id: 1,
+    country_id: 4,
     count_rating: 358,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -124,11 +130,12 @@ const data = [
       "Один ушлый американец ещё со студенческих лет приторговывал наркотиками, а теперь придумал схему нелегального обогащения с использованием поместий обедневшей английской аристократии и очень неплохо на этом разбогател. Другой пронырливый журналист приходит к Рэю, правой руке американца, и предлагает тому купить киносценарий, в котором подробно описаны преступления его босса при участии других представителей лондонского криминального мира — партнёра-еврея, китайской диаспоры, чернокожих спортсменов и даже русского олигарха.",
     director_id: 78,
     promo: "",
-    genre_id: 1,
-    country_id: 6,
+    genre_id: 6,
+    country_id: 5,
     count_rating: 442,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -142,11 +149,12 @@ const data = [
       "1987 год. Джордан Белфорт становится брокером в успешном инвестиционном банке. Вскоре банк закрывается после внезапного обвала индекса Доу-Джонса. По совету жены Терезы Джордан устраивается в небольшое заведение, занимающееся мелкими акциям��. Его настойчивый стиль общения с клиентами и врождённая харизма быстро да��т свои плоды. Он знакомится с соседом по дому Донни, торговцем, который сразу находит общий язык с Джорданом и решает открыть с ним собственную фирму. В качестве сотрудников они нанимают нескольких друзей Белфорта, его отца Макса и называют компанию «Стрэттон Оукмонт». В свободное от работы время Джордан прожигает жизнь: лавирует от одной вечеринки к другой, вступает в сексуальные отношения с проститутками, употребляет множество наркотических препаратов, в том числе кокаин и кваалюд. Однажды наступает момент, когда быстрым обогащением Белфорта начинает интересоваться агент ФБР...",
     director_id: 29,
     promo: "",
-    genre_id: 18,
-    country_id: 19,
+    genre_id: 2,
+    country_id: 2,
     count_rating: 627,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -160,11 +168,12 @@ const data = [
       "Грузовики лос-анджелесской инкассаторской компании Fortico Security часто подвергаются нападениям, и во время очередного ограбления погибают оба охранника. Через некоторое время в компанию устраивается крепкий немногословный британец Патрик Хилл. Он получает от босса прозвище Эйч и, впритык к необходимому минимуму пройдя тесты по фитнесу, стрельбе и вождению, отправляется на первое задание. Вскоре и его грузовик пытаются ограбить вооруженные налётчики, но Эйч в одиночку расправляется с целой бандой и становится героем. Кажется, слава и уважение коллег его совершенно не интересуют, ведь он преследует свои цели.",
     director_id: 69,
     promo: "",
-    genre_id: 16,
-    country_id: 20,
+    genre_id: 5,
+    country_id: 2,
     count_rating: 39,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -178,11 +187,12 @@ const data = [
       "Демобилизовавшись, Данила Багров вернулся в родной городок. Но скучная жизнь российской провинции не устраивала его, и он решился податься в Петербург, где, по слухам, уже несколько лет процветает его старший брат. Данила нашел брата. Но все оказалось не так просто — брат работает наемным убийцей.",
     director_id: 170,
     promo: "",
-    genre_id: 9,
-    country_id: 4,
+    genre_id: 1,
+    country_id: 1,
     count_rating: 495,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -196,11 +206,12 @@ const data = [
       "Американское семейство отправляется из Чикаго в Европу, но в спешке сборов бестолковые родители забывают дома... одного из своих детей. Юное создание, однако, не теряется и демонстрирует чудеса изобретательности. И когда в дом залезают грабители, им приходится не раз пожалеть о встрече с милым крошкой.",
     director_id: 39,
     promo: "",
-    genre_id: 11,
-    country_id: 12,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 183,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -214,11 +225,12 @@ const data = [
       "Бывший морпех Джейк Салли прикован к инвалидному креслу. Несмотря на немощное тело, Джейк в душе по-прежнему остается воином. Он получает задание совершить путешествие в несколько световых лет к базе землян на планете Пандора, где корпорации добывают редкий минерал, имеющий огромное значение для выхода Земли из энергетического кризиса.",
     director_id: 197,
     promo: "",
-    genre_id: 17,
-    country_id: 17,
+    genre_id: 7,
+    country_id: 2,
     count_rating: 478,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -232,11 +244,12 @@ const data = [
       "Бухгалтер Энди Дюфрейн обвинён в убийстве собственной жены и её любовника. Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решётки. Каждый, кто попадает в эти стены, становится их рабом до конца жизни. Но Энди, обладающий живым умом и доброй душой, находит подход как к заключённым, так и к охранникам, добиваясь их особого к себе расположения.",
     director_id: 65,
     promo: "",
-    genre_id: 11,
-    country_id: 17,
+    genre_id: 5,
+    country_id: 2,
     count_rating: 563,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -250,11 +263,12 @@ const data = [
       "Кобб – талантливый вор, лучший из лучших в опасном искусстве извлечения: он крадет ценные секреты из глубин подсознания во время сна, когда человеческий разум наиболее уязвим. Редкие способности Кобба сделали его ценным игроком в привычном к предательству мире промышленного шпионажа, но они же превратили его в извечного беглеца и лишили всего, что он когда-либо любил.",
     director_id: 177,
     promo: "",
-    genre_id: 12,
-    country_id: 11,
+    genre_id: 9,
+    country_id: 15,
     count_rating: 920,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -268,11 +282,12 @@ const data = [
       "Пол Эджкомб — начальник блока смертников в тюрьме «Холодная гора», каждый из узников которого однажды проходит «зеленую милю» по пути к месту казни. Пол повидал много заключённых и надзирателей за время работы. Од��ако гигант Джон Коффи, обвинённый в страшном преступлении, стал одним из самых необычных обитателей блока.",
     director_id: 5,
     promo: "",
-    genre_id: 19,
-    country_id: 18,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 556,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -286,11 +301,12 @@ const data = [
       "Добро пожаловать в Зверополис – современный город, населенный самыми разными животными, от огромных слонов до крошечных мышек. Зверополис разделен на районы, полностью повторяющие естественную среду обитания разных жителей – здесь есть и элитный район Площадь Сахары и неприветливый Тундратаун. В этом городе появляется новый офицер полиции, жизнерадостная зайчиха Джуди Хоппс, которая с первых дней работы понимает, как сложно быть м��ленькой и пушистой среди больших и сильных полицейских. Джуди хватается за первую же возможность проявить себя, несмотря на то, что ее партнером будет болтливый хитрый лис Ник Уайлд. Вдвоем им предстоит раскрыть сложное дело, от которого будет зависеть судьба всех обитателей Зверополиса.",
     director_id: 63,
     promo: "",
-    genre_id: 11,
+    genre_id: 3,
     country_id: 22,
     count_rating: 822,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -304,11 +320,12 @@ const data = [
       "Инженер-изобретатель Тимофеев сконструировал машину времени, которая соединила его квартиру с далеким шестнадцатым веком - точнее, с палатами государя Ивана Грозного. Туда-то и попадают тезка царя пенсионер-общественник Иван Васильевич Бунша и квартирный вор Жорж Милославский.",
     director_id: 15,
     promo: "",
-    genre_id: 1,
-    country_id: 18,
+    genre_id: 6,
+    country_id: 6,
     count_rating: 496,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -322,11 +339,12 @@ const data = [
       "К концу подходит время благоденствия, и лето, длившееся почти десятилетие, угасает. Вокруг средоточия власти Семи королевств, Железного трона, зреет заговор, и в это непростое время король решает искать поддержки у друга юности Эддарда Старка. В мире, где все — от короля до наемника — рвутся к власти, плетут интриги и готовы вонзить нож в спину, есть место и благородству, состраданию и любви. Между тем никто не замечает пробуждение тьмы из легенд далеко на Севере — и лишь Стена защищает живых к югу от нее.",
     director_id: 110,
     promo: "",
-    genre_id: 12,
-    country_id: 8,
+    genre_id: 14,
+    country_id: 2,
     count_rating: 91,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -340,11 +358,12 @@ const data = [
       "Жизнь харизматичного авантюриста, капитана Джека Воробья, полная увлекательных приключений, резко меняется, когда его заклятый враг капитан Барбосса похищает корабль Джека Черную Жемчужину, а затем нападает на Порт Ройал и крадет прекрасную дочь губернатора Элизабет Свонн.",
     director_id: 132,
     promo: "",
-    genre_id: 19,
-    country_id: 9,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 80,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -358,11 +377,12 @@ const data = [
       "На следующее утро после празднования 85-летия известного автора криминальных романов Харлана Тромби виновника торжества находят мёртвым. Налицо — явное самоубийство, но полиция по протоколу опрашивает всех присутствующих в особняке членов семьи, хотя, в этом деле больше заинтересован частный детектив Бенуа Блан. Тем же утром он получил конверт с наличными от неизвестного и заказ на расследование смерти Харлана. Не нужно быть опытным следователем, чтобы понять, что все приукрашивают свои отношения с почившим главой семейства, но Блану достаётся настоящий подарок — медсестра покойного, которая физически не выносит ложь.",
     director_id: 142,
     promo: "",
-    genre_id: 12,
+    genre_id: 2,
     country_id: 15,
     count_rating: 417,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -376,11 +396,12 @@ const data = [
       "Жизнь десятилетнего Гарри Поттера нельзя назвать сладкой: родители умерли, едва ему исполнился год, а от дяди и тёти, взявших сироту на воспитание, достаются лишь тычки да подзатыльники. Но в одиннадцатый день рождения Гарри всё меняется. Странный гость, неожиданно появившийся на пороге, приносит письмо, из которого мальчик узнаёт, что на самом деле он - волшебник и зачислен в школу магии под названием Хогвартс. А уже через пару недель Гарри будет мчаться в поезде Хогвартс-экспресс навстречу новой жизни, где его ждут невероятные приключения, верные друзья и самое главное — ключ к разгадке тайны смерти его родителей.",
     director_id: 57,
     promo: "",
-    genre_id: 8,
-    country_id: 11,
+    genre_id: 7,
+    country_id: 5,
     count_rating: 780,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -394,11 +415,12 @@ const data = [
       "Когда засуха, пыльные бури и вымирание растений приводят человечество к продовольственному кризису, коллектив исследователей и учёных отправляется сквозь червоточину (которая предположительно соединяет области пространства-времени через большое расстояние) в путешествие, чтобы превзойти прежние ограничения для космических путешествий человека и найти планету с подходящими для человечества условиями.",
     director_id: 5,
     promo: "",
-    genre_id: 3,
-    country_id: 19,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 697,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -412,11 +434,12 @@ const data = [
       "Участвуя в программе на телевидении, Данила Багров встречает своих друзей по службе в Чечне. Одного из них внезапно убивают. Выясняется, что у того были неприятности из-за брата-хок��еиста в Америке. Данила должен разобраться. Он вылетает в Америку и за компанию берёт с собой старшего брата.",
     director_id: 184,
     promo: "",
-    genre_id: 12,
-    country_id: 8,
+    genre_id: 1,
+    country_id: 6,
     count_rating: 328,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -427,14 +450,15 @@ const data = [
     years: "1999",
     durations: "139 мин",
     description:
-      "Участвуя в программе на телевидении, Данила Багров встречает своих друзей по службе в Чечне. Одного из них внезапно убивают. Выясняется, что у того были неприятности из-за брата-хоккеиста в Америке. Данила должен разобраться. Он вылетает в Америку и за компанию берёт с собой старшего брата.",
+      "Участвуя в программе ����а телевидении, Данила Багров встречает своих друзей по службе в Чечне. Одного из них внезапно убивают. Выясняется, что у того были неприятности из-за брата-хоккеиста в Америке. Данила должен разобраться. Он вылетает в Америку и за компанию берёт с собой старшего брата.",
     director_id: 21,
     promo: "",
-    genre_id: 6,
-    country_id: 14,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 405,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -452,7 +476,8 @@ const data = [
     country_id: 15,
     count_rating: 565,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -466,11 +491,12 @@ const data = [
       "Студент Шурик попадает в самые невероятные ситуации: сражается с хулиганом Верзилой, весьма оригинальным способом готовится к экзамену и предотвращает «ограбление века», на которое идёт троица бандитов — Балбес, Трус и Бывалый.",
     director_id: 25,
     promo: "",
-    genre_id: 21,
-    country_id: 19,
+    genre_id: 6,
+    country_id: 6,
     count_rating: 739,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -480,14 +506,16 @@ const data = [
     rating: "8.4",
     years: "2018",
     durations: "130 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 72,
     promo: "",
-    genre_id: 14,
+    genre_id: 15,
     country_id: 9,
     count_rating: 604,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -497,14 +525,16 @@ const data = [
     rating: "9.0",
     years: "2013–...",
     durations: "23 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 72,
     promo: "",
-    genre_id: 20,
-    country_id: 22,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 214,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -514,14 +544,16 @@ const data = [
     rating: "8.3",
     years: "1984",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 62,
     promo: "",
-    genre_id: 3,
-    country_id: 14,
+    genre_id: 6,
+    country_id: 6,
     count_rating: 163,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -531,14 +563,16 @@ const data = [
     rating: "8.5",
     years: "2009",
     durations: "138 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 54,
     promo: "",
     genre_id: 15,
     country_id: 22,
     count_rating: 848,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -548,14 +582,16 @@ const data = [
     rating: "8.1",
     years: "2018",
     durations: "149 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 21,
     promo: "",
-    genre_id: 8,
-    country_id: 13,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 47,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -565,14 +601,16 @@ const data = [
     rating: "8.5",
     years: "2018–...",
     durations: "52 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 90,
     promo: "",
-    genre_id: 10,
-    country_id: 11,
+    genre_id: 1,
+    country_id: 1,
     count_rating: 398,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -582,14 +620,16 @@ const data = [
     rating: "8.4",
     years: "1997",
     durations: "194 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 116,
     promo: "",
-    genre_id: 4,
-    country_id: 5,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 572,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -599,14 +639,16 @@ const data = [
     rating: "6.9",
     years: "2018",
     durations: "112 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 5,
     promo: "",
-    genre_id: 1,
-    country_id: 15,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 739,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -616,14 +658,16 @@ const data = [
     rating: "7.8",
     years: "2019",
     durations: "181 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 57,
     promo: "",
-    genre_id: 15,
-    country_id: 20,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 404,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -633,14 +677,16 @@ const data = [
     rating: "7.4",
     years: "2022",
     durations: "50 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 105,
     promo: "",
-    genre_id: 15,
-    country_id: 10,
+    genre_id: 1,
+    country_id: 1,
     count_rating: 122,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -650,14 +696,16 @@ const data = [
     rating: "8.2",
     years: "2014–...",
     durations: "52 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 198,
     promo: "",
-    genre_id: 15,
-    country_id: 6,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 50,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -667,14 +715,16 @@ const data = [
     rating: "8.6",
     years: "1994",
     durations: "154 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 92,
     promo: "",
     genre_id: 2,
-    country_id: 15,
+    country_id: 2,
     count_rating: 442,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -684,14 +734,16 @@ const data = [
     rating: "7.8",
     years: "2014",
     durations: "121 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 150,
     promo: "",
-    genre_id: 1,
-    country_id: 4,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 75,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -701,14 +753,16 @@ const data = [
     rating: "7.7",
     years: "2021",
     durations: "155 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 52,
     promo: "",
     genre_id: 11,
     country_id: 10,
     count_rating: 266,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -718,14 +772,16 @@ const data = [
     rating: "7.5",
     years: "2016",
     durations: "115 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 63,
     promo: "",
-    genre_id: 12,
-    country_id: 20,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 672,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -735,14 +791,16 @@ const data = [
     rating: "8.0",
     years: "2011",
     durations: "105 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 81,
     promo: "",
-    genre_id: 10,
-    country_id: 6,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 998,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -752,14 +810,16 @@ const data = [
     rating: "8.5",
     years: "1999",
     durations: "136 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 111,
     promo: "",
-    genre_id: 20,
-    country_id: 4,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 77,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -769,14 +829,16 @@ const data = [
     rating: "8.7",
     years: "1969–2017",
     durations: "10 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 39,
     promo: "",
-    genre_id: 8,
-    country_id: 1,
+    genre_id: 3,
+    country_id: 6,
     count_rating: 120,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -786,14 +848,16 @@ const data = [
     rating: "8.5",
     years: "2008",
     durations: "152 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 127,
     promo: "",
-    genre_id: 19,
+    genre_id: 15,
     country_id: 10,
     count_rating: 696,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -803,14 +867,16 @@ const data = [
     rating: "7.2",
     years: "2015",
     durations: "131 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 161,
     promo: "",
-    genre_id: 11,
+    genre_id: 14,
     country_id: 20,
     count_rating: 332,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -820,14 +886,16 @@ const data = [
     rating: "8.0",
     years: "2007",
     durations: "111 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 52,
     promo: "",
-    genre_id: 19,
-    country_id: 12,
+    genre_id: 3,
+    country_id: 4,
     count_rating: 22,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -837,14 +905,16 @@ const data = [
     rating: "7.9",
     years: "2012",
     durations: "137 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 182,
     promo: "",
-    genre_id: 17,
-    country_id: 17,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 18,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -854,14 +924,16 @@ const data = [
     rating: "8.5",
     years: "2002",
     durations: "141 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 99,
     promo: "",
-    genre_id: 5,
-    country_id: 16,
+    genre_id: 2,
+    country_id: 2,
     count_rating: 603,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -871,14 +943,16 @@ const data = [
     rating: "8.5",
     years: "1971",
     durations: "84 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 82,
     promo: "",
-    genre_id: 14,
-    country_id: 21,
+    genre_id: 6,
+    country_id: 6,
     count_rating: 113,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -888,14 +962,16 @@ const data = [
     rating: "8.2",
     years: "2012",
     durations: "165 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 143,
     promo: "",
-    genre_id: 1,
-    country_id: 13,
+    genre_id: 12,
+    country_id: 2,
     count_rating: 750,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -905,14 +981,16 @@ const data = [
     rating: "8.1",
     years: "2001",
     durations: "90 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 150,
     promo: "",
-    genre_id: 14,
-    country_id: 22,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 396,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -922,14 +1000,16 @@ const data = [
     rating: "8.3",
     years: "2023",
     durations: "50 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 155,
     promo: "",
-    genre_id: 9,
-    country_id: 16,
+    genre_id: 14,
+    country_id: 1,
     count_rating: 786,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -939,14 +1019,16 @@ const data = [
     rating: "8.8",
     years: "1994",
     durations: "88 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 172,
     promo: "",
-    genre_id: 6,
-    country_id: 18,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 434,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -956,864 +1038,35 @@ const data = [
     rating: "8.5",
     years: "1968",
     durations: "94 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 162,
     promo: "",
-    genre_id: 3,
-    country_id: 16,
+    genre_id: 6,
+    country_id: 6,
     count_rating: 71,
     ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1946459/bf93b465-1189-4155-9dd1-cb9fb5cb1bb5/72x108",
-    name: "1+1",
-    original_name: "Intouchables",
-    rating: "8.8",
-    years: "2011",
-    durations: "112 мин",
-    description: "",
-    director_id: 128,
-    promo: "",
-    genre_id: 10,
-    country_id: 10,
-    count_rating: 753,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1599028/637271d5-61b4-4e46-ac83-6d07494c7645/72x108",
-    name: "Джентльмены",
-    original_name: "The Gentlemen",
-    rating: "8.5",
-    years: "2019",
-    durations: "113 мин",
-    description: "",
-    director_id: 105,
-    promo: "",
-    genre_id: 20,
-    country_id: 21,
-    count_rating: 52,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1946459/5c758ac0-7a5c-4f00-a94f-1be680a312fb/72x108",
-    name: "Волк с Уолл-стрит",
-    original_name: "The Wolf of Wall Street",
-    rating: "8.0",
-    years: "2013",
-    durations: "180 мин",
-    description: "",
-    director_id: 167,
-    promo: "",
-    genre_id: 20,
-    country_id: 11,
-    count_rating: 274,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/6201401/90d57813-387c-44c4-81c1-ecddb3c417a5/72x108",
-    name: "Гнев человеческий",
-    original_name: "Wrath of Man",
-    rating: "7.6",
-    years: "2021",
-    durations: "119 мин",
-    description: "",
-    director_id: 3,
-    promo: "",
-    genre_id: 12,
-    country_id: 11,
-    count_rating: 188,
-    ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1704946/e9008e2f-433f-43b0-b9b8-2ea8e3fb6c9b/72x108",
-    name: "Брат",
-    original_name: "Брат",
-    rating: "8.3",
-    years: "1997",
-    durations: "100 мин",
-    description: "",
-    director_id: 200,
-    promo: "",
-    genre_id: 17,
-    country_id: 13,
-    count_rating: 568,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/6201401/022a58e3-5b9b-411b-bfb3-09fedb700401/72x108",
-    name: "Один дома",
-    original_name: "Home Alone",
-    rating: "8.3",
-    years: "1990",
-    durations: "103 мин",
-    description: "",
-    director_id: 28,
-    promo: "",
-    genre_id: 5,
-    country_id: 3,
-    count_rating: 917,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1599028/4adf61aa-3cb7-4381-9245-523971e5b4c8/72x108",
-    name: "Аватар",
-    original_name: "Avatar",
-    rating: "8.0",
-    years: "2009",
-    durations: "162 мин",
-    description: "",
-    director_id: 101,
-    promo: "",
-    genre_id: 8,
-    country_id: 14,
-    count_rating: 80,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1599028/0b76b2a2-d1c7-4f04-a284-80ff7bb709a4/72x108",
-    name: "Побег из Шоушенка",
-    original_name: "The Shawshank Redemption",
-    rating: "9.1",
-    years: "1994",
-    durations: "142 мин",
-    description: "",
-    director_id: 188,
-    promo: "",
-    genre_id: 18,
-    country_id: 18,
-    count_rating: 488,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1629390/8ab9a119-dd74-44f0-baec-0629797483d7/72x108",
-    name: "Начало",
-    original_name: "Inception",
-    rating: "8.7",
-    years: "2010",
-    durations: "148 мин",
-    description: "",
-    director_id: 38,
-    promo: "",
-    genre_id: 1,
-    country_id: 9,
-    count_rating: 809,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1599028/4057c4b8-8208-4a04-b169-26b0661453e3/72x108",
-    name: "Зеленая миля",
-    original_name: "The Green Mile",
-    rating: "9.1",
-    years: "1999",
-    durations: "189 мин",
-    description: "",
-    director_id: 191,
-    promo: "",
-    genre_id: 9,
-    country_id: 19,
-    count_rating: 866,
-    ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/4716873/893bba73-3105-4944-8d18-a38f929f2759/72x108",
-    name: "Зверополис",
-    original_name: "Zootopia",
-    rating: "8.3",
-    years: "2016",
-    durations: "108 мин",
-    description: "",
-    director_id: 131,
-    promo: "",
-    genre_id: 14,
-    country_id: 21,
-    count_rating: 270,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/6201401/a7ef44b8-1983-4992-a889-da6f87a3f559/72x108",
-    name: "Иван Васильевич меняет профессию",
-    original_name: "Иван Васильевич меняет профессию",
-    rating: "8.8",
-    years: "1973",
-    durations: "88 мин",
-    description: "",
-    director_id: 117,
-    promo: "",
-    genre_id: 6,
-    country_id: 4,
-    count_rating: 818,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1777765/dd78edfd-6a1f-486c-9a86-6acbca940418/72x108",
-    name: "Игра престолов",
-    original_name: "Game of Thrones",
-    rating: "9.0",
-    years: "2011–2019",
-    durations: "55 мин",
-    description: "",
-    director_id: 18,
-    promo: "",
-    genre_id: 15,
-    country_id: 19,
-    count_rating: 532,
-    ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1773646/d7e3dbd6-e4a9-4485-b751-d02f49825166/72x108",
-    name: "Пираты Карибского моря: Проклятие Черной жемчужины",
-    original_name: "Pirates of the Caribbean: The Curse of the Black Pearl",
-    rating: "8.4",
-    years: "2003",
-    durations: "143 мин",
-    description: "",
-    director_id: 192,
-    promo: "",
-    genre_id: 17,
-    country_id: 16,
-    count_rating: 811,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1777765/bb8afbd6-c9cd-4631-99e9-3fecf241dbaf/72x108",
-    name: "Достать ножи",
-    original_name: "Knives Out",
-    rating: "8.1",
-    years: "2019",
-    durations: "130 мин",
-    description: "",
-    director_id: 180,
-    promo: "",
-    genre_id: 13,
-    country_id: 13,
-    count_rating: 315,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1898899/27ed5c19-a045-49dd-8624-5f629c5d96e0/72x108",
-    name: "Гарри Поттер и философский камень",
-    original_name: "Harry Potter and the Sorcerer's Stone",
-    rating: "8.3",
-    years: "2001",
-    durations: "152 мин",
-    description: "",
-    director_id: 65,
-    promo: "",
-    genre_id: 19,
-    country_id: 8,
-    count_rating: 230,
-    ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
       "avatars.mds.yandex.net/get-kinopoisk-image/1600647/430042eb-ee69-4818-aed0-a312400a26bf/72x108",
-    name: "И��терстеллар",
+    name: "Интерстеллар",
     original_name: "Interstellar",
     rating: "8.6",
     years: "2014",
     durations: "169 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 164,
     promo: "",
-    genre_id: 19,
+    genre_id: 4,
     country_id: 2,
     count_rating: 244,
     ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1704946/80eab631-346c-4c29-b14d-1fa1438158f9/72x108",
-    name: "Брат 2",
-    original_name: "Брат 2",
-    rating: "8.2",
-    years: "2000",
-    durations: "127 мин",
-    description: "",
-    director_id: 41,
-    promo: "",
-    genre_id: 11,
-    country_id: 18,
-    count_rating: 966,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1898899/8ef070c9-2570-4540-9b83-d7ce759c0781/72x108",
-    name: "Бойцовский клуб",
-    original_name: "Fight Club",
-    rating: "8.7",
-    years: "1999",
-    durations: "139 мин",
-    description: "",
-    director_id: 198,
-    promo: "",
-    genre_id: 4,
-    country_id: 16,
-    count_rating: 304,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1599028/3560b757-9b95-45ec-af8c-623972370f9d/72x108",
-    name: "Форрест Гамп",
-    original_name: "Forrest Gump",
-    rating: "8.9",
-    years: "1994",
-    durations: "142 мин",
-    description: "",
-    director_id: 82,
-    promo: "",
-    genre_id: 13,
-    country_id: 10,
-    count_rating: 195,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/4774061/ccd69a69-7405-4b41-89a8-60dd6dc2a3ee/72x108",
-    name: "Операция «Ы» и другие приключения Шурика",
-    original_name: "Операция «Ы» и другие приключения Шурика",
-    rating: "8.7",
-    years: "1965",
-    durations: "95 мин",
-    description: "",
-    director_id: 105,
-    promo: "",
-    genre_id: 5,
-    country_id: 14,
-    count_rating: 947,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1599028/4b27e219-a8a5-4d85-9874-57d6016e0837/72x108",
-    name: "Зеленая книга",
-    original_name: "Green Book",
-    rating: "8.4",
-    years: "2018",
-    durations: "130 мин",
-    description: "",
-    director_id: 165,
-    promo: "",
-    genre_id: 11,
-    country_id: 5,
-    count_rating: 967,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/4303601/03b417ff-d544-4f0b-a1fb-af09a2167a60/72x108",
-    name: "Рик и Морти",
-    original_name: "Rick and Morty",
-    rating: "9.0",
-    years: "2013–...",
-    durations: "23 мин",
-    description: "",
-    director_id: 173,
-    promo: "",
-    genre_id: 8,
-    country_id: 12,
-    count_rating: 44,
-    ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1599028/4c36aebf-9fb1-47cf-b1d5-90e916d0314b/72x108",
-    name: "Любовь и голуби",
-    original_name: "Любовь и голуби",
-    rating: "8.3",
-    years: "1984",
-    durations: "107 мин",
-    description: "",
-    director_id: 68,
-    promo: "",
-    genre_id: 7,
-    country_id: 6,
-    count_rating: 287,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/4303601/617303b7-cfa7-4273-bd1d-63974bf68927/72x108",
-    name: "Остров проклятых",
-    original_name: "Shutter Island",
-    rating: "8.5",
-    years: "2009",
-    durations: "138 мин",
-    description: "",
-    director_id: 74,
-    promo: "",
-    genre_id: 5,
-    country_id: 2,
-    count_rating: 482,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1773646/af92d310-4ae5-4daa-b42c-5bcc380c2e6e/72x108",
-    name: "Мстители: Война бесконечности",
-    original_name: "Avengers: Infinity War",
-    rating: "8.1",
-    years: "2018",
-    durations: "149 ми��",
-    description: "",
-    director_id: 46,
-    promo: "",
-    genre_id: 7,
-    country_id: 6,
-    count_rating: 274,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/4774061/374ded5e-2b42-4516-befe-31d5f427eafd/72x108",
-    name: "Триггер",
-    original_name: "Триггер",
-    rating: "8.5",
-    years: "2018–...",
-    durations: "52 мин",
-    description: "",
-    director_id: 6,
-    promo: "",
-    genre_id: 8,
-    country_id: 3,
-    count_rating: 611,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1773646/96d93e3a-fdbf-4b6f-b02d-2fc9c2648a18/72x108",
-    name: "Титаник",
-    original_name: "Titanic",
-    rating: "8.4",
-    years: "1997",
-    durations: "194 мин",
-    description: "",
-    director_id: 168,
-    promo: "",
-    genre_id: 5,
-    country_id: 10,
-    count_rating: 250,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1704946/16b82307-bdcc-4b9b-a427-55a07771c33a/72x108",
-    name: "Веном",
-    original_name: "Venom",
-    rating: "6.9",
-    years: "2018",
-    durations: "112 мин",
-    description: "",
-    director_id: 157,
-    promo: "",
-    genre_id: 6,
-    country_id: 9,
-    count_rating: 904,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1600647/ae22f153-9715-41bb-adb4-f648b3e16092/72x108",
-    name: "Мстители: Финал",
-    original_name: "Avengers: Endgame",
-    rating: "7.8",
-    years: "2019",
-    durations: "181 мин",
-    description: "",
-    director_id: 120,
-    promo: "",
-    genre_id: 7,
-    country_id: 11,
-    count_rating: 990,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/4774061/ce90ef63-3c81-4aa7-95f0-f5bbe5123484/72x108",
-    name: "Монастырь",
-    original_name: "Монастырь",
-    rating: "7.4",
-    years: "2022",
-    durations: "50 мин",
-    description: "",
-    director_id: 96,
-    promo: "",
-    genre_id: 20,
-    country_id: 9,
-    count_rating: 983,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/4774061/e0afea1f-6e8e-4c9a-aa63-a31ebd3857d0/72x108",
-    name: "Мажор",
-    original_name: "Мажор",
-    rating: "8.2",
-    years: "2014–...",
-    durations: "52 мин",
-    description: "",
-    director_id: 152,
-    promo: "",
-    genre_id: 14,
-    country_id: 2,
-    count_rating: 329,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1900788/87b5659d-a159-4224-9bff-d5a5d109a53b/72x108",
-    name: "Криминальное чтиво",
-    original_name: "Pulp Fiction",
-    rating: "8.6",
-    years: "1994",
-    durations: "154 мин",
-    description: "",
-    director_id: 129,
-    promo: "",
-    genre_id: 15,
-    country_id: 7,
-    count_rating: 275,
-    ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1773646/2e6ab20b-7cf1-49e7-b465-bd5a71c13fa3/72x108",
-    name: "Стражи Галактики",
-    original_name: "Guardians of the Galaxy",
-    rating: "7.8",
-    years: "2014",
-    durations: "121 мин",
-    description: "",
-    director_id: 81,
-    promo: "",
-    genre_id: 13,
-    country_id: 13,
-    count_rating: 761,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/4303601/9eb762d6-4cdd-464f-9937-aebf30067acc/72x108",
-    name: "Дюна",
-    original_name: "Dune: Part One",
-    rating: "7.7",
-    years: "2021",
-    durations: "155 мин",
-    description: "",
-    director_id: 115,
-    promo: "",
-    genre_id: 5,
-    country_id: 12,
-    count_rating: 858,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/4303601/bb966b79-5b10-485d-88d7-fb6aeb79b185/72x108",
-    name: "Доктор Стрэндж",
-    original_name: "Doctor Strange",
-    rating: "7.5",
-    years: "2016",
-    durations: "115 мин",
-    description: "",
-    director_id: 122,
-    promo: "",
-    genre_id: 5,
-    country_id: 7,
-    count_rating: 20,
-    ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1629390/d3bfd32d-41b4-48ad-9584-b3fc1f5669d4/72x108",
-    name: "Области тьмы",
-    original_name: "Limitless",
-    rating: "8.0",
-    years: "2011",
-    durations: "105 мин",
-    description: "",
-    director_id: 152,
-    promo: "",
-    genre_id: 16,
-    country_id: 3,
-    count_rating: 242,
-    ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/4774061/cf1970bc-3f08-4e0e-a095-2fb57c3aa7c6/72x108",
-    name: "Матрица",
-    original_name: "The Matrix",
-    rating: "8.5",
-    years: "1999",
-    durations: "136 мин",
-    description: "",
-    director_id: 30,
-    promo: "",
-    genre_id: 12,
-    country_id: 19,
-    count_rating: 83,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1599028/a68f7c1a-fb83-4533-a4e2-f60485f2f440/72x108",
-    name: "Ну, погоди!",
-    original_name: "Ну, погоди!",
-    rating: "8.7",
-    years: "1969–2017",
-    durations: "10 мин",
-    description: "",
-    director_id: 48,
-    promo: "",
-    genre_id: 21,
-    country_id: 21,
-    count_rating: 252,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1599028/0fa5bf50-d5ad-446f-a599-b26d070c8b99/72x108",
-    name: "Темный рыцарь",
-    original_name: "The Dark Knight",
-    rating: "8.5",
-    years: "2008",
-    durations: "152 мин",
-    description: "",
-    director_id: 67,
-    promo: "",
-    genre_id: 4,
-    country_id: 3,
-    count_rating: 479,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1600647/55db3c5f-837f-478e-b2ba-67872bf7b57c/72x108",
-    name: "Легенда",
-    original_name: "Legend",
-    rating: "7.2",
-    years: "2015",
-    durations: "131 мин",
-    description: "",
-    director_id: 37,
-    promo: "",
-    genre_id: 11,
-    country_id: 3,
-    count_rating: 900,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1773646/894f7e3c-cedf-4e5c-946a-9021efdf17dd/72x108",
-    name: "Рататуй",
-    original_name: "Ratatouille",
-    rating: "8.0",
-    years: "2007",
-    durations: "111 мин",
-    description: "",
-    director_id: 185,
-    promo: "",
-    genre_id: 16,
-    country_id: 11,
-    count_rating: 969,
-    ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1898899/972b7f43-9677-40ce-a9bc-02a88ad3919d/72x108",
-    name: "Мстители",
-    original_name: "The Avengers",
-    rating: "7.9",
-    years: "2012",
-    durations: "137 мин",
-    description: "",
-    director_id: 53,
-    promo: "",
-    genre_id: 3,
-    country_id: 18,
-    count_rating: 655,
-    ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1704946/e38dd6f9-610e-4c90-8540-dc48560cb9cc/72x108",
-    name: "Поймай меня, если смож��шь",
-    original_name: "Catch Me If You Can",
-    rating: "8.5",
-    years: "2002",
-    durations: "141 мин",
-    description: "",
-    director_id: 115,
-    promo: "",
-    genre_id: 18,
-    country_id: 2,
-    count_rating: 672,
-    ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1946459/218102a7-96be-4d7e-8029-815de0f37cfa/72x108",
-    name: "Джентльмены удачи",
-    original_name: "Джентльмены удачи",
-    rating: "8.5",
-    years: "1971",
-    durations: "84 мин",
-    description: "",
-    director_id: 140,
-    promo: "",
-    genre_id: 2,
-    country_id: 22,
-    count_rating: 229,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1898899/401c67e4-5047-42c2-8668-aeda39da529f/72x108",
-    name: "Джанго освобожденный",
-    original_name: "Django Unchained",
-    rating: "8.2",
-    years: "2012",
-    durations: "165 мин",
-    description: "",
-    director_id: 109,
-    promo: "",
-    genre_id: 19,
-    country_id: 9,
-    count_rating: 247,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1946459/7ade06a8-4178-4386-9ee2-87fec5a172eb/72x108",
-    name: "Шрэк",
-    original_name: "Shrek",
-    rating: "8.1",
-    years: "2001",
-    durations: "90 мин",
-    description: "",
-    director_id: 170,
-    promo: "",
-    genre_id: 19,
-    country_id: 11,
-    count_rating: 279,
-    ageLimit: 16,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/6201401/1485ac9a-7796-470b-a3eb-85dc725d4ec0/72x108",
-    name: "Король и Шут",
-    original_name: "Король и Шут",
-    rating: "8.3",
-    years: "2023",
-    durations: "50 мин",
-    description: "",
-    director_id: 28,
-    promo: "",
-    genre_id: 6,
-    country_id: 18,
-    count_rating: 257,
-    ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1704946/60aa1abc-b754-4817-ad9c-0bcda427a12b/72x108",
-    name: "Король Лев",
-    original_name: "The Lion King",
-    rating: "8.8",
-    years: "1994",
-    durations: "88 мин",
-    description: "",
-    director_id: 25,
-    promo: "",
-    genre_id: 15,
-    country_id: 20,
-    count_rating: 882,
-    ageLimit: 12,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1600647/a419d20d-4ae6-4c7c-91b3-c38ef9ca1ffe/72x108",
-    name: "Бриллиантовая рука",
-    original_name: "Бриллиантовая рука",
-    rating: "8.5",
-    years: "1968",
-    durations: "94 мин",
-    description: "",
-    director_id: 156,
-    promo: "",
-    genre_id: 15,
-    country_id: 12,
-    count_rating: 636,
-    ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1823,14 +1076,16 @@ const data = [
     rating: "7.6",
     years: "2016",
     durations: "108 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 132,
     promo: "",
-    genre_id: 11,
-    country_id: 12,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 332,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1840,14 +1095,16 @@ const data = [
     rating: "8.7",
     years: "2017",
     durations: "105 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 85,
     promo: "",
-    genre_id: 1,
-    country_id: 10,
+    genre_id: 3,
+    country_id: 19,
     count_rating: 773,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1857,14 +1114,16 @@ const data = [
     rating: "8.2",
     years: "2019",
     durations: "152 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 143,
     promo: "",
-    genre_id: 6,
-    country_id: 12,
+    genre_id: 14,
+    country_id: 2,
     count_rating: 131,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1874,14 +1133,16 @@ const data = [
     rating: "8.1",
     years: "2009",
     durations: "128 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 173,
     promo: "",
-    genre_id: 14,
-    country_id: 8,
+    genre_id: 8,
+    country_id: 2,
     count_rating: 965,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1891,14 +1152,16 @@ const data = [
     rating: "7.7",
     years: "2020–...",
     durations: "47 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 124,
     promo: "",
-    genre_id: 19,
-    country_id: 20,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 903,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1908,14 +1171,16 @@ const data = [
     rating: "8.6",
     years: "2000",
     durations: "155 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 197,
     promo: "",
-    genre_id: 12,
-    country_id: 17,
+    genre_id: 14,
+    country_id: 2,
     count_rating: 298,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1925,14 +1190,16 @@ const data = [
     rating: "8.4",
     years: "2008",
     durations: "98 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 98,
     promo: "",
-    genre_id: 19,
-    country_id: 5,
+    genre_id: 3,
+    country_id: 8,
     count_rating: 266,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1942,14 +1209,16 @@ const data = [
     rating: "8.6",
     years: "2001",
     durations: "178 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 146,
     promo: "",
-    genre_id: 19,
-    country_id: 18,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 235,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1959,14 +1228,16 @@ const data = [
     rating: "8.5",
     years: "1966",
     durations: "82 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 24,
     promo: "",
-    genre_id: 4,
-    country_id: 7,
+    genre_id: 6,
+    country_id: 6,
     count_rating: 789,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1976,14 +1247,16 @@ const data = [
     rating: "8.6",
     years: "1985",
     durations: "116 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 65,
     promo: "",
     genre_id: 4,
-    country_id: 4,
+    country_id: 2,
     count_rating: 713,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -1993,14 +1266,16 @@ const data = [
     rating: "7.8",
     years: "2015",
     durations: "144 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 19,
     promo: "",
-    genre_id: 17,
-    country_id: 10,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 271,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2010,14 +1285,16 @@ const data = [
     rating: "8.2",
     years: "2004",
     durations: "142 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 115,
     promo: "",
-    genre_id: 15,
-    country_id: 17,
+    genre_id: 4,
+    country_id: 5,
     count_rating: 818,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2027,14 +1304,16 @@ const data = [
     rating: "8.7",
     years: "1994",
     durations: "133 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 21,
     promo: "",
-    genre_id: 17,
-    country_id: 20,
+    genre_id: 1,
+    country_id: 4,
     count_rating: 572,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2044,14 +1323,16 @@ const data = [
     rating: "8.0",
     years: "2008",
     durations: "121 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 135,
     promo: "",
-    genre_id: 21,
-    country_id: 10,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 148,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2061,14 +1342,16 @@ const data = [
     rating: "8.1",
     years: "2006",
     durations: "151 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе м��щную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта �� реальность.",
     director_id: 75,
     promo: "",
-    genre_id: 21,
-    country_id: 14,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 142,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2078,14 +1361,16 @@ const data = [
     rating: "7.7",
     years: "2013",
     durations: "115 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 103,
     promo: "",
-    genre_id: 17,
+    genre_id: 11,
     country_id: 12,
     count_rating: 191,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2095,14 +1380,16 @@ const data = [
     rating: "8.6",
     years: "1997",
     durations: "87 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 118,
     promo: "",
-    genre_id: 3,
-    country_id: 2,
+    genre_id: 11,
+    country_id: 9,
     count_rating: 667,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2112,14 +1399,16 @@ const data = [
     rating: "8.4",
     years: "1979",
     durations: "150 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 110,
     promo: "",
-    genre_id: 4,
-    country_id: 16,
+    genre_id: 1,
+    country_id: 6,
     count_rating: 53,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2129,14 +1418,16 @@ const data = [
     rating: "8.9",
     years: "2010–2017",
     durations: "90 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическ��м путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 68,
     promo: "",
-    genre_id: 20,
-    country_id: 8,
+    genre_id: 8,
+    country_id: 5,
     count_rating: 217,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2146,14 +1437,16 @@ const data = [
     rating: "8.1",
     years: "2002",
     durations: "161 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 115,
     promo: "",
-    genre_id: 2,
-    country_id: 6,
+    genre_id: 4,
+    country_id: 5,
     count_rating: 247,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2163,14 +1456,16 @@ const data = [
     rating: "8.5",
     years: "2006",
     durations: "125 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 200,
     promo: "",
-    genre_id: 1,
+    genre_id: 6,
     country_id: 8,
     count_rating: 185,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2180,14 +1475,16 @@ const data = [
     rating: "6.8",
     years: "2019",
     durations: "109 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 144,
     promo: "",
-    genre_id: 15,
-    country_id: 11,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 270,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2197,14 +1494,16 @@ const data = [
     rating: "7.8",
     years: "2021",
     durations: "242 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательств��, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 8,
     promo: "",
     genre_id: 6,
-    country_id: 12,
+    country_id: 2,
     count_rating: 734,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2214,14 +1513,16 @@ const data = [
     rating: "8.2",
     years: "2010",
     durations: "98 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 47,
     promo: "",
-    genre_id: 18,
+    genre_id: 3,
     country_id: 4,
     count_rating: 921,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2231,14 +1532,16 @@ const data = [
     rating: "8.0",
     years: "2014",
     durations: "149 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 151,
     promo: "",
-    genre_id: 5,
+    genre_id: 17,
     country_id: 8,
     count_rating: 279,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2248,14 +1551,16 @@ const data = [
     rating: "8.0",
     years: "2009",
     durations: "153 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 167,
     promo: "",
-    genre_id: 16,
-    country_id: 1,
+    genre_id: 14,
+    country_id: 2,
     count_rating: 198,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2265,14 +1570,16 @@ const data = [
     rating: "8.1",
     years: "1997",
     durations: "126 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 6,
     promo: "",
     genre_id: 4,
-    country_id: 19,
+    country_id: 2,
     count_rating: 166,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2282,14 +1589,16 @@ const data = [
     rating: "7.4",
     years: "2021",
     durations: "115 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 167,
     promo: "",
-    genre_id: 13,
-    country_id: 8,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 747,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2299,14 +1608,16 @@ const data = [
     rating: "8.0",
     years: "2009",
     durations: "108 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 97,
     promo: "",
-    genre_id: 12,
-    country_id: 2,
+    genre_id: 21,
+    country_id: 21,
     count_rating: 972,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2316,14 +1627,16 @@ const data = [
     rating: "8.4",
     years: "2020",
     durations: "106 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 66,
     promo: "",
-    genre_id: 5,
+    genre_id: 3,
     country_id: 16,
     count_rating: 244,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2333,14 +1646,16 @@ const data = [
     rating: "8.3",
     years: "2021–...",
     durations: "50 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе м��щную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 19,
     promo: "",
-    genre_id: 20,
+    genre_id: 17,
     country_id: 1,
     count_rating: 962,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2350,14 +1665,16 @@ const data = [
     rating: "7.5",
     years: "2018",
     durations: "140 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 148,
     promo: "",
-    genre_id: 12,
+    genre_id: 15,
     country_id: 21,
     count_rating: 419,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2367,14 +1684,16 @@ const data = [
     rating: "8.1",
     years: "2015",
     durations: "95 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 91,
     promo: "",
     genre_id: 8,
-    country_id: 20,
+    country_id: 28,
     count_rating: 467,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2384,14 +1703,16 @@ const data = [
     rating: "8.0",
     years: "2019",
     durations: "122 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 173,
     promo: "",
-    genre_id: 5,
-    country_id: 13,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 539,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2401,14 +1722,16 @@ const data = [
     rating: "7.7",
     years: "2006",
     durations: "109 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 58,
     promo: "",
-    genre_id: 17,
-    country_id: 1,
+    genre_id: 11,
+    country_id: 17,
     count_rating: 620,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2418,14 +1741,16 @@ const data = [
     rating: "8.2",
     years: "2011",
     durations: "130 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 70,
     promo: "",
     genre_id: 4,
-    country_id: 20,
+    country_id: 5,
     count_rating: 598,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2435,14 +1760,16 @@ const data = [
     rating: "8.7",
     years: "2003",
     durations: "201 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 18,
     promo: "",
-    genre_id: 6,
-    country_id: 15,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 611,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2452,14 +1779,16 @@ const data = [
     rating: "8.0",
     years: "1992",
     durations: "119 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 149,
     promo: "",
-    genre_id: 21,
-    country_id: 18,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 546,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2469,14 +1798,16 @@ const data = [
     rating: "7.6",
     years: "2021",
     durations: "134 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 142,
     promo: "",
-    genre_id: 21,
+    genre_id: 1,
     country_id: 18,
     count_rating: 940,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2486,14 +1817,16 @@ const data = [
     rating: "8.1",
     years: "2007",
     durations: "169 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 158,
     promo: "",
-    genre_id: 16,
-    country_id: 10,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 12,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2503,31 +1836,35 @@ const data = [
     rating: "6.7",
     years: "2022",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 7,
     promo: "",
-    genre_id: 12,
+    genre_id: 9,
     country_id: 11,
     count_rating: 227,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
       "avatars.mds.yandex.net/get-kinopoisk-image/4303601/389c3708-9557-44ea-9579-42b42e0570bd/72x108",
     name: "Постучись в мою дверь",
-    original_name: "Sen Çal Kapımı",
+    original_name: "Sen Çal Kapшimi",
     rating: "8.1",
     years: "2020–2021",
     durations: "45 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 120,
     promo: "",
-    genre_id: 18,
-    country_id: 5,
+    genre_id: 6,
+    country_id: 9,
     count_rating: 627,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2537,14 +1874,16 @@ const data = [
     rating: "8.6",
     years: "2002",
     durations: "179 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 74,
     promo: "",
-    genre_id: 10,
-    country_id: 19,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 285,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2554,14 +1893,16 @@ const data = [
     rating: "7.2",
     years: "2019",
     durations: "121 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 117,
     promo: "",
-    genre_id: 10,
-    country_id: 9,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 892,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2571,14 +1912,16 @@ const data = [
     rating: "8.9",
     years: "2008–2013",
     durations: "47 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 34,
     promo: "",
-    genre_id: 16,
-    country_id: 4,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 147,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2588,14 +1931,16 @@ const data = [
     rating: "7.1",
     years: "2022",
     durations: "109 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 100,
     promo: "",
-    genre_id: 9,
-    country_id: 22,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 915,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2605,14 +1950,16 @@ const data = [
     rating: "8.1",
     years: "2012",
     durations: "169 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 177,
     promo: "",
-    genre_id: 1,
-    country_id: 10,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 823,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2622,14 +1969,16 @@ const data = [
     rating: "9.2",
     years: "1982",
     durations: "10 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 122,
     promo: "",
-    genre_id: 15,
-    country_id: 10,
+    genre_id: 3,
+    country_id: 6,
     count_rating: 959,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2639,14 +1988,16 @@ const data = [
     rating: "7.7",
     years: "2011",
     durations: "127 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 190,
     promo: "",
-    genre_id: 5,
-    country_id: 5,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 765,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2656,14 +2007,16 @@ const data = [
     rating: "8.5",
     years: "2000",
     durations: "104 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 107,
     promo: "",
-    genre_id: 7,
-    country_id: 4,
+    genre_id: 9,
+    country_id: 2,
     count_rating: 241,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2673,14 +2026,16 @@ const data = [
     rating: "7.7",
     years: "2019",
     durations: "161 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 139,
     promo: "",
-    genre_id: 17,
-    country_id: 13,
+    genre_id: 14,
+    country_id: 2,
     count_rating: 200,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2690,14 +2045,16 @@ const data = [
     rating: "8.4",
     years: "1962",
     durations: "92 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 81,
     promo: "",
-    genre_id: 11,
-    country_id: 22,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 602,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2707,14 +2064,16 @@ const data = [
     rating: "7.3",
     years: "2009–...",
     durations: "7 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 74,
     promo: "",
-    genre_id: 5,
-    country_id: 18,
+    genre_id: 3,
+    country_id: 1,
     count_rating: 149,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2724,14 +2083,16 @@ const data = [
     rating: "9.0",
     years: "2012–2016",
     durations: "22 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в это�� эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 20,
     promo: "",
-    genre_id: 6,
-    country_id: 21,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 762,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2741,14 +2102,16 @@ const data = [
     rating: "8.5",
     years: "2001",
     durations: "125 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 162,
     promo: "",
-    genre_id: 20,
-    country_id: 5,
+    genre_id: 3,
+    country_id: 10,
     count_rating: 137,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2758,14 +2121,16 @@ const data = [
     rating: "7.5",
     years: "2020",
     durations: "150 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 73,
     promo: "",
-    genre_id: 7,
-    country_id: 16,
+    genre_id: 8,
+    country_id: 2,
     count_rating: 39,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2775,14 +2140,16 @@ const data = [
     rating: "8.7",
     years: "2011–2021",
     durations: "55 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 179,
     promo: "",
-    genre_id: 15,
-    country_id: 16,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 662,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2792,14 +2159,16 @@ const data = [
     rating: "7.9",
     years: "2013",
     durations: "102 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 109,
     promo: "",
-    genre_id: 8,
-    country_id: 7,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 32,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2809,14 +2178,16 @@ const data = [
     rating: "7.2",
     years: "2021",
     durations: "136 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 15,
     promo: "",
-    genre_id: 8,
-    country_id: 20,
+    genre_id: 4,
+    country_id: 1,
     count_rating: 658,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2826,14 +2197,16 @@ const data = [
     rating: "8.0",
     years: "2015",
     durations: "168 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 126,
     promo: "",
-    genre_id: 17,
-    country_id: 8,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 30,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2843,14 +2216,16 @@ const data = [
     rating: "7.9",
     years: "2014",
     durations: "113 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 84,
     promo: "",
-    genre_id: 18,
-    country_id: 14,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 507,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2860,14 +2235,16 @@ const data = [
     rating: "7.7",
     years: "2017",
     durations: "130 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 89,
     promo: "",
     genre_id: 4,
-    country_id: 10,
+    country_id: 2,
     count_rating: 28,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2877,14 +2254,16 @@ const data = [
     rating: "8.3",
     years: "1998",
     durations: "103 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 128,
     promo: "",
-    genre_id: 14,
+    genre_id: 1,
     country_id: 2,
     count_rating: 466,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2894,14 +2273,16 @@ const data = [
     rating: "7.9",
     years: "2005",
     durations: "157 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 82,
     promo: "",
-    genre_id: 20,
-    country_id: 13,
+    genre_id: 4,
+    country_id: 5,
     count_rating: 946,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2911,14 +2292,16 @@ const data = [
     rating: "7.8",
     years: "2017",
     durations: "136 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 37,
     promo: "",
-    genre_id: 17,
-    country_id: 22,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 561,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2928,14 +2311,16 @@ const data = [
     rating: "6.7",
     years: "2018",
     durations: "139 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную эн��ргию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 76,
     promo: "",
-    genre_id: 18,
-    country_id: 19,
+    genre_id: 14,
+    country_id: 1,
     count_rating: 831,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2945,14 +2330,16 @@ const data = [
     rating: "7.7",
     years: "2003",
     durations: "97 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 120,
     promo: "",
-    genre_id: 16,
-    country_id: 9,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 195,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2962,14 +2349,16 @@ const data = [
     rating: "8.6",
     years: "1998",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 90,
     promo: "",
-    genre_id: 4,
-    country_id: 18,
+    genre_id: 5,
+    country_id: 2,
     count_rating: 643,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2979,14 +2368,16 @@ const data = [
     rating: "8.3",
     years: "1977",
     durations: "159 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 40,
     promo: "",
-    genre_id: 11,
-    country_id: 10,
+    genre_id: 6,
+    country_id: 6,
     count_rating: 389,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -2996,14 +2387,16 @@ const data = [
     rating: "8.1",
     years: "2018",
     durations: "117 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь �� этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 21,
     promo: "",
-    genre_id: 5,
-    country_id: 10,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 586,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3013,14 +2406,16 @@ const data = [
     rating: "6.8",
     years: "2018",
     durations: "143 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 193,
     promo: "",
-    genre_id: 12,
-    country_id: 3,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 920,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3030,14 +2425,16 @@ const data = [
     rating: "8.3",
     years: "2008",
     durations: "89 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 95,
     promo: "",
-    genre_id: 4,
-    country_id: 10,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 430,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3047,14 +2444,16 @@ const data = [
     rating: "8.2",
     years: "2003",
     durations: "113 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 173,
     promo: "",
-    genre_id: 12,
-    country_id: 10,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 973,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3064,14 +2463,16 @@ const data = [
     rating: "7.4",
     years: "2019",
     durations: "129 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 47,
     promo: "",
-    genre_id: 12,
-    country_id: 7,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 751,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3081,14 +2482,16 @@ const data = [
     rating: "9.2",
     years: "1994–2004",
     durations: "22 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 2,
     promo: "",
-    genre_id: 5,
-    country_id: 8,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 562,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3098,14 +2501,16 @@ const data = [
     rating: "6.1",
     years: "2016",
     durations: "118 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 22,
     promo: "",
-    genre_id: 1,
-    country_id: 15,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 183,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3115,14 +2520,16 @@ const data = [
     rating: "7.9",
     years: "2005",
     durations: "121 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 78,
     promo: "",
-    genre_id: 21,
+    genre_id: 17,
     country_id: 15,
     count_rating: 713,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3132,14 +2539,16 @@ const data = [
     rating: "8.2",
     years: "2012",
     durations: "165 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает на�� в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 179,
     promo: "",
-    genre_id: 13,
+    genre_id: 15,
     country_id: 5,
     count_rating: 901,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3149,14 +2558,16 @@ const data = [
     rating: "7.4",
     years: "2018",
     durations: "119 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 157,
     promo: "",
-    genre_id: 15,
-    country_id: 11,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 101,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3166,14 +2577,16 @@ const data = [
     rating: "8.3",
     years: "1990",
     durations: "118 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 180,
     promo: "",
-    genre_id: 15,
-    country_id: 21,
+    genre_id: 17,
+    country_id: 2,
     count_rating: 883,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3183,14 +2596,16 @@ const data = [
     rating: "8.0",
     years: "2019",
     durations: "131 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 106,
     promo: "",
-    genre_id: 5,
-    country_id: 7,
+    genre_id: 1,
+    country_id: 10,
     count_rating: 351,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3200,14 +2615,16 @@ const data = [
     rating: "8.1",
     years: "2001",
     durations: "92 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 53,
     promo: "",
-    genre_id: 11,
-    country_id: 17,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 764,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3217,14 +2634,16 @@ const data = [
     rating: "8.8",
     years: "1993",
     durations: "195 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 167,
     promo: "",
-    genre_id: 19,
-    country_id: 19,
+    genre_id: 14,
+    country_id: 8,
     count_rating: 287,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3234,14 +2653,16 @@ const data = [
     rating: "8.5",
     years: "2001",
     durations: "135 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 128,
     promo: "",
-    genre_id: 17,
-    country_id: 13,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 541,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3251,14 +2672,16 @@ const data = [
     rating: "8.8",
     years: "2019",
     durations: "59 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 167,
     promo: "",
-    genre_id: 19,
-    country_id: 18,
+    genre_id: 14,
+    country_id: 2,
     count_rating: 523,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3268,14 +2691,16 @@ const data = [
     rating: "7.3",
     years: "2011",
     durations: "109 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов со��ытий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 100,
     promo: "",
-    genre_id: 15,
-    country_id: 20,
+    genre_id: 5,
+    country_id: 4,
     count_rating: 561,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3285,14 +2710,16 @@ const data = [
     rating: "7.8",
     years: "2007",
     durations: "138 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 23,
     promo: "",
-    genre_id: 9,
-    country_id: 2,
+    genre_id: 4,
+    country_id: 5,
     count_rating: 231,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3302,14 +2729,16 @@ const data = [
     rating: "8.3",
     years: "2002",
     durations: "52 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 104,
     promo: "",
-    genre_id: 10,
-    country_id: 11,
+    genre_id: 2,
+    country_id: 1,
     count_rating: 761,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3319,14 +2748,16 @@ const data = [
     rating: "7.9",
     years: "2014",
     durations: "100 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 95,
     promo: "",
-    genre_id: 18,
-    country_id: 10,
+    genre_id: 6,
+    country_id: 4,
     count_rating: 733,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3336,14 +2767,16 @@ const data = [
     rating: "8.3",
     years: "1995",
     durations: "127 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в ��ердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 162,
     promo: "",
-    genre_id: 7,
-    country_id: 21,
+    genre_id: 2,
+    country_id: 4,
     count_rating: 603,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3353,14 +2786,16 @@ const data = [
     rating: "7.7",
     years: "2009",
     durations: "108 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 46,
     promo: "",
-    genre_id: 14,
-    country_id: 7,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 709,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3370,14 +2805,16 @@ const data = [
     rating: "8.1",
     years: "1993",
     durations: "101 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 195,
     promo: "",
-    genre_id: 10,
-    country_id: 6,
+    genre_id: 21,
+    country_id: 2,
     count_rating: 482,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3387,14 +2824,16 @@ const data = [
     rating: "7.7",
     years: "2015",
     durations: "130 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 172,
     promo: "",
-    genre_id: 6,
-    country_id: 6,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 327,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3404,14 +2843,16 @@ const data = [
     rating: "8.2",
     years: "2005–2020",
     durations: "43 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголк�� души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 196,
     promo: "",
-    genre_id: 17,
-    country_id: 19,
+    genre_id: 7,
+    country_id: 2,
     count_rating: 464,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3421,14 +2862,16 @@ const data = [
     rating: "8.1",
     years: "2008",
     durations: "166 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 40,
     promo: "",
-    genre_id: 20,
-    country_id: 1,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 469,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3438,14 +2881,16 @@ const data = [
     rating: "7.6",
     years: "2020",
     durations: "76 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 68,
     promo: "",
-    genre_id: 16,
-    country_id: 18,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 204,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3455,14 +2900,16 @@ const data = [
     rating: "7.2",
     years: "2021",
     durations: "139 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 37,
     promo: "",
-    genre_id: 9,
-    country_id: 12,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 776,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3472,14 +2919,16 @@ const data = [
     rating: "7.8",
     years: "2009",
     durations: "153 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 47,
     promo: "",
-    genre_id: 2,
-    country_id: 22,
+    genre_id: 4,
+    country_id: 5,
     count_rating: 930,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3489,14 +2938,16 @@ const data = [
     rating: "8.8",
     years: "2004–2012",
     durations: "43 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 135,
     promo: "",
-    genre_id: 21,
-    country_id: 13,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 475,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3506,14 +2957,16 @@ const data = [
     rating: "8.0",
     years: "2010–2022",
     durations: "43 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 116,
     promo: "",
-    genre_id: 19,
-    country_id: 12,
+    genre_id: 17,
+    country_id: 2,
     count_rating: 383,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3523,14 +2976,16 @@ const data = [
     rating: "7.6",
     years: "2005",
     durations: "115 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 190,
     promo: "",
-    genre_id: 20,
+    genre_id: 6,
     country_id: 2,
     count_rating: 615,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3540,14 +2995,16 @@ const data = [
     rating: "8.0",
     years: "2018",
     durations: "134 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 116,
     promo: "",
-    genre_id: 18,
-    country_id: 1,
+    genre_id: 13,
+    country_id: 5,
     count_rating: 912,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3557,14 +3014,16 @@ const data = [
     rating: "7.9",
     years: "2007",
     durations: "96 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 67,
     promo: "",
-    genre_id: 12,
+    genre_id: 1,
     country_id: 15,
     count_rating: 709,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3574,14 +3033,16 @@ const data = [
     rating: "7.1",
     years: "2022",
     durations: "114 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 122,
     promo: "",
     genre_id: 8,
     country_id: 11,
     count_rating: 788,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3591,14 +3052,16 @@ const data = [
     rating: "7.3",
     years: "2021",
     durations: "132 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 173,
     promo: "",
-    genre_id: 1,
-    country_id: 16,
+    genre_id: 15,
+    country_id: 11,
     count_rating: 537,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3608,14 +3071,16 @@ const data = [
     rating: "8.0",
     years: "1994",
     durations: "101 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 188,
     promo: "",
-    genre_id: 9,
-    country_id: 13,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 652,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3625,14 +3090,16 @@ const data = [
     rating: "8.0",
     years: "2012",
     durations: "134 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 7,
     promo: "",
-    genre_id: 9,
-    country_id: 11,
+    genre_id: 10,
+    country_id: 1,
     count_rating: 7,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3642,14 +3109,16 @@ const data = [
     rating: "7.6",
     years: "2016",
     durations: "132 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 28,
     promo: "",
-    genre_id: 11,
-    country_id: 9,
+    genre_id: 4,
+    country_id: 5,
     count_rating: 676,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3659,14 +3128,16 @@ const data = [
     rating: "7.9",
     years: "2010",
     durations: "146 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и ��редательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 66,
     promo: "",
-    genre_id: 6,
-    country_id: 11,
+    genre_id: 4,
+    country_id: 5,
     count_rating: 4,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3676,14 +3147,16 @@ const data = [
     rating: "8.3",
     years: "1991",
     durations: "137 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 42,
     promo: "",
     genre_id: 4,
-    country_id: 13,
+    country_id: 2,
     count_rating: 946,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3693,14 +3166,16 @@ const data = [
     rating: "8.4",
     years: "2016–2022",
     durations: "51 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 106,
     promo: "",
-    genre_id: 3,
-    country_id: 6,
+    genre_id: 8,
+    country_id: 7,
     count_rating: 402,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3710,14 +3185,16 @@ const data = [
     rating: "8.1",
     years: "2005",
     durations: "110 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 159,
     promo: "",
-    genre_id: 16,
+    genre_id: 1,
     country_id: 12,
     count_rating: 204,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3727,14 +3204,16 @@ const data = [
     rating: "7.0",
     years: "2014",
     durations: "101 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 97,
     promo: "",
-    genre_id: 9,
-    country_id: 22,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 138,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3744,14 +3223,16 @@ const data = [
     rating: "7.7",
     years: "2004",
     durations: "124 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 105,
     promo: "",
     genre_id: 1,
     country_id: 16,
     count_rating: 607,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3761,14 +3242,16 @@ const data = [
     rating: "8.5",
     years: "2006",
     durations: "151 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 5,
     promo: "",
-    genre_id: 12,
-    country_id: 1,
+    genre_id: 1,
+    country_id: 13,
     count_rating: 276,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3778,14 +3261,16 @@ const data = [
     rating: "7.5",
     years: "2013",
     durations: "125 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 157,
     promo: "",
-    genre_id: 11,
-    country_id: 22,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 989,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3795,14 +3280,16 @@ const data = [
     rating: "7.5",
     years: "2010",
     durations: "119 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощае�� в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальнос��ь.",
     director_id: 170,
     promo: "",
-    genre_id: 6,
-    country_id: 7,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 450,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3812,14 +3299,16 @@ const data = [
     rating: "8.0",
     years: "2004",
     durations: "108 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 49,
     promo: "",
     genre_id: 21,
     country_id: 12,
     count_rating: 348,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3829,14 +3318,16 @@ const data = [
     rating: "7.4",
     years: "2021",
     durations: "101 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 147,
     promo: "",
-    genre_id: 7,
-    country_id: 19,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 372,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3846,14 +3337,16 @@ const data = [
     rating: "7.7",
     years: "2002",
     durations: "121 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 140,
     promo: "",
-    genre_id: 9,
-    country_id: 14,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 340,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3863,14 +3356,16 @@ const data = [
     rating: "8.6",
     years: "2007–2019",
     durations: "22 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путе��ествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 28,
     promo: "",
-    genre_id: 18,
-    country_id: 9,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 696,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3880,14 +3375,16 @@ const data = [
     rating: "8.0",
     years: "1997",
     durations: "98 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 82,
     promo: "",
-    genre_id: 20,
-    country_id: 7,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 132,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3897,14 +3394,16 @@ const data = [
     rating: "8.2",
     years: "2016",
     durations: "139 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 89,
     promo: "",
-    genre_id: 3,
+    genre_id: 1,
     country_id: 9,
     count_rating: 163,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3914,14 +3413,16 @@ const data = [
     rating: "8.0",
     years: "2013",
     durations: "161 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 117,
     promo: "",
-    genre_id: 11,
-    country_id: 7,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 815,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3931,14 +3432,16 @@ const data = [
     rating: "6.2",
     years: "2021",
     durations: "96 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие угол��и души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 40,
     promo: "",
-    genre_id: 12,
-    country_id: 15,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 630,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3948,14 +3451,16 @@ const data = [
     rating: "8.0",
     years: "2010",
     durations: "100 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 15,
     promo: "",
-    genre_id: 7,
-    country_id: 14,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 664,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3965,14 +3470,16 @@ const data = [
     rating: "7.3",
     years: "2017",
     durations: "135 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 73,
     promo: "",
-    genre_id: 13,
-    country_id: 10,
+    genre_id: 17,
+    country_id: 2,
     count_rating: 784,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3982,14 +3489,16 @@ const data = [
     rating: "8.7",
     years: "1973",
     durations: "87 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 179,
     promo: "",
-    genre_id: 4,
-    country_id: 13,
+    genre_id: 19,
+    country_id: 1,
     count_rating: 590,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -3999,14 +3508,16 @@ const data = [
     rating: "8.1",
     years: "2021–2022",
     durations: "46 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и пер��носит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 138,
     promo: "",
-    genre_id: 10,
-    country_id: 18,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 269,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4016,14 +3527,16 @@ const data = [
     rating: "7.9",
     years: "2013",
     durations: "143 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 113,
     promo: "",
-    genre_id: 20,
-    country_id: 21,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 673,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4033,14 +3546,16 @@ const data = [
     rating: "7.3",
     years: "2015",
     durations: "141 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 66,
     promo: "",
-    genre_id: 19,
-    country_id: 8,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 398,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4050,14 +3565,16 @@ const data = [
     rating: "7.1",
     years: "2011",
     durations: "110 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 166,
     promo: "",
-    genre_id: 16,
-    country_id: 6,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 694,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4067,14 +3584,16 @@ const data = [
     rating: "7.8",
     years: "2011",
     durations: "93 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драма��ическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 185,
     promo: "",
-    genre_id: 17,
-    country_id: 14,
+    genre_id: 5,
+    country_id: 4,
     count_rating: 215,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4084,14 +3603,16 @@ const data = [
     rating: "8.2",
     years: "1997",
     durations: "144 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 51,
     promo: "",
     genre_id: 18,
     country_id: 4,
     count_rating: 685,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4101,14 +3622,16 @@ const data = [
     rating: "8.3",
     years: "1997",
     durations: "129 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 45,
     promo: "",
-    genre_id: 18,
-    country_id: 1,
+    genre_id: 15,
+    country_id: 8,
     count_rating: 929,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4118,14 +3641,16 @@ const data = [
     rating: "8.2",
     years: "2008",
     durations: "118 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 179,
     promo: "",
-    genre_id: 19,
+    genre_id: 6,
     country_id: 11,
     count_rating: 575,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4135,14 +3660,16 @@ const data = [
     rating: "8.1",
     years: "2017",
     durations: "115 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непр��дсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 51,
     promo: "",
-    genre_id: 12,
-    country_id: 16,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 366,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4152,14 +3679,16 @@ const data = [
     rating: "7.8",
     years: "2004",
     durations: "115 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 170,
     promo: "",
-    genre_id: 14,
+    genre_id: 7,
     country_id: 4,
     count_rating: 346,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4169,14 +3698,16 @@ const data = [
     rating: "8.1",
     years: "2004",
     durations: "124 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 37,
     promo: "",
     genre_id: 6,
-    country_id: 1,
+    country_id: 5,
     count_rating: 302,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4186,14 +3717,16 @@ const data = [
     rating: "7.8",
     years: "2016",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 147,
     promo: "",
-    genre_id: 9,
-    country_id: 8,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 60,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4203,14 +3736,16 @@ const data = [
     rating: "7.0",
     years: "2017",
     durations: "114 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зри��елей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 137,
     promo: "",
-    genre_id: 11,
-    country_id: 4,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 873,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4220,14 +3755,16 @@ const data = [
     rating: "8.3",
     years: "1989",
     durations: "108 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 198,
     promo: "",
-    genre_id: 12,
+    genre_id: 15,
     country_id: 5,
     count_rating: 668,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4237,14 +3774,16 @@ const data = [
     rating: "8.4",
     years: "2013–2022",
     durations: "60 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 40,
     promo: "",
     genre_id: 9,
-    country_id: 13,
+    country_id: 5,
     count_rating: 298,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4254,14 +3793,16 @@ const data = [
     rating: "7.2",
     years: "2016",
     durations: "118 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 145,
     promo: "",
     genre_id: 9,
     country_id: 13,
     count_rating: 956,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4271,14 +3812,16 @@ const data = [
     rating: "8.0",
     years: "2005",
     durations: "86 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 119,
     promo: "",
-    genre_id: 17,
-    country_id: 19,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 681,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4288,14 +3831,16 @@ const data = [
     rating: "6.9",
     years: "2017",
     durations: "136 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 47,
     promo: "",
     genre_id: 20,
     country_id: 14,
     count_rating: 775,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4305,14 +3850,16 @@ const data = [
     rating: "6.9",
     years: "2021",
     durations: "55 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 19,
     promo: "",
     genre_id: 12,
     country_id: 11,
     count_rating: 932,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4322,14 +3869,16 @@ const data = [
     rating: "7.8",
     years: "2015",
     durations: "156 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 73,
     promo: "",
-    genre_id: 21,
-    country_id: 6,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 313,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4339,14 +3888,16 @@ const data = [
     rating: "7.3",
     years: "2011",
     durations: "100 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 120,
     promo: "",
     genre_id: 9,
     country_id: 20,
     count_rating: 575,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4356,14 +3907,16 @@ const data = [
     rating: "6.8",
     years: "2021",
     durations: "98 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 147,
     promo: "",
-    genre_id: 8,
-    country_id: 6,
+    genre_id: 1,
+    country_id: 1,
     count_rating: 174,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4373,14 +3926,16 @@ const data = [
     rating: "8.0",
     years: "2009",
     durations: "96 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 180,
     promo: "",
     genre_id: 15,
-    country_id: 14,
+    country_id: 2,
     count_rating: 205,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4390,14 +3945,16 @@ const data = [
     rating: "6.9",
     years: "2016",
     durations: "127 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 27,
     promo: "",
-    genre_id: 6,
-    country_id: 7,
+    genre_id: 7,
+    country_id: 2,
     count_rating: 848,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4407,14 +3964,16 @@ const data = [
     rating: "8.0",
     years: "2002",
     durations: "81 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 178,
     promo: "",
-    genre_id: 15,
-    country_id: 18,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 314,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4424,14 +3983,16 @@ const data = [
     rating: "8.0",
     years: "1990",
     durations: "115 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 2,
     promo: "",
-    genre_id: 20,
+    genre_id: 6,
     country_id: 10,
     count_rating: 304,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4441,14 +4002,16 @@ const data = [
     rating: "7.4",
     years: "2021",
     durations: "92 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 146,
     promo: "",
     genre_id: 7,
     country_id: 20,
     count_rating: 144,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4458,14 +4021,16 @@ const data = [
     rating: "8.1",
     years: "2021",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 21,
     promo: "",
-    genre_id: 17,
-    country_id: 16,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 255,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4475,14 +4040,16 @@ const data = [
     rating: "6.6",
     years: "2018",
     durations: "134 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 16,
     promo: "",
-    genre_id: 17,
-    country_id: 22,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 509,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4492,14 +4059,16 @@ const data = [
     rating: "8.7",
     years: "2013–...",
     durations: "24 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 5,
     promo: "",
-    genre_id: 1,
+    genre_id: 4,
     country_id: 21,
     count_rating: 627,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4509,14 +4078,16 @@ const data = [
     rating: "7.3",
     years: "2019–...",
     durations: "60 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 187,
     promo: "",
-    genre_id: 13,
-    country_id: 10,
+    genre_id: 15,
+    country_id: 8,
     count_rating: 535,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4526,14 +4097,16 @@ const data = [
     rating: "8.1",
     years: "2014",
     durations: "116 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 150,
     promo: "",
     genre_id: 14,
     country_id: 13,
     count_rating: 891,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4543,14 +4116,16 @@ const data = [
     rating: "8.2",
     years: "1975",
     durations: "184 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 106,
     promo: "",
-    genre_id: 1,
-    country_id: 10,
+    genre_id: 6,
+    country_id: 6,
     count_rating: 676,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4560,14 +4135,16 @@ const data = [
     rating: "6.7",
     years: "2014",
     durations: "89 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 31,
     promo: "",
     genre_id: 4,
-    country_id: 21,
+    country_id: 2,
     count_rating: 902,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4577,14 +4154,16 @@ const data = [
     rating: "7.2",
     years: "2013",
     durations: "125 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 155,
     promo: "",
     genre_id: 20,
     country_id: 5,
     count_rating: 322,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4594,14 +4173,16 @@ const data = [
     rating: "8.1",
     years: "2022",
     durations: "60 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 158,
     promo: "",
-    genre_id: 4,
-    country_id: 9,
+    genre_id: 7,
+    country_id: 2,
     count_rating: 40,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4611,14 +4192,16 @@ const data = [
     rating: "7.2",
     years: "2016",
     durations: "116 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 114,
     promo: "",
     genre_id: 21,
     country_id: 5,
     count_rating: 642,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4628,14 +4211,16 @@ const data = [
     rating: "7.3",
     years: "2012",
     durations: "142 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 162,
     promo: "",
-    genre_id: 11,
-    country_id: 20,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 825,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4645,14 +4230,16 @@ const data = [
     rating: "7.2",
     years: "2014",
     durations: "97 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 196,
     promo: "",
     genre_id: 7,
-    country_id: 8,
+    country_id: 2,
     count_rating: 571,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4662,14 +4249,16 @@ const data = [
     rating: "7.4",
     years: "2016",
     durations: "142 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 1,
     promo: "",
-    genre_id: 3,
-    country_id: 22,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 977,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4679,14 +4268,16 @@ const data = [
     rating: "8.4",
     years: "2022",
     durations: "50 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 47,
     promo: "",
-    genre_id: 5,
+    genre_id: 1,
     country_id: 1,
     count_rating: 90,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4696,14 +4287,16 @@ const data = [
     rating: "8.4",
     years: "2013",
     durations: "106 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 113,
     promo: "",
     genre_id: 7,
     country_id: 18,
     count_rating: 454,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4713,14 +4306,16 @@ const data = [
     rating: "6.7",
     years: "2014",
     durations: "134 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 41,
     promo: "",
-    genre_id: 6,
-    country_id: 10,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 165,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4730,14 +4325,16 @@ const data = [
     rating: "7.6",
     years: "2020",
     durations: "129 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борь��а и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 57,
     promo: "",
     genre_id: 21,
     country_id: 21,
     count_rating: 648,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4747,14 +4344,16 @@ const data = [
     rating: "7.9",
     years: "2011",
     durations: "114 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 95,
     promo: "",
     genre_id: 8,
     country_id: 20,
     count_rating: 112,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4764,14 +4363,16 @@ const data = [
     rating: "8.0",
     years: "2022–...",
     durations: "45 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 165,
     promo: "",
     genre_id: 2,
-    country_id: 20,
+    country_id: 2,
     count_rating: 119,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4781,14 +4382,16 @@ const data = [
     rating: "7.8",
     years: "2017",
     durations: "164 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 143,
     promo: "",
-    genre_id: 16,
-    country_id: 11,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 81,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4798,14 +4401,16 @@ const data = [
     rating: "8.8",
     years: "1978",
     durations: "19 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 164,
     promo: "",
-    genre_id: 18,
-    country_id: 22,
+    genre_id: 3,
+    country_id: 1,
     count_rating: 624,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4815,14 +4420,16 @@ const data = [
     rating: "7.9",
     years: "2013",
     durations: "118 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 6,
     promo: "",
     genre_id: 18,
     country_id: 8,
     count_rating: 393,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4832,14 +4439,16 @@ const data = [
     rating: "8.2",
     years: "2011",
     durations: "146 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 53,
     promo: "",
     genre_id: 1,
     country_id: 4,
     count_rating: 143,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4849,14 +4458,16 @@ const data = [
     rating: "7.9",
     years: "2008–2021",
     durations: "136 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 188,
     promo: "",
-    genre_id: 5,
-    country_id: 22,
+    genre_id: 21,
+    country_id: 1,
     count_rating: 664,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4866,14 +4477,16 @@ const data = [
     rating: "8.6",
     years: "2019–...",
     durations: "43 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 48,
     promo: "",
     genre_id: 2,
     country_id: 2,
     count_rating: 762,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4883,14 +4496,16 @@ const data = [
     rating: "7.5",
     years: "2021",
     durations: "87 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 39,
     promo: "",
-    genre_id: 16,
-    country_id: 10,
+    genre_id: 3,
+    country_id: 1,
     count_rating: 761,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4900,14 +4515,16 @@ const data = [
     rating: "8.3",
     years: "2006",
     durations: "117 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 167,
     promo: "",
     genre_id: 19,
     country_id: 21,
     count_rating: 656,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4917,14 +4534,16 @@ const data = [
     rating: "6.7",
     years: "2021",
     durations: "132 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 92,
     promo: "",
-    genre_id: 9,
-    country_id: 7,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 169,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4934,14 +4553,16 @@ const data = [
     rating: "7.3",
     years: "2011",
     durations: "136 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, котора�� оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в эт��м эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 88,
     promo: "",
-    genre_id: 6,
-    country_id: 13,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 9,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4951,14 +4572,16 @@ const data = [
     rating: "7.5",
     years: "2006",
     durations: "112 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 196,
     promo: "",
-    genre_id: 21,
-    country_id: 3,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 914,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4968,14 +4591,16 @@ const data = [
     rating: "7.0",
     years: "2013",
     durations: "116 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 62,
     promo: "",
-    genre_id: 8,
-    country_id: 5,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 699,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -4985,14 +4610,16 @@ const data = [
     rating: "7.5",
     years: "2020",
     durations: "110 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 41,
     promo: "",
     genre_id: 19,
     country_id: 13,
     count_rating: 624,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5002,14 +4629,16 @@ const data = [
     rating: "8.3",
     years: "2004",
     durations: "119 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно ��ледите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 86,
     promo: "",
     genre_id: 13,
     country_id: 2,
     count_rating: 34,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5019,14 +4648,16 @@ const data = [
     rating: "8.0",
     years: "2021",
     durations: "148 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 84,
     promo: "",
-    genre_id: 14,
-    country_id: 6,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 189,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5036,14 +4667,16 @@ const data = [
     rating: "8.0",
     years: "2012",
     durations: "131 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 20,
     promo: "",
     genre_id: 1,
     country_id: 20,
     count_rating: 441,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5053,14 +4686,16 @@ const data = [
     rating: "7.2",
     years: "2017",
     durations: "133 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 110,
     promo: "",
-    genre_id: 14,
-    country_id: 15,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 958,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5070,14 +4705,16 @@ const data = [
     rating: "7.8",
     years: "2015",
     durations: "120 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и п��реносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 18,
     promo: "",
-    genre_id: 3,
-    country_id: 14,
+    genre_id: 2,
+    country_id: 2,
     count_rating: 548,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5087,14 +4724,16 @@ const data = [
     rating: "7.9",
     years: "2014",
     durations: "144 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 135,
     promo: "",
-    genre_id: 10,
-    country_id: 9,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 217,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5104,14 +4743,16 @@ const data = [
     rating: "7.2",
     years: "2021",
     durations: "50 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 87,
     promo: "",
-    genre_id: 11,
-    country_id: 12,
+    genre_id: 17,
+    country_id: 1,
     count_rating: 262,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5121,14 +4762,16 @@ const data = [
     rating: "8.1",
     years: "2005",
     durations: "140 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 3,
     promo: "",
-    genre_id: 10,
-    country_id: 22,
+    genre_id: 7,
+    country_id: 2,
     count_rating: 761,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5138,14 +4781,16 @@ const data = [
     rating: "7.6",
     years: "2003–2012",
     durations: "6 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых повор��тов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 130,
     promo: "",
-    genre_id: 8,
-    country_id: 15,
+    genre_id: 3,
+    country_id: 1,
     count_rating: 322,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5155,14 +4800,16 @@ const data = [
     rating: "6.7",
     years: "2017",
     durations: "129 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 193,
     promo: "",
-    genre_id: 2,
-    country_id: 4,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 478,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5172,14 +4819,16 @@ const data = [
     rating: "7.6",
     years: "2016",
     durations: "123 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 144,
     promo: "",
-    genre_id: 18,
-    country_id: 12,
+    genre_id: 7,
+    country_id: 2,
     count_rating: 908,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5189,14 +4838,16 @@ const data = [
     rating: "8.7",
     years: "1972",
     durations: "175 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 133,
     promo: "",
-    genre_id: 6,
-    country_id: 20,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 917,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5206,14 +4857,16 @@ const data = [
     rating: "7.9",
     years: "2009",
     durations: "96 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захваты��ающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 60,
     promo: "",
-    genre_id: 14,
-    country_id: 20,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 226,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5223,14 +4876,16 @@ const data = [
     rating: "7.8",
     years: "2006",
     durations: "136 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 123,
     promo: "",
-    genre_id: 21,
+    genre_id: 6,
     country_id: 7,
     count_rating: 862,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5240,14 +4895,16 @@ const data = [
     rating: "7.4",
     years: "2008",
     durations: "92 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 17,
     promo: "",
     genre_id: 13,
     country_id: 16,
     count_rating: 488,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5257,31 +4914,35 @@ const data = [
     rating: "7.6",
     years: "2004",
     durations: "131 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 30,
     promo: "",
     genre_id: 15,
-    country_id: 14,
+    country_id: 2,
     count_rating: 870,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
       "avatars.mds.yandex.net/get-kinopoisk-image/1898899/c48824e7-89fc-4d6f-a55a-57a8fa05d38c/72x108",
-    name: "Дневник ��амяти",
+    name: "Дневник Памяти",
     original_name: "The Notebook",
     rating: "8.2",
     years: "2004",
     durations: "124 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые г��убокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 64,
     promo: "",
     genre_id: 4,
     country_id: 5,
     count_rating: 616,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5291,14 +4952,16 @@ const data = [
     rating: "8.4",
     years: "1980",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 10,
     promo: "",
-    genre_id: 17,
-    country_id: 4,
+    genre_id: 6,
+    country_id: 3,
     count_rating: 44,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5308,14 +4971,16 @@ const data = [
     rating: "6.7",
     years: "2011",
     durations: "119 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 80,
     promo: "",
-    genre_id: 1,
-    country_id: 22,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 703,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5325,14 +4990,16 @@ const data = [
     rating: "6.5",
     years: "2019",
     durations: "123 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 94,
     promo: "",
-    genre_id: 15,
-    country_id: 12,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 319,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5342,14 +5009,16 @@ const data = [
     rating: "7.8",
     years: "2004",
     durations: "93 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 152,
     promo: "",
-    genre_id: 13,
-    country_id: 9,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 545,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5359,14 +5028,16 @@ const data = [
     rating: "8.3",
     years: "2000",
     durations: "143 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 130,
     promo: "",
     genre_id: 7,
-    country_id: 1,
+    country_id: 4,
     count_rating: 27,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5376,14 +5047,16 @@ const data = [
     rating: "7.9",
     years: "1998",
     durations: "86 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 170,
     promo: "",
-    genre_id: 3,
-    country_id: 13,
+    genre_id: 6,
+    country_id: 4,
     count_rating: 658,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5393,14 +5066,16 @@ const data = [
     rating: "8.2",
     years: "1988",
     durations: "133 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 125,
     promo: "",
     genre_id: 11,
     country_id: 16,
     count_rating: 155,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5410,31 +5085,35 @@ const data = [
     rating: "7.4",
     years: "2022–...",
     durations: "26 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 5,
     promo: "",
     genre_id: 11,
     country_id: 1,
     count_rating: 197,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
       "avatars.mds.yandex.net/get-kinopoisk-image/1946459/770e2754-f886-4012-852d-63580984a310/72x108",
-    name: "Ш��стое чувство",
+    name: "Шестое чувство",
     original_name: "The Sixth Sense",
     rating: "8.2",
     years: "1999",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 31,
     promo: "",
     genre_id: 15,
     country_id: 2,
     count_rating: 190,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5444,14 +5123,16 @@ const data = [
     rating: "7.6",
     years: "2007",
     durations: "143 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 29,
     promo: "",
-    genre_id: 10,
-    country_id: 18,
+    genre_id: 7,
+    country_id: 2,
     count_rating: 583,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5461,14 +5142,16 @@ const data = [
     rating: "7.3",
     years: "2019",
     durations: "128 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 177,
     promo: "",
-    genre_id: 16,
-    country_id: 18,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 74,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5478,14 +5161,16 @@ const data = [
     rating: "6.9",
     years: "2009",
     durations: "158 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 190,
     promo: "",
-    genre_id: 3,
-    country_id: 22,
+    genre_id: 1,
+    country_id: 1,
     count_rating: 335,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5495,14 +5180,16 @@ const data = [
     rating: "7.9",
     years: "2005",
     durations: "140 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 91,
     promo: "",
-    genre_id: 13,
-    country_id: 18,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 130,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5512,14 +5199,16 @@ const data = [
     rating: "6.7",
     years: "2008",
     durations: "122 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 154,
     promo: "",
-    genre_id: 8,
-    country_id: 17,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 905,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5529,14 +5218,16 @@ const data = [
     rating: "7.5",
     years: "2017",
     durations: "133 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 7,
     promo: "",
-    genre_id: 16,
-    country_id: 7,
+    genre_id: 10,
+    country_id: 1,
     count_rating: 347,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5546,14 +5237,16 @@ const data = [
     rating: "8.3",
     years: "1998",
     durations: "119 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 74,
     promo: "",
-    genre_id: 10,
-    country_id: 11,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 823,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5563,14 +5256,16 @@ const data = [
     rating: "8.1",
     years: "2001",
     durations: "116 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 90,
     promo: "",
-    genre_id: 10,
-    country_id: 4,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 713,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5580,14 +5275,16 @@ const data = [
     rating: "7.1",
     years: "2010",
     durations: "108 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 73,
     promo: "",
-    genre_id: 11,
-    country_id: 17,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 654,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5597,14 +5294,16 @@ const data = [
     rating: "8.0",
     years: "2000",
     durations: "102 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - ��мешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 79,
     promo: "",
-    genre_id: 19,
-    country_id: 18,
+    genre_id: 13,
+    country_id: 5,
     count_rating: 225,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5614,14 +5313,16 @@ const data = [
     rating: "6.9",
     years: "2021",
     durations: "111 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 49,
     promo: "",
-    genre_id: 14,
-    country_id: 8,
+    genre_id: 15,
+    country_id: 1,
     count_rating: 230,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5631,14 +5332,16 @@ const data = [
     rating: "7.9",
     years: "1999",
     durations: "136 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 72,
     promo: "",
-    genre_id: 20,
-    country_id: 5,
+    genre_id: 7,
+    country_id: 2,
     count_rating: 777,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5648,14 +5351,16 @@ const data = [
     rating: "6.3",
     years: "2021",
     durations: "134 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 53,
     promo: "",
-    genre_id: 3,
-    country_id: 21,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 178,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5665,14 +5370,16 @@ const data = [
     rating: "8.2",
     years: "1990",
     durations: "118 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, бо��ьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 160,
     promo: "",
-    genre_id: 18,
-    country_id: 21,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 542,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5682,14 +5389,16 @@ const data = [
     rating: "7.3",
     years: "2022",
     durations: "113 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 124,
     promo: "",
-    genre_id: 11,
-    country_id: 6,
+    genre_id: 15,
+    country_id: 1,
     count_rating: 340,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5699,14 +5408,16 @@ const data = [
     rating: "8.1",
     years: "2004–2010",
     durations: "43 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 51,
     promo: "",
-    genre_id: 5,
-    country_id: 19,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 409,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5716,14 +5427,16 @@ const data = [
     rating: "7.3",
     years: "2010",
     durations: "115 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 128,
     promo: "",
-    genre_id: 13,
-    country_id: 3,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 629,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5733,14 +5446,16 @@ const data = [
     rating: "8.0",
     years: "2010",
     durations: "118 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 28,
     promo: "",
     genre_id: 16,
-    country_id: 1,
+    country_id: 5,
     count_rating: 248,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5750,14 +5465,16 @@ const data = [
     rating: "7.6",
     years: "2015",
     durations: "121 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 143,
     promo: "",
     genre_id: 21,
     country_id: 6,
     count_rating: 476,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5767,14 +5484,16 @@ const data = [
     rating: "7.6",
     years: "2017",
     durations: "137 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 121,
     promo: "",
-    genre_id: 11,
-    country_id: 19,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 661,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5784,14 +5503,16 @@ const data = [
     rating: "8.5",
     years: "2002",
     durations: "149 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 75,
     promo: "",
     genre_id: 15,
     country_id: 13,
     count_rating: 506,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5801,14 +5522,16 @@ const data = [
     rating: "6.9",
     years: "2018",
     durations: "102 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в с��ой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 71,
     promo: "",
-    genre_id: 10,
+    genre_id: 21,
     country_id: 1,
     count_rating: 306,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5818,14 +5541,16 @@ const data = [
     rating: "8.7",
     years: "2004–2008",
     durations: "22 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 45,
     promo: "",
     genre_id: 15,
     country_id: 16,
     count_rating: 282,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5835,14 +5560,16 @@ const data = [
     rating: "8.7",
     years: "2014–...",
     durations: "60 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 176,
     promo: "",
-    genre_id: 20,
-    country_id: 9,
+    genre_id: 8,
+    country_id: 2,
     count_rating: 120,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5852,14 +5579,16 @@ const data = [
     rating: "8.4",
     years: "1988",
     durations: "136 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 97,
     promo: "",
-    genre_id: 19,
+    genre_id: 4,
     country_id: 6,
     count_rating: 986,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5869,14 +5598,16 @@ const data = [
     rating: "8.1",
     years: "1998",
     durations: "178 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов соб��тий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 116,
     promo: "",
     genre_id: 10,
     country_id: 9,
     count_rating: 918,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5886,14 +5617,16 @@ const data = [
     rating: "7.6",
     years: "2016",
     durations: "116 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 197,
     promo: "",
     genre_id: 4,
-    country_id: 1,
+    country_id: 3,
     count_rating: 250,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5903,14 +5636,16 @@ const data = [
     rating: "7.1",
     years: "2019",
     durations: "100 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 66,
     promo: "",
     genre_id: 14,
     country_id: 14,
     count_rating: 115,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5920,14 +5655,16 @@ const data = [
     rating: "7.3",
     years: "2014",
     durations: "136 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 49,
     promo: "",
-    genre_id: 13,
-    country_id: 19,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 468,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5937,14 +5674,16 @@ const data = [
     rating: "7.5",
     years: "2020–...",
     durations: "51 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 167,
     promo: "",
     genre_id: 19,
     country_id: 11,
     count_rating: 547,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5954,14 +5693,16 @@ const data = [
     rating: "7.8",
     years: "2008",
     durations: "104 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 24,
     promo: "",
     genre_id: 5,
     country_id: 8,
     count_rating: 672,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5971,14 +5712,16 @@ const data = [
     rating: "7.2",
     years: "2013",
     durations: "108 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 185,
     promo: "",
-    genre_id: 10,
-    country_id: 21,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 177,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -5988,14 +5731,16 @@ const data = [
     rating: "6.5",
     years: "2017",
     durations: "97 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 10,
     promo: "",
-    genre_id: 8,
-    country_id: 17,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 140,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6005,14 +5750,16 @@ const data = [
     rating: "6.6",
     years: "2016",
     durations: "129 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 99,
     promo: "",
     genre_id: 13,
     country_id: 6,
     count_rating: 927,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6022,14 +5769,16 @@ const data = [
     rating: "7.2",
     years: "2022",
     durations: "52 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 157,
     promo: "",
     genre_id: 17,
     country_id: 8,
     count_rating: 913,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6039,14 +5788,16 @@ const data = [
     rating: "7.7",
     years: "2015",
     durations: "113 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 132,
     promo: "",
     genre_id: 1,
     country_id: 15,
     count_rating: 43,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6056,14 +5807,16 @@ const data = [
     rating: "8.5",
     years: "1975",
     durations: "133 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 69,
     promo: "",
-    genre_id: 7,
-    country_id: 13,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 455,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6073,14 +5826,16 @@ const data = [
     rating: "7.1",
     years: "2009",
     durations: "117 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 91,
     promo: "",
     genre_id: 5,
     country_id: 19,
     count_rating: 468,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6090,14 +5845,16 @@ const data = [
     rating: "8.2",
     years: "2012–2016",
     durations: "25 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 61,
     promo: "",
-    genre_id: 11,
-    country_id: 21,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 735,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6107,14 +5864,16 @@ const data = [
     rating: "7.6",
     years: "2018",
     durations: "100 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 99,
     promo: "",
     genre_id: 14,
     country_id: 6,
     count_rating: 658,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6124,14 +5883,16 @@ const data = [
     rating: "7.2",
     years: "2011",
     durations: "104 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 4,
     promo: "",
     genre_id: 18,
     country_id: 19,
     count_rating: 469,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6141,14 +5902,16 @@ const data = [
     rating: "8.0",
     years: "2001",
     durations: "122 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 2,
     promo: "",
     genre_id: 4,
-    country_id: 3,
+    country_id: 2,
     count_rating: 957,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6158,14 +5921,16 @@ const data = [
     rating: "7.4",
     years: "2019",
     durations: "103 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 8,
     promo: "",
-    genre_id: 15,
-    country_id: 19,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 253,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6175,14 +5940,16 @@ const data = [
     rating: "7.2",
     years: "2005",
     durations: "111 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 166,
     promo: "",
     genre_id: 13,
-    country_id: 21,
+    country_id: 1,
     count_rating: 725,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6192,14 +5959,16 @@ const data = [
     rating: "8.2",
     years: "1989–1990",
     durations: "22 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 60,
     promo: "",
-    genre_id: 15,
+    genre_id: 3,
     country_id: 2,
     count_rating: 607,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6209,14 +5978,16 @@ const data = [
     rating: "7.7",
     years: "2010",
     durations: "103 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, ф��льм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 53,
     promo: "",
     genre_id: 11,
     country_id: 4,
     count_rating: 386,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6226,14 +5997,16 @@ const data = [
     rating: "6.9",
     years: "2012",
     durations: "131 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 139,
     promo: "",
-    genre_id: 5,
-    country_id: 10,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 157,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6243,14 +6016,16 @@ const data = [
     rating: "7.8",
     years: "2020",
     durations: "131 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 114,
     promo: "",
-    genre_id: 10,
-    country_id: 16,
+    genre_id: 1,
+    country_id: 1,
     count_rating: 215,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6260,14 +6035,16 @@ const data = [
     rating: "7.1",
     years: "2007",
     durations: "139 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 93,
     promo: "",
-    genre_id: 3,
-    country_id: 15,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 514,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6277,14 +6054,16 @@ const data = [
     rating: "7.4",
     years: "2009",
     durations: "84 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в серд��ах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 77,
     promo: "",
     genre_id: 18,
     country_id: 10,
     count_rating: 384,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6294,14 +6073,16 @@ const data = [
     rating: "7.9",
     years: "2003",
     durations: "101 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 198,
     promo: "",
-    genre_id: 17,
-    country_id: 10,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 804,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6311,14 +6092,16 @@ const data = [
     rating: "6.7",
     years: "2013",
     durations: "119 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 161,
     promo: "",
-    genre_id: 6,
-    country_id: 13,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 622,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6328,14 +6111,16 @@ const data = [
     rating: "7.5",
     years: "2005",
     durations: "120 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 37,
     promo: "",
-    genre_id: 3,
-    country_id: 16,
+    genre_id: 5,
+    country_id: 2,
     count_rating: 961,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6345,14 +6130,16 @@ const data = [
     rating: "7.2",
     years: "2013",
     durations: "110 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается ��ахватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 38,
     promo: "",
     genre_id: 19,
     country_id: 16,
     count_rating: 312,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6362,14 +6149,16 @@ const data = [
     rating: "7.0",
     years: "2017",
     durations: "117 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 124,
     promo: "",
-    genre_id: 10,
-    country_id: 3,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 740,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6379,14 +6168,16 @@ const data = [
     rating: "6.8",
     years: "2014",
     durations: "113 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 78,
     promo: "",
     genre_id: 5,
-    country_id: 17,
+    country_id: 2,
     count_rating: 700,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6396,14 +6187,16 @@ const data = [
     rating: "6.9",
     years: "2017",
     durations: "114 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 75,
     promo: "",
-    genre_id: 11,
-    country_id: 9,
+    genre_id: 8,
+    country_id: 2,
     count_rating: 331,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6413,14 +6206,16 @@ const data = [
     rating: "6.5",
     years: "2019",
     durations: "93 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переп��етаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 127,
     promo: "",
     genre_id: 6,
     country_id: 4,
     count_rating: 572,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6430,14 +6225,16 @@ const data = [
     rating: "7.7",
     years: "2022",
     durations: "45 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 15,
     promo: "",
-    genre_id: 8,
-    country_id: 15,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 493,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6447,14 +6244,16 @@ const data = [
     rating: "7.1",
     years: "2017",
     durations: "122 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 29,
     promo: "",
     genre_id: 5,
-    country_id: 7,
+    country_id: 2,
     count_rating: 469,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6464,14 +6263,16 @@ const data = [
     rating: "8.1",
     years: "1977",
     durations: "121 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 185,
     promo: "",
-    genre_id: 19,
-    country_id: 5,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 863,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6481,14 +6282,16 @@ const data = [
     rating: "8.9",
     years: "1979",
     durations: "60 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 73,
     promo: "",
-    genre_id: 9,
-    country_id: 22,
+    genre_id: 1,
+    country_id: 6,
     count_rating: 738,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6498,14 +6301,16 @@ const data = [
     rating: "8.3",
     years: "1991",
     durations: "84 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 46,
     promo: "",
-    genre_id: 15,
-    country_id: 11,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 910,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6515,14 +6320,16 @@ const data = [
     rating: "7.0",
     years: "2012",
     durations: "124 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 52,
     promo: "",
-    genre_id: 3,
-    country_id: 13,
+    genre_id: 14,
+    country_id: 2,
     count_rating: 965,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6532,14 +6339,16 @@ const data = [
     rating: "8.0",
     years: "2004",
     durations: "163 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реал��ность.",
     director_id: 23,
     promo: "",
-    genre_id: 12,
-    country_id: 15,
+    genre_id: 14,
+    country_id: 2,
     count_rating: 252,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6549,14 +6358,16 @@ const data = [
     rating: "7.9",
     years: "2011",
     durations: "128 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 113,
     promo: "",
-    genre_id: 12,
-    country_id: 9,
+    genre_id: 8,
+    country_id: 2,
     count_rating: 378,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6566,14 +6377,16 @@ const data = [
     rating: "7.1",
     years: "2015",
     durations: "117 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 60,
     promo: "",
-    genre_id: 1,
-    country_id: 3,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 535,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6583,14 +6396,16 @@ const data = [
     rating: "7.8",
     years: "2007",
     durations: "122 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 155,
     promo: "",
-    genre_id: 17,
-    country_id: 13,
+    genre_id: 19,
+    country_id: 2,
     count_rating: 83,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6600,14 +6415,16 @@ const data = [
     rating: "7.8",
     years: "1999",
     durations: "124 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии в��е может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 56,
     promo: "",
-    genre_id: 5,
-    country_id: 11,
+    genre_id: 17,
+    country_id: 2,
     count_rating: 696,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6617,14 +6434,16 @@ const data = [
     rating: "7.7",
     years: "2010",
     durations: "120 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 31,
     promo: "",
     genre_id: 19,
     country_id: 21,
     count_rating: 716,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6634,14 +6453,16 @@ const data = [
     rating: "7.8",
     years: "2008",
     durations: "91 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 113,
     promo: "",
-    genre_id: 1,
-    country_id: 8,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 333,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6651,14 +6472,16 @@ const data = [
     rating: "7.6",
     years: "2013",
     durations: "93 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 43,
     promo: "",
     genre_id: 12,
     country_id: 22,
     count_rating: 819,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6668,14 +6491,16 @@ const data = [
     rating: "8.0",
     years: "2016",
     durations: "48 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 89,
     promo: "",
-    genre_id: 5,
-    country_id: 17,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 42,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6685,14 +6510,16 @@ const data = [
     rating: "8.5",
     years: "2011–...",
     durations: "43 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 72,
     promo: "",
     genre_id: 14,
     country_id: 6,
     count_rating: 382,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6702,14 +6529,16 @@ const data = [
     rating: "6.9",
     years: "2019",
     durations: "130 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 26,
     promo: "",
-    genre_id: 3,
-    country_id: 19,
+    genre_id: 5,
+    country_id: 2,
     count_rating: 479,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6719,14 +6548,16 @@ const data = [
     rating: "7.3",
     years: "2004",
     durations: "127 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 75,
     promo: "",
-    genre_id: 16,
-    country_id: 18,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 121,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6736,31 +6567,16 @@ const data = [
     rating: "7.8",
     years: "2010",
     durations: "95 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 36,
     promo: "",
-    genre_id: 13,
-    country_id: 22,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 564,
     ageLimit: 6,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1704946/60add1e1-d3ae-4e5c-af67-4fdabadb40ac/72x108",
-    name: "Аладдин",
-    original_name: "Aladdin",
-    rating: "8.2",
-    years: "1992",
-    durations: "90 мин",
-    description: "",
-    director_id: 147,
-    promo: "",
-    genre_id: 11,
-    country_id: 7,
-    count_rating: 189,
-    ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6770,14 +6586,16 @@ const data = [
     rating: "6.7",
     years: "2018",
     durations: "134 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 200,
     promo: "",
-    genre_id: 21,
-    country_id: 2,
+    genre_id: 4,
+    country_id: 5,
     count_rating: 983,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6787,14 +6605,16 @@ const data = [
     rating: "8.1",
     years: "2015–2021",
     durations: "53 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 191,
     promo: "",
-    genre_id: 5,
-    country_id: 16,
+    genre_id: 8,
+    country_id: 1,
     count_rating: 129,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6804,14 +6624,16 @@ const data = [
     rating: "7.3",
     years: "2010–...",
     durations: "6 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 176,
     promo: "",
     genre_id: 3,
-    country_id: 2,
+    country_id: 1,
     count_rating: 330,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6821,14 +6643,16 @@ const data = [
     rating: "7.7",
     years: "2007",
     durations: "124 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он з��тягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 174,
     promo: "",
-    genre_id: 16,
+    genre_id: 5,
     country_id: 2,
     count_rating: 883,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6838,14 +6662,16 @@ const data = [
     rating: "8.0",
     years: "1988",
     durations: "133 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 153,
     promo: "",
-    genre_id: 7,
+    genre_id: 5,
     country_id: 2,
     count_rating: 196,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6855,14 +6681,16 @@ const data = [
     rating: "8.0",
     years: "2001",
     durations: "116 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 128,
     promo: "",
-    genre_id: 3,
+    genre_id: 5,
     country_id: 7,
     count_rating: 980,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6872,14 +6700,16 @@ const data = [
     rating: "7.4",
     years: "2022",
     durations: "49 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 2,
     promo: "",
     genre_id: 17,
     country_id: 7,
     count_rating: 308,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6889,14 +6719,16 @@ const data = [
     rating: "8.5",
     years: "1959",
     durations: "119 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в се��е мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 95,
     promo: "",
-    genre_id: 4,
-    country_id: 21,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 294,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6906,14 +6738,16 @@ const data = [
     rating: "7.6",
     years: "2018",
     durations: "85 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 109,
     promo: "",
-    genre_id: 13,
-    country_id: 21,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 949,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6923,14 +6757,16 @@ const data = [
     rating: "8.2",
     years: "2015",
     durations: "116 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 120,
     promo: "",
-    genre_id: 6,
-    country_id: 4,
+    genre_id: 1,
+    country_id: 5,
     count_rating: 370,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6940,14 +6776,16 @@ const data = [
     rating: "8.1",
     years: "2009–2011",
     durations: "43 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 132,
     promo: "",
     genre_id: 14,
     country_id: 17,
     count_rating: 583,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6957,14 +6795,16 @@ const data = [
     rating: "7.2",
     years: "2016",
     durations: "115 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 46,
     promo: "",
     genre_id: 5,
     country_id: 4,
     count_rating: 916,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6974,14 +6814,16 @@ const data = [
     rating: "6.8",
     years: "2010",
     durations: "93 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 106,
     promo: "",
-    genre_id: 19,
-    country_id: 5,
+    genre_id: 5,
+    country_id: 2,
     count_rating: 182,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -6991,14 +6833,16 @@ const data = [
     rating: "8.2",
     years: "1990",
     durations: "127 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 70,
     promo: "",
-    genre_id: 3,
+    genre_id: 17,
     country_id: 15,
     count_rating: 482,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7008,14 +6852,16 @@ const data = [
     rating: "8.0",
     years: "2016",
     durations: "128 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надеж��а и отчаяние, мечта и реальность.",
     director_id: 11,
     promo: "",
-    genre_id: 8,
+    genre_id: 18,
     country_id: 5,
     count_rating: 165,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7025,14 +6871,16 @@ const data = [
     rating: "8.0",
     years: "1984",
     durations: "108 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне в��ликолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 158,
     promo: "",
-    genre_id: 16,
-    country_id: 7,
+    genre_id: 5,
+    country_id: 2,
     count_rating: 729,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7042,14 +6890,16 @@ const data = [
     rating: "8.0",
     years: "2005",
     durations: "110 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 25,
     promo: "",
     genre_id: 1,
     country_id: 22,
     count_rating: 757,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7059,14 +6909,16 @@ const data = [
     rating: "8.0",
     years: "2014",
     durations: "105 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 142,
     promo: "",
     genre_id: 14,
     country_id: 13,
     count_rating: 668,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7076,14 +6928,16 @@ const data = [
     rating: "7.2",
     years: "2017",
     durations: "126 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом п��тешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 171,
     promo: "",
-    genre_id: 9,
-    country_id: 12,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 716,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7093,14 +6947,16 @@ const data = [
     rating: "7.9",
     years: "2002",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватываю��ая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 2,
     promo: "",
-    genre_id: 3,
+    genre_id: 4,
     country_id: 12,
     count_rating: 341,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7110,14 +6966,16 @@ const data = [
     rating: "6.9",
     years: "2019",
     durations: "95 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 13,
     promo: "",
     genre_id: 15,
     country_id: 14,
     count_rating: 515,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7127,14 +6985,16 @@ const data = [
     rating: "7.8",
     years: "2012",
     durations: "127 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 59,
     promo: "",
     genre_id: 12,
     country_id: 19,
     count_rating: 875,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7144,14 +7004,16 @@ const data = [
     rating: "7.8",
     years: "2010",
     durations: "93 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 148,
     promo: "",
-    genre_id: 19,
+    genre_id: 21,
     country_id: 1,
     count_rating: 338,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7161,14 +7023,16 @@ const data = [
     rating: "8.1",
     years: "2008",
     durations: "116 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 112,
     promo: "",
     genre_id: 18,
     country_id: 13,
     count_rating: 76,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7178,14 +7042,16 @@ const data = [
     rating: "7.5",
     years: "2013",
     durations: "146 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 29,
     promo: "",
-    genre_id: 12,
-    country_id: 5,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 440,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7195,14 +7061,16 @@ const data = [
     rating: "6.8",
     years: "2018",
     durations: "90 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 81,
     promo: "",
-    genre_id: 11,
-    country_id: 13,
+    genre_id: 17,
+    country_id: 2,
     count_rating: 219,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7212,14 +7080,16 @@ const data = [
     rating: "7.0",
     years: "2017",
     durations: "118 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую ре��льность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 87,
     promo: "",
-    genre_id: 4,
-    country_id: 22,
+    genre_id: 5,
+    country_id: 2,
     count_rating: 57,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7229,14 +7099,16 @@ const data = [
     rating: "8.2",
     years: "2008",
     durations: "94 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 67,
     promo: "",
     genre_id: 13,
     country_id: 17,
     count_rating: 824,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7246,14 +7118,16 @@ const data = [
     rating: "8.3",
     years: "1995",
     durations: "178 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 10,
     promo: "",
-    genre_id: 5,
-    country_id: 18,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 270,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7263,14 +7137,16 @@ const data = [
     rating: "7.7",
     years: "2011",
     durations: "158 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 151,
     promo: "",
     genre_id: 1,
     country_id: 17,
     count_rating: 415,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7280,14 +7156,16 @@ const data = [
     rating: "8.2",
     years: "2013–2020",
     durations: "45 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную эн��ргию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 119,
     promo: "",
-    genre_id: 1,
+    genre_id: 14,
     country_id: 8,
     count_rating: 322,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7297,14 +7175,16 @@ const data = [
     rating: "8.1",
     years: "1980",
     durations: "124 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 195,
     promo: "",
-    genre_id: 3,
-    country_id: 3,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 546,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7314,14 +7194,16 @@ const data = [
     rating: "7.7",
     years: "2012",
     durations: "172 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 105,
     promo: "",
-    genre_id: 18,
-    country_id: 22,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 298,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7331,14 +7213,16 @@ const data = [
     rating: "7.0",
     years: "2017",
     durations: "141 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 136,
     promo: "",
-    genre_id: 3,
-    country_id: 5,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 732,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7348,14 +7232,16 @@ const data = [
     rating: "7.7",
     years: "2014",
     durations: "131 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 143,
     promo: "",
-    genre_id: 13,
-    country_id: 18,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 103,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7365,14 +7251,16 @@ const data = [
     rating: "6.8",
     years: "2021",
     durations: "127 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 137,
     promo: "",
     genre_id: 5,
     country_id: 8,
     count_rating: 574,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7382,14 +7270,16 @@ const data = [
     rating: "6.7",
     years: "2012",
     durations: "106 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 81,
     promo: "",
     genre_id: 6,
     country_id: 17,
     count_rating: 301,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7399,14 +7289,16 @@ const data = [
     rating: "8.2",
     years: "1998",
     durations: "169 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 84,
     promo: "",
-    genre_id: 8,
-    country_id: 19,
+    genre_id: 14,
+    country_id: 2,
     count_rating: 691,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7416,14 +7308,16 @@ const data = [
     rating: "8.1",
     years: "1979",
     durations: "116 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые г��убокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 124,
     promo: "",
-    genre_id: 10,
-    country_id: 17,
+    genre_id: 17,
+    country_id: 2,
     count_rating: 325,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7432,15 +7326,17 @@ const data = [
     original_name: "Three Thousand Years of Longing",
     rating: "7.2",
     years: "2022",
-    durations: "108 ��ин",
-    description: "",
+    durations: "108 мин",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 19,
     promo: "",
     genre_id: 6,
     country_id: 5,
     count_rating: 88,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7450,14 +7346,16 @@ const data = [
     rating: "6.9",
     years: "2012",
     durations: "132 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 58,
     promo: "",
-    genre_id: 6,
+    genre_id: 15,
     country_id: 2,
     count_rating: 644,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7467,14 +7365,16 @@ const data = [
     rating: "7.1",
     years: "2020",
     durations: "121 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 158,
     promo: "",
-    genre_id: 11,
-    country_id: 17,
+    genre_id: 6,
+    country_id: 1,
     count_rating: 386,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7484,14 +7384,16 @@ const data = [
     rating: "7.8",
     years: "2009",
     durations: "112 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 58,
     promo: "",
-    genre_id: 18,
+    genre_id: 1,
     country_id: 20,
     count_rating: 137,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7501,14 +7403,16 @@ const data = [
     rating: "7.3",
     years: "2018",
     durations: "90 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 154,
     promo: "",
-    genre_id: 18,
-    country_id: 1,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 971,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7518,14 +7422,16 @@ const data = [
     rating: "7.7",
     years: "2013",
     durations: "114 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 52,
     promo: "",
-    genre_id: 3,
+    genre_id: 1,
     country_id: 7,
     count_rating: 451,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7535,14 +7441,16 @@ const data = [
     rating: "7.9",
     years: "1999",
     durations: "105 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 114,
     promo: "",
     genre_id: 10,
     country_id: 16,
     count_rating: 535,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7552,14 +7460,16 @@ const data = [
     rating: "7.8",
     years: "1998",
     durations: "117 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и ре��льность.",
     director_id: 97,
     promo: "",
     genre_id: 4,
     country_id: 4,
     count_rating: 511,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7569,14 +7479,16 @@ const data = [
     rating: "8.2",
     years: "2004–2012",
     durations: "43 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 103,
     promo: "",
-    genre_id: 17,
-    country_id: 21,
+    genre_id: 6,
+    country_id: 2,
     count_rating: 326,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7586,14 +7498,16 @@ const data = [
     rating: "7.4",
     years: "2021",
     durations: "120 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 24,
     promo: "",
     genre_id: 9,
     country_id: 18,
     count_rating: 26,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7603,14 +7517,16 @@ const data = [
     rating: "8.0",
     years: "2002",
     durations: "142 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 166,
     promo: "",
-    genre_id: 7,
-    country_id: 18,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 420,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7620,14 +7536,16 @@ const data = [
     rating: "8.3",
     years: "2014–2015",
     durations: "40 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно ��ледите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 133,
     promo: "",
     genre_id: 12,
     country_id: 15,
     count_rating: 738,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7637,14 +7555,16 @@ const data = [
     rating: "8.0",
     years: "2014",
     durations: "105 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 155,
     promo: "",
-    genre_id: 20,
+    genre_id: 3,
     country_id: 2,
     count_rating: 755,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7654,14 +7574,16 @@ const data = [
     rating: "7.8",
     years: "2008",
     durations: "114 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 91,
     promo: "",
     genre_id: 4,
     country_id: 22,
     count_rating: 833,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7671,14 +7593,16 @@ const data = [
     rating: "7.3",
     years: "2020",
     durations: "90 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 38,
     promo: "",
     genre_id: 8,
     country_id: 9,
     count_rating: 996,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7688,31 +7612,16 @@ const data = [
     rating: "8.4",
     years: "1992",
     durations: "156 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваю��ся страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 182,
     promo: "",
     genre_id: 14,
     country_id: 4,
     count_rating: 729,
     ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1599028/543dce27-3a14-4d8b-9d85-3a1b80ec7368/72x108",
-    name: "Король Лев",
-    original_name: "The Lion King",
-    rating: "7.2",
-    years: "2019",
-    durations: "118 мин",
-    description: "",
-    director_id: 42,
-    promo: "",
-    genre_id: 11,
-    country_id: 17,
-    count_rating: 830,
-    ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7722,14 +7631,16 @@ const data = [
     rating: "6.2",
     years: "2015",
     durations: "91 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 52,
     promo: "",
-    genre_id: 4,
-    country_id: 12,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 614,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7739,14 +7650,16 @@ const data = [
     rating: "6.5",
     years: "2022",
     durations: "147 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 8,
     promo: "",
     genre_id: 16,
     country_id: 13,
     count_rating: 608,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7756,14 +7669,16 @@ const data = [
     rating: "8.2",
     years: "2009",
     durations: "129 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 53,
     promo: "",
     genre_id: 17,
     country_id: 15,
     count_rating: 31,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7773,14 +7688,16 @@ const data = [
     rating: "8.0",
     years: "2017",
     durations: "101 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой ви��рь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 155,
     promo: "",
     genre_id: 11,
     country_id: 16,
     count_rating: 707,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7790,14 +7707,16 @@ const data = [
     rating: "8.1",
     years: "1998",
     durations: "84 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 71,
     promo: "",
-    genre_id: 20,
+    genre_id: 3,
     country_id: 2,
     count_rating: 979,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7807,14 +7726,16 @@ const data = [
     rating: "7.7",
     years: "2003",
     durations: "111 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 120,
     promo: "",
-    genre_id: 8,
-    country_id: 7,
+    genre_id: 5,
+    country_id: 2,
     count_rating: 84,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7824,14 +7745,16 @@ const data = [
     rating: "8.0",
     years: "2005",
     durations: "129 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 30,
     promo: "",
     genre_id: 14,
-    country_id: 1,
+    country_id: 2,
     count_rating: 569,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7841,14 +7764,16 @@ const data = [
     rating: "7.7",
     years: "2009",
     durations: "162 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 22,
     promo: "",
     genre_id: 11,
     country_id: 9,
     count_rating: 360,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7858,14 +7783,16 @@ const data = [
     rating: "7.4",
     years: "2014",
     durations: "134 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 162,
     promo: "",
     genre_id: 11,
     country_id: 2,
     count_rating: 914,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7875,14 +7802,16 @@ const data = [
     rating: "8.4",
     years: "1989–...",
     durations: "22 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 40,
     promo: "",
-    genre_id: 11,
-    country_id: 10,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 44,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7892,14 +7821,16 @@ const data = [
     rating: "8.2",
     years: "2019",
     durations: "30 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 124,
     promo: "",
     genre_id: 12,
     country_id: 9,
     count_rating: 420,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7909,31 +7840,16 @@ const data = [
     rating: "7.8",
     years: "2007",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 140,
     promo: "",
-    genre_id: 10,
-    country_id: 1,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 236,
     ageLimit: 18,
-    description_EN: "",
-  },
-  {
-    avatars:
-      "avatars.mds.yandex.net/get-kinopoisk-image/1629390/1b0f5c2c-17b3-498c-8561-ba7296bf643e/72x108",
-    name: "Время",
-    original_name: "Old",
-    rating: "6.4",
-    years: "2021",
-    durations: "108 мин",
-    description: "",
-    director_id: 1,
-    promo: "",
-    genre_id: 8,
-    country_id: 8,
-    count_rating: 513,
-    ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7943,14 +7859,16 @@ const data = [
     rating: "7.8",
     years: "2001",
     durations: "106 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 194,
     promo: "",
-    genre_id: 6,
-    country_id: 1,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 166,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7960,14 +7878,16 @@ const data = [
     rating: "6.9",
     years: "2016",
     durations: "87 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 73,
     promo: "",
-    genre_id: 9,
+    genre_id: 3,
     country_id: 2,
     count_rating: 538,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7977,14 +7897,16 @@ const data = [
     rating: "7.6",
     years: "2019",
     durations: "151 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 68,
     promo: "",
     genre_id: 20,
     country_id: 8,
     count_rating: 940,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -7994,14 +7916,16 @@ const data = [
     rating: "7.8",
     years: "2013",
     durations: "133 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 97,
     promo: "",
     genre_id: 10,
     country_id: 12,
     count_rating: 514,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8011,14 +7935,16 @@ const data = [
     rating: "6.9",
     years: "2018",
     durations: "97 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путе��ествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 190,
     promo: "",
-    genre_id: 20,
-    country_id: 10,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 815,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8028,14 +7954,16 @@ const data = [
     rating: "8.2",
     years: "1983",
     durations: "131 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 15,
     promo: "",
-    genre_id: 1,
-    country_id: 21,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 279,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8045,14 +7973,16 @@ const data = [
     rating: "7.4",
     years: "2015",
     durations: "130 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 144,
     promo: "",
     genre_id: 14,
     country_id: 21,
     count_rating: 189,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8062,14 +7992,16 @@ const data = [
     rating: "6.1",
     years: "2015",
     durations: "106 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 142,
     promo: "",
     genre_id: 6,
     country_id: 2,
     count_rating: 785,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8079,14 +8011,16 @@ const data = [
     rating: "7.0",
     years: "2013",
     durations: "131 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 81,
     promo: "",
     genre_id: 9,
     country_id: 12,
     count_rating: 803,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8096,14 +8030,16 @@ const data = [
     rating: "7.2",
     years: "2017",
     durations: "113 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 71,
     promo: "",
-    genre_id: 18,
+    genre_id: 6,
     country_id: 4,
     count_rating: 176,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8113,14 +8049,16 @@ const data = [
     rating: "8.2",
     years: "1999–...",
     durations: "22 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 192,
     promo: "",
-    genre_id: 1,
-    country_id: 12,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 883,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8130,14 +8068,16 @@ const data = [
     rating: "7.8",
     years: "2005",
     durations: "117 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 113,
     promo: "",
     genre_id: 6,
     country_id: 15,
     count_rating: 741,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8148,14 +8088,16 @@ const data = [
     rating: "7.3",
     years: "2005",
     durations: "143 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 151,
     promo: "",
-    genre_id: 13,
-    country_id: 17,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 775,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8165,14 +8107,16 @@ const data = [
     rating: "7.1",
     years: "2015",
     durations: "138 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 8,
     promo: "",
-    genre_id: 2,
-    country_id: 1,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 601,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8182,14 +8126,16 @@ const data = [
     rating: "7.1",
     years: "2022",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 54,
     promo: "",
     genre_id: 2,
     country_id: 22,
     count_rating: 804,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8199,14 +8145,16 @@ const data = [
     rating: "7.9",
     years: "2009",
     durations: "138 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 198,
     promo: "",
     genre_id: 1,
     country_id: 20,
     count_rating: 165,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8216,14 +8164,16 @@ const data = [
     rating: "8.2",
     years: "2015–...",
     durations: "20 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 77,
     promo: "",
-    genre_id: 13,
-    country_id: 3,
+    genre_id: 3,
+    country_id: 4,
     count_rating: 134,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8233,14 +8183,16 @@ const data = [
     rating: "8.1",
     years: "1991",
     durations: "100 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 158,
     promo: "",
     genre_id: 20,
     country_id: 19,
     count_rating: 669,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8250,14 +8202,16 @@ const data = [
     rating: "7.2",
     years: "2012",
     durations: "106 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 107,
     promo: "",
     genre_id: 4,
-    country_id: 16,
+    country_id: 2,
     count_rating: 680,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8267,14 +8221,16 @@ const data = [
     rating: "8.7",
     years: "2001–2010",
     durations: "22 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 44,
     promo: "",
     genre_id: 16,
     country_id: 9,
     count_rating: 695,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8284,14 +8240,16 @@ const data = [
     rating: "8.3",
     years: "2021",
     durations: "110 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, котор��я оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 75,
     promo: "",
-    genre_id: 20,
-    country_id: 8,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 738,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8301,14 +8259,16 @@ const data = [
     rating: "7.4",
     years: "2018",
     durations: "112 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 107,
     promo: "",
-    genre_id: 1,
-    country_id: 13,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 756,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8318,14 +8278,16 @@ const data = [
     rating: "7.6",
     years: "2016",
     durations: "115 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 21,
     promo: "",
-    genre_id: 18,
-    country_id: 1,
+    genre_id: 10,
+    country_id: 2,
     count_rating: 233,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8335,14 +8297,16 @@ const data = [
     rating: "7.1",
     years: "1999–...",
     durations: "22 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 111,
     promo: "",
-    genre_id: 13,
-    country_id: 11,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 422,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8352,14 +8316,16 @@ const data = [
     rating: "7.7",
     years: "2012",
     durations: "91 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 68,
     promo: "",
-    genre_id: 21,
+    genre_id: 3,
     country_id: 2,
     count_rating: 346,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8369,14 +8335,16 @@ const data = [
     rating: "7.4",
     years: "2009",
     durations: "107 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 29,
     promo: "",
-    genre_id: 17,
-    country_id: 20,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 157,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8386,14 +8354,16 @@ const data = [
     rating: "7.8",
     years: "2016",
     durations: "106 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 143,
     promo: "",
     genre_id: 20,
     country_id: 16,
     count_rating: 462,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8403,14 +8373,16 @@ const data = [
     rating: "7.0",
     years: "2018",
     durations: "118 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 21,
     promo: "",
-    genre_id: 13,
-    country_id: 17,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 106,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8420,14 +8392,16 @@ const data = [
     rating: "6.9",
     years: "2015",
     durations: "125 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 126,
     promo: "",
     genre_id: 14,
-    country_id: 18,
+    country_id: 4,
     count_rating: 608,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8437,14 +8411,16 @@ const data = [
     rating: "8.1",
     years: "2004",
     durations: "132 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 174,
     promo: "",
     genre_id: 20,
     country_id: 10,
     count_rating: 865,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8454,14 +8430,16 @@ const data = [
     rating: "6.3",
     years: "2019",
     durations: "137 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 13,
     promo: "",
-    genre_id: 6,
+    genre_id: 15,
     country_id: 2,
     count_rating: 280,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8471,14 +8449,16 @@ const data = [
     rating: "7.7",
     years: "2019",
     durations: "104 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 43,
     promo: "",
-    genre_id: 6,
-    country_id: 6,
+    genre_id: 3,
+    country_id: 2,
     count_rating: 503,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8488,14 +8468,16 @@ const data = [
     rating: "7.8",
     years: "2021–...",
     durations: "48 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 37,
     promo: "",
     genre_id: 9,
     country_id: 4,
     count_rating: 65,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8505,14 +8487,16 @@ const data = [
     rating: "8.4",
     years: "2005–2017",
     durations: "43 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 23,
     promo: "",
-    genre_id: 15,
-    country_id: 18,
+    genre_id: 2,
+    country_id: 2,
     count_rating: 681,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8522,14 +8506,16 @@ const data = [
     rating: "7.7",
     years: "2003",
     durations: "138 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может ��роизойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 133,
     promo: "",
-    genre_id: 13,
-    country_id: 20,
+    genre_id: 15,
+    country_id: 2,
     count_rating: 863,
     ageLimit: 18,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8539,14 +8525,16 @@ const data = [
     rating: "7.7",
     years: "2011",
     durations: "131 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 32,
     promo: "",
-    genre_id: 17,
-    country_id: 14,
+    genre_id: 4,
+    country_id: 2,
     count_rating: 759,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8556,14 +8544,16 @@ const data = [
     rating: "7.5",
     years: "2013",
     durations: "90 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 73,
     promo: "",
     genre_id: 18,
     country_id: 12,
     count_rating: 14,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8573,14 +8563,16 @@ const data = [
     rating: "4.3",
     years: "2020",
     durations: "110 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 169,
     promo: "",
-    genre_id: 10,
+    genre_id: 6,
     country_id: 8,
     count_rating: 692,
     ageLimit: 6,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8590,14 +8582,16 @@ const data = [
     rating: "7.7",
     years: "2008",
     durations: "120 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 182,
     promo: "",
-    genre_id: 4,
-    country_id: 9,
+    genre_id: 1,
+    country_id: 2,
     count_rating: 125,
     ageLimit: 12,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
   {
     avatars:
@@ -8607,29 +8601,18 @@ const data = [
     rating: "7.9",
     years: "1999",
     durations: "95 мин",
-    description: "",
+    description:
+      "В мире, где судьбы переплетаются и эмоции охватывают самые глубокие уголки души, разворачивается захватывающая история, которая оставляет след в сердцах зрителей. На фоне великолепных пейзажей и непредсказуемых поворотов событий, фильм воплощает в себе мощную энергию и волнующую драматическую интригу. Он затягивает нас в свой вихрь и переносит в новую реальность, где сталкиваются страсть и предательство, любовь и смерть, борьба и искупление. Внимательно следите за каждым шагом, ведь в этом эпическом путешествии все может произойти - смешаться смех и слезы, надежда и отчаяние, мечта и реальность.",
     director_id: 61,
     promo: "",
-    genre_id: 20,
-    country_id: 21,
+    genre_id: 1,
+    country_id: 1,
     count_rating: 223,
     ageLimit: 16,
-    description_EN: "",
+    description_EN:
+      "In a world where destinies are intertwined and emotions reach the deepest corners of the soul, an exciting story unfolds that leaves a mark on the hearts of the audience. Set against the backdrop of magnificent scenery and unpredictable turns of events, the film embodies powerful energy and exciting dramatic intrigue. He pulls us into his whirlwind and takes us to a new reality, where passion and betrayal, love and death, struggle and redemption collide. Pay close attention to every step, because in this epic journey, everything can happen - laughter and tears, hope and despair, dream and reality mix.",
   },
 ];
-function addDirectorId(films) {
-  const ageLimits = [6, 12, 16, 18];
-  films.forEach((film) => {
-    delete film.durations_EN;
-    film.count_rating = Math.floor(Math.random() * 1000) + 1;
-    film.ageLimit = ageLimits[Math.floor(Math.random() * ageLimits.length)];
-    film.director_id = Math.floor(Math.random() * 200) + 1;
-    film.description_EN = "";
-  });
 
-  return films;
-}
-
-const data2 = addDirectorId(data);
-const json = JSON.stringify(data2);
-console.log(json);
+const json = JSON.stringify(data);
+console.log(data);
